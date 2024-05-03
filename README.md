@@ -7,6 +7,8 @@ This guide only covers performance mods that are deemed "necessary", so duplicat
 
 Heavily inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods/blob/main/README.md) and [Minecraft-Performance-Flags-Benchmarks](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks)
 
+## Mods
+
 | Minecraft Version |
 |:---:|
 | [1.20.1](mods-n-stuff/1.20.1.md) |
@@ -15,3 +17,5 @@ Heavily inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods/bl
 | [1.16.5](mods-n-stuff/1.16.5.md) |
 | [1.12.2](mods-n-stuff/1.12.2.md) |
 | [1.7.10](mods-n-stuff/1.7.10.md) |
+
+## Java and JVM arguments
