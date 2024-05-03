@@ -18,4 +18,4 @@ Heavily inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods/bl
 | [1.12.2](mods-n-stuff/1.12.2.md) |
 | [1.7.10](mods-n-stuff/1.7.10.md) |
 
-## Java and JVM arguments
+## [Java and JVM arguments](mods-n-stuff/Java-things.md)
