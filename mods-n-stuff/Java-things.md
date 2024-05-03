@@ -37,3 +37,13 @@
 | GraalVM Java 21 | Best raw performance, shortest loading times |
 | Adoptium Java 21 | Generational ZGC support, greatly reduces stutters |
 | Adoptium Java 8 | Best mod compatibility |
+
+# JVM Argumenst
+
+From my experience, JVM arguments don't do much (if anything). The only JVM args I'd recommend are these:
+
+``
+-XX:+UseZGC -XX:+ZGenerational
+``
+
+They're for **Java 21 or newer** and they enable Generational ZGC. The only exception is GraalVM, which doesn't support it yet.
