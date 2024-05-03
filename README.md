@@ -5,7 +5,7 @@ The end-all, be-all optimization guide for various Minecraft versions.
 **NOTE:**
 This guide only covers performance mods that are deemed "necessary", so duplicate mods that do the same thing (eg. Rubidium and Embeddium, Radon and Starlight, etc.) won't be included.
 
-It also takes a fairly minimalist approach. This means that while there may be a way to squeeze a couple fps more with additional mods, the mods listed here should be more than enough for smooth and lag-free gameplay.
+It also takes a fairly minimalist approach. This means that while there may be a way to squeeze out a couple fps more with additional mods, the mods listed here should be more than enough for smooth and lag-free gameplay.
 
 Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods/blob/main/README.md) and various Reddit threads
 ## Mods
