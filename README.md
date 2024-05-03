@@ -7,8 +7,7 @@ This guide only covers performance mods that are deemed "necessary", so duplicat
 
 It also takes a fairly minimalist approach. This means that while there may be a way to squeeze a couple fps more with additional mods, the mods listed here should be more than enough for smooth and lag-free gameplay.
 
-Heavily inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods/blob/main/README.md) and [Minecraft-Performance-Flags-Benchmarks](https://github.com/Mukul1127/Minecraft-Performance-Flags-Benchmarks)
-
+Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods/blob/main/README.md) and various Reddit threads
 ## Mods
 
 | Minecraft Version |
