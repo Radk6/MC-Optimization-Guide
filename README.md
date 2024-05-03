@@ -9,9 +9,9 @@ Heavily inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods/bl
 
 | Minecraft Version |
 |:---:|
-| 1.20.1 |
-| 1.19.2 |
-| 1.18.2 |
-| 1.16.5 |
-| 1.12.2 |
-| 1.7.10 |
+| [1.20.1](mods-n-stuff/1.20.1.md) |
+| [1.19.2](mods-n-stuff/1.19.2.md) |
+| [1.18.2](mods-n-stuff/1.18.2.md) |
+| [1.16.5](mods-n-stuff/1.16.5.md) |
+| [1.12.2](mods-n-stuff/1.12.2.md) |
+| [1.7.10](mods-n-stuff/1.7.10.md) |
