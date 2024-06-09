@@ -40,10 +40,8 @@
 
 # JVM Argumenst
 
-From my experience, JVM arguments don't do much (if anything). The only JVM args I'd recommend are these:
+If you're on **Java 21 or newer** and have plenty of RAM, I'd recommend these args:
 
 ``
 -XX:+UseZGC -XX:+ZGenerational
 ``
-
-They're for **Java 21 or newer** and they enable Generational ZGC. The only exception is GraalVM, which doesn't support it yet.
