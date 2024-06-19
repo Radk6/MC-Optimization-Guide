@@ -19,9 +19,10 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods/blob/main/
 | [1.12.2](mods-n-stuff/1.12.2.md) |
 | [1.7.10](mods-n-stuff/1.7.10.md) |
 
-| Client/Server |
+| Indicator | Explanation |
 |:---:|:---:|
 | Client | Install if you're playing on singleplayer or multiplayer, redundant server-side |
 | Server | Install if you're playing a singleplayer world OR on a server you're setting up |
 | Both | Performance improvements apply to both client-side and server-side |
+
 ## [Java and JVM arguments](mods-n-stuff/Java-things.md)
