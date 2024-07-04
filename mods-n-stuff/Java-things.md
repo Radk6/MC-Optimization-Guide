@@ -1,4 +1,4 @@
-# This section covers Java and JVM arguments for each of the supported versions.
+# This section covers Java versions and JVM arguments for each of the supported versions of Minecraft.
 
 ## 1.18.2+
 
@@ -38,7 +38,7 @@
 | [Adoptium Java 21](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=21) | Generational ZGC support, greatly reduces stutters |
 | [Adoptium Java 8](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=8) | Best mod compatibility |
 
-# JVM Argumenst
+# JVM Arguments
 
 If you're on **Java 21 or newer** and have plenty of RAM, I'd recommend these args:
 
