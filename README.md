@@ -26,3 +26,5 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 | Both | Performance improvements apply to both client-side and server-side |
 
 ## [Java and JVM arguments](mods-n-stuff/Java-things.md)
+
+## [Note on OptiFine](why-no-optifine.md)
