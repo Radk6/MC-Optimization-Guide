@@ -22,7 +22,7 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 | Indicator | Explanation |
 |:---:|:---:|
 | Client | Install if you're playing on singleplayer or multiplayer, redundant server-side |
-| Server | Install if you're playing a singleplayer world OR on a server you're setting up |
+| Server | Install if you're playing on a singleplayer world OR on a server you're setting up |
 | Both | Performance improvements apply to both client-side and server-side |
 
 ## [Java and JVM arguments](mods-n-stuff/Java-things.md)
