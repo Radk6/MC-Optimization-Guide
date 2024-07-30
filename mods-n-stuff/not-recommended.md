@@ -11,6 +11,7 @@
 | FastWorkbench | 1.12.2 | Redundant with UniversalTweaks |
 | FoamFix | 1.12.2 | Redundant with VintageFix |
 | Hesperus | 1.12.2 | Redundant with Alfheim Lighting Engine |
+| Neodymium | 1.7.10 | Incompatible with Angelica |
 | OptiFine | All, except 1.12.2 | [Various reasons](why-no-optifine.md)
 | Performant | 1.12.2, 1.16.5 | Compatibility issues, incompatible with RoadRunner |
 | Phosphor | 1.12.2 | Redundant with Alfheim Lighting Engine |
