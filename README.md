@@ -30,7 +30,9 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 ## FAQ
 
 Q: Why isn't `mod x` on any of the lists?
+
 A: A list of mods that aren't recommended (and why) can be found here
 
 Q: Why isn't `version x.y.z` supported?
+
 A: I only maintain lists for Minecraft versions that still see active mod development.
