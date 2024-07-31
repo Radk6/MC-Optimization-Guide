@@ -12,6 +12,7 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 
 | Minecraft Version |
 |:---:|
+| [1.21](mods-n-stuff/1.21.md) |
 | [1.20.1](mods-n-stuff/1.20.1.md) |
 | [1.19.2](mods-n-stuff/1.19.2.md) |
 | [1.18.2](mods-n-stuff/1.18.2.md) |
