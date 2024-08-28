@@ -37,3 +37,7 @@ A: A list of mods that aren't recommended (and why) can be found [here](mods-n-s
 Q: Why isn't `version x.y.z` supported?
 
 A: I only maintain lists for Minecraft versions that still see active mod development.
+
+Q: Will these work on PojavLauncher?
+
+A: Maybe, maybe not. Try it and see. Pojav compatibility isn't a priority since most players are on PC.
