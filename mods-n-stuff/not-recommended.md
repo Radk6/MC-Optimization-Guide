@@ -21,3 +21,4 @@
 | Sulfuric | 1.16.5 | Redundant with Starlight |
 | TexFix | 1.12.2 | Redundant with CensoredASM |
 | VanillaFix | 1.12.2 | Redundant with CensoredASM |
+| VulkanMod | 1.18.2 - 1.21.1 | Compatibility issues, bugs |
