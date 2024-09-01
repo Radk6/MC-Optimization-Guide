@@ -40,7 +40,7 @@
 
 # JVM Arguments
 
-If you're on **Java 21 or newer** and have plenty of RAM, I'd recommend these args:
+If you're on **Java 21 or newer** (and your PC has at least 16GB of RAM), I'd recommend these args:
 
 ``
 -XX:+UseZGC -XX:+ZGenerational
