@@ -1,4 +1,4 @@
-# This section covers Java versions and JVM arguments for each of the supported versions of Minecraft.
+# This section covers Java versions for each of the supported versions of Minecraft.
 
 ## 1.18.2+
 
@@ -38,10 +38,11 @@
 | [Adoptium Java 21](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=21) | Generational ZGC support, greatly reduces stutters |
 | [Adoptium Java 8](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=8) | Best mod compatibility |
 
-# JVM Arguments
+# Additional notes
 
-If you're on **Java 21 or newer** (and your PC has at least 16GB of RAM), I'd recommend these args:
+If you're on a version which supports Java 21 and your PC has at least 16 GB of RAM, I'd recommend Adoptium JDK 21 with these args:
 
 ``
 -XX:+UseZGC -XX:+ZGenerational
 ``
+If you are on a lower-end device and/or you have a total of 8 GB of RAM or less, stick to GraalVM without any JVM args.
