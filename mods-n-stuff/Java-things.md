@@ -45,4 +45,5 @@ If you're on a version which supports Java 21 and your PC has at least 16 GB of 
 ``
 -XX:+UseZGC -XX:+ZGenerational
 ``
+
 If you are on a lower-end device and/or you have a total of 8 GB of RAM or less, stick to GraalVM without any JVM args.
