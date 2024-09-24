@@ -5,3 +5,4 @@ Keep in mind that most of these optimizations weren't thoroughly tested, the onl
 | Minecraft version |
 |:---:|
 | [1.16.5](1.16.5.md) |
+| [1.12.2](1.12.2.md) |
