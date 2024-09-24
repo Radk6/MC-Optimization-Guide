@@ -9,7 +9,7 @@
 
 ## 1.16.5
 
-**NOTE:** 1.16.5 can run with Java versions newer than 8, however not all mods can. If you encounter issues when running modded 1.16.5 with Java 17+, try [this](https://github.com/embeddedt/ModernFix/wiki/1.16---required-arguments-for-Java-17), if it doesn't work, switch to Java 8.
+**NOTE:** 1.16.5 can run with Java versions newer than 8, however not all mods can. Make sure to follow [this](https://github.com/embeddedt/ModernFix/wiki/1.16---required-arguments-for-Java-17), but if it doesn't work, switch to Java 8.
 
 | Java | Notes |
 |:---:|:---:|
