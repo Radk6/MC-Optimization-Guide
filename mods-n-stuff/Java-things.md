@@ -20,7 +20,7 @@
 
 ## 1.12.2
 
-**NOTE:** Running 1.12.2 with Java 21 is only possible with [Cleanroom Loader](https://github.com/CleanroomMC/Cleanroom). If a mod doesn't work with it, switch to Forge and Java 8.
+**NOTE:** Running 1.12.2 with Java 21 is only possible with [Cleanroom Loader](https://github.com/CleanroomMC/Cleanroom). If you find a mod that doesn't work with it, report it to [their issue tracker](https://github.com/CleanroomMC/Cleanroom/issues) and use Forge with Java 8 until the issue is resolved.
 
 | Java | Notes |
 |:---:|:---:|
