@@ -28,6 +28,8 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 
 ## [Java stuff](mods-n-stuff/Java-things.md)
 
+## [Modpack-specific optimizations](modpack-specific/modpack-instructions.md)
+
 ## FAQ
 
 Q: Why isn't `mod x` on any of the lists?
