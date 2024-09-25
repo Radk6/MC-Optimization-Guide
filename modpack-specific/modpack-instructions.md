@@ -6,3 +6,4 @@ Only some modpacks will be covered here. Keep in mind that most of these optimiz
 |:---:|
 | [1.16.5](1.16.5.md) |
 | [1.12.2](1.12.2.md) |
+| [1.7.10](1.7.10.md) |
