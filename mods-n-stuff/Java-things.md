@@ -5,7 +5,7 @@
 | Java | Notes |
 |:---:|:---:|
 | [GraalVM Java 21](https://www.graalvm.org/downloads/) | Best raw performance, shortest loading times |
-| [Adoptium Java 21](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=21) | Generational ZGC support, greatly reduces stutters at the cost of a higher RAM requirement |
+| [Adoptium Java 21](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=21) | Generational ZGC support, greatly reduces stutters but requires more RAM |
 
 ## 1.16.5
 
@@ -14,7 +14,7 @@
 | Java | Notes |
 |:---:|:---:|
 | [GraalVM Java 21](https://www.graalvm.org/downloads/) | Best raw performance, shortest loading times |
-| [Adoptium Java 21](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=21) | Generational ZGC support, greatly reduces stutters at the cost of a higher RAM requirement |
+| [Adoptium Java 21](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=21) | Generational ZGC support, greatly reduces stutters but requires more RAM |
 | [Adoptium Java 17](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=17) | Better performance compared to Java 8 |
 | [Adoptium Java 8](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=8) | Best mod compatibility |
 
@@ -25,7 +25,7 @@
 | Java | Notes |
 |:---:|:---:|
 | [GraalVM Java 21](https://www.graalvm.org/downloads/) | Best raw performance, shortest loading times |
-| [Adoptium Java 21](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=21) | Generational ZGC support, greatly reduces stutters at the cost of a higher RAM requirement |
+| [Adoptium Java 21](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=21) | Generational ZGC support, greatly reduces stutters but requires more RAM |
 | [Adoptium Java 8](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=8) | Best mod compatibility |
 
 ## 1.7.10
@@ -35,7 +35,7 @@
 | Java | Notes |
 |:---:|:---:|
 | [GraalVM Java 21](https://www.graalvm.org/downloads/) | Best raw performance, shortest loading times |
-| [Adoptium Java 21](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=21) | Generational ZGC support, greatly reduces stutters at the cost of a higher RAM requirement |
+| [Adoptium Java 21](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=21) | Generational ZGC support, greatly reduces stutters but requires more RAM |
 | [Adoptium Java 8](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=8) | Best mod compatibility |
 
 # Additional notes
