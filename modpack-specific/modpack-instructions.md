@@ -11,7 +11,7 @@ Only some modpacks will be covered here. Keep in mind that most of these optimiz
 # Some rough before and after fps results
 
 ## SkyFactory 2.5 
-(GamingOnCaffeine world, OptiFine added to the "original" version)
+(GamingOnCaffeine's world, OptiFine added to the "original" version)
 
 Before:
 
@@ -21,8 +21,19 @@ After:
 
 ![2024-09-25_15 43 09](https://github.com/user-attachments/assets/26fcab0c-a2b4-4d15-91dc-7f9475386a81)
 
+## SkyFactory 4
+(Kyuuari's world, OptiFine added to the "original" version)
+
+Before:
+
+![2024-09-25_16 55 28](https://github.com/user-attachments/assets/f24ea82d-d1ac-4c04-815c-5983ddcca14d)
+
+After: 
+
+![2024-09-25_16 51 08](https://github.com/user-attachments/assets/00580fd1-e8b1-4099-8014-fcb34555a8c8)
+
 ## Create Above & Beyond
-(RagePlaysGames world)
+(RagePlaysGames' world)
 
 Before:
 
