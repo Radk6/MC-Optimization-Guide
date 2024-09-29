@@ -4,6 +4,7 @@ In an ideal world, the modpacks mentioned here would be forked or updated with t
 
 | Minecraft version |
 |:---:|
+| [1.18.2](1.18.2.md) |
 | [1.16.5](1.16.5.md) |
 | [1.12.2](1.12.2.md) |
 | [1.7.10](1.7.10.md) |
