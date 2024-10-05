@@ -16,4 +16,4 @@ Test system specs:
 
 ![Game loading time (mm_ss, lower is better)](https://github.com/user-attachments/assets/b7cd6907-1862-4d20-af79-aaa410c4bb56)
 
-GraalVM was the fastest here. Adoptium and Zulu are essentially the same across all GCs, they're pretty much withing margin of error of eachother.
+GraalVM was the fastest here. Adoptium and Zulu are essentially the same across all GCs, they're withing margin of error of eachother.
