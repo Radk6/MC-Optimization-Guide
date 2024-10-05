@@ -26,7 +26,7 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 | Server | Install if you're playing on a singleplayer world OR on a server you're setting up |
 | Both | Performance improvements apply to both client-side and server-side |
 
-## [Java stuff](mods-n-stuff/Java-things.md)
+## [Java stuff](java-n-stuff/java-things.md)
 
 ## [Modpack-specific optimizations](modpack-specific/modpack-instructions.md)
 
