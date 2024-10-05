@@ -1,5 +1,7 @@
 # This section covers Java versions for each of the supported versions of Minecraft.
 
+[Some benchmarks for those interested](java-benchmarks.md)
+
 ## 1.18.2+
 
 | Java | Notes |
