@@ -32,7 +32,7 @@
 
 ## 1.7.10
 
-**NOTE:** Running 1.7.10 with Java 21 is only possible with [LWJGL3ify](https://modrinth.com/mod/lwjgl3ify). If a mod doesn't work with it, switch to Java 8.
+**NOTE:** Running 1.7.10 with Java 21 is only possible with [LWJGL3ify](https://modrinth.com/mod/lwjgl3ify).
 
 | Java | Notes |
 |:---:|:---:|
