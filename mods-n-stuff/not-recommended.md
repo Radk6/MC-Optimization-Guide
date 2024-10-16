@@ -7,6 +7,7 @@
 | C2ME | 1.20.1, 1.21.1 | Still in alpha, may cause issues |
 | Canary | 1.19.2, 1.20.1 | Compatibility issues, bugs |
 | CoFH Tweaks | 1.7.10 | Redundant with ArchaicFix |
+| EBE Backforged | 1.16.5 | Not compatible with ModernFix' Dynamic Resources |
 | FalseTweaks | 1.7.10 | Incompatible with Angelica |
 | FastCraft | 1.7.10 | Incompatible with Angelica |
 | FastWorkbench | 1.12.2 | Redundant with UniversalTweaks |
