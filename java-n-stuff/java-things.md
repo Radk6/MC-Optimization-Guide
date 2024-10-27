@@ -38,7 +38,7 @@
 
 # Additional notes
 
-If you're on a version which supports Java 21 and your PC has at least 16 GB of RAM, I'd recommend Adoptium JDK 21 with these args:
+If you're on a version which supports Java 21 (or newer) and your PC has at least 16 GB of RAM, I'd recommend Adoptium JDK 21 with these args:
 
 ``
 -XX:+UseZGC -XX:+ZGenerational
