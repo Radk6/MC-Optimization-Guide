@@ -1,5 +1,7 @@
 # Java benchmarks
 
+TL;DR: If you want the most fps and shortest loading times, use GraalVM 21+ with G1GC. If you want less lag spikes, use GraalVM 24 with Generational ZGC
+
 Here are benchmarks of 3 of the most popular JREs for Minecraft: GraalVM, Adoptium and Azul.
 
 Each test was conducted in the same instance of StaTech Industry with 8 GB of RAM allocated, at 1440p with render distance set to 32 and latest Fabric Loader (0.16.8)
@@ -23,3 +25,7 @@ As you can see, GraalVM with G1GC is fastest here. GraalVM with Generational ZGC
 ![fps](https://github.com/user-attachments/assets/88ce06e0-0a11-408d-9da6-9d2161d27c18)
 
 This chart shows max fps. GraalVM comes out on top, regardless whether G1GC or Generational ZGC is used. Adoptium and Azul are within margin of error with G1GC, followed by Azul with Generational ZGC. Adoptium with Generational ZGC seems to work much worse than all of the others.
+
+## Additional notes:
+
+While not included in the tests, GraalVM 21 should have similar if not identical results to GraalVM 24 with G1GC, so if you're on a version which doesn't support Java 24 and want the highest fps, you can use that instead.
