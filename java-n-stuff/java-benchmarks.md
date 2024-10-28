@@ -1,8 +1,8 @@
-# Java benchmarks (w.i.p)
+# Java benchmarks
 
-Here are benchmarks of 3 of the most popular JREs for Minecraft: GraalVM, Adoptium and Zulu.
+Here are benchmarks of 3 of the most popular JREs for Minecraft: GraalVM, Adoptium and Azul.
 
-Each test was conducted on the same install of All The Mods 9, with 12288 MiB of RAM allocated. Before testing, the modpack was launched once. Loading times were taken from ModernFix' loading timer feature.
+Each test was conducted in the same instance of StaTech Industry with 8 GB of RAM allocated, at 1440p with render distance set to 32 and latest Fabric Loader (0.16.8)
 
 Test system specs:
 
@@ -14,6 +14,12 @@ Test system specs:
 
 ## Game loading times:
 
-![Game loading time (mm_ss, lower is better)](https://github.com/user-attachments/assets/b7cd6907-1862-4d20-af79-aaa410c4bb56)
+![time](https://github.com/user-attachments/assets/81bff5ec-e734-4352-a77b-4edff52ded83)
 
-GraalVM was the fastest here. Adoptium and Zulu are essentially the same across all GCs, they're withing margin of error of eachother.
+As you can see, GraalVM with G1GC is fastest here. GraalVM with Generational ZGC is equal to Azul and Adoptium with G1, and both Azul and Adoptium are pretty much the same with Generational ZGC.
+
+## FPS
+
+![fps](https://github.com/user-attachments/assets/88ce06e0-0a11-408d-9da6-9d2161d27c18)
+
+This chart shows max fps. GraalVM comes out on top, regardless whether G1GC or Generational ZGC is used. Adoptium and Azul are within margin of error with G1GC, followed by Azul with Generational ZGC. Adoptium with Generational ZGC seems to work much worse than all of the others.
