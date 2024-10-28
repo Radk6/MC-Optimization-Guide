@@ -1,6 +1,6 @@
 # Java benchmarks
 
-TL;DR: If you want the most fps and shortest loading times, use GraalVM 21+ with G1GC. If you want less lag spikes, use GraalVM 24 with Generational ZGC
+TL;DR: If you want the most fps and shortest loading times, use GraalVM 21 (or newer) with G1GC. If you want less lag spikes/stutters as well, use GraalVM 24 with Generational ZGC
 
 Here are benchmarks of 3 of the most popular JREs for Minecraft: GraalVM, Adoptium and Azul.
 
