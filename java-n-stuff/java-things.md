@@ -2,7 +2,15 @@
 
 [Some benchmarks for those interested](java-benchmarks.md)
 
-## 1.18.2+
+## 1.20.1
+
+**NOTE:** This only works with Fabric 0.16.8 and Forge 47.3.12 (or newer)! Older versions as well as NeoForge WILL NOT WORK
+
+| Java | Notes |
+|:---:|:---:|
+| [GraalVM Java 24](https://github.com/graalvm/oracle-graalvm-ea-builds/releases) | Best performance and Generational ZGC support |
+
+## 1.18.2 - 1.19.2
 
 | Java | Notes |
 |:---:|:---:|
