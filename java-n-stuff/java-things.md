@@ -29,13 +29,12 @@
 
 ## 1.12.2
 
-**NOTE:** Running 1.12.2 with Java versions newer than 8 is only possible with [Cleanroom Loader](https://github.com/CleanroomMC/Cleanroom). If you find a mod that doesn't work with it, report it to [their issue tracker](https://github.com/CleanroomMC/Cleanroom/issues) and use Forge with Java 8 until the issue is resolved.
+**NOTE:** Running 1.12.2 with Java versions newer than 8 is only possible with [Cleanroom Loader](https://github.com/CleanroomMC/Cleanroom). If you find a mod that doesn't work with it, report it to [their issue tracker](https://github.com/CleanroomMC/Cleanroom/issues).
 
 | Java | Notes |
 |:---:|:---:|
 | [GraalVM Java 21](https://www.graalvm.org/downloads/) | Best raw performance, shortest loading times |
 | [Azul Java 21](https://www.azul.com/downloads/?version=java-21-lts&package=jre#zulu) | Generational ZGC support (greatly reduces stutters but requires more RAM) |
-| [Adoptium Java 8](https://adoptium.net/temurin/releases/?package=jre&arch=x64&version=8) | Best mod compatibility |
 
 ## 1.7.10
 
