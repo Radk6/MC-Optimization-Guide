@@ -9,37 +9,6 @@ In an ideal world, the modpacks mentioned here would be forked or updated with t
 | [1.12.2](1.12.2.md) |
 | [1.7.10](1.7.10.md) |
 
-# Some rough before and after fps results
+# ~~Some rough before and after fps results~~
 
-## SkyFactory 2.5 
-(GamingOnCaffeine's world, OptiFine added to the "original" version)
-
-Before:
-
-![2024-09-25_15 41 17](https://github.com/user-attachments/assets/c5728238-2b89-4817-886f-684e114b866d)
-
-After:
-
-![2024-09-25_15 43 09](https://github.com/user-attachments/assets/26fcab0c-a2b4-4d15-91dc-7f9475386a81)
-
-## SkyFactory 4
-(Kyuuari's world, OptiFine added to the "original" version)
-
-Before:
-
-![2024-09-25_16 55 28](https://github.com/user-attachments/assets/f24ea82d-d1ac-4c04-815c-5983ddcca14d)
-
-After: 
-
-![2024-09-25_16 51 08](https://github.com/user-attachments/assets/00580fd1-e8b1-4099-8014-fcb34555a8c8)
-
-## Create Above & Beyond
-(RagePlaysGames' world)
-
-Before:
-
-![2024-09-25_13 59 00](https://github.com/user-attachments/assets/a37d1fd9-7142-4049-b224-f8c70ef610c2)
-
-After:
-
-![2024-09-25_15 55 00](https://github.com/user-attachments/assets/76750737-64a3-4dfe-bba7-7a777c6cb3cf)
+Temporarily removed. Graphs showing memory usage, game loading times and fps for a few select modpacks will be added shortly
