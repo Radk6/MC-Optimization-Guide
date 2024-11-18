@@ -2,20 +2,11 @@
 
 [Some benchmarks for those interested](java-benchmarks.md)
 
-## 1.20.1
-
-**NOTE:** This only works with Fabric 0.16.8 and Forge 47.3.12 (or newer)! Older versions as well as NeoForge WILL NOT WORK
+## 1.18.2+
 
 | Java | Notes |
 |:---:|:---:|
 | [GraalVM Java 24](https://github.com/graalvm/oracle-graalvm-ea-builds/releases) | Best performance and Generational ZGC support |
-
-## 1.18.2 - 1.19.2
-
-| Java | Notes |
-|:---:|:---:|
-| [GraalVM Java 21](https://www.graalvm.org/downloads/) | Best raw performance, shortest loading times |
-| [Azul Java 21](https://www.azul.com/downloads/?version=java-21-lts&package=jre#zulu) | Generational ZGC support (greatly reduces stutters but requires more RAM) |
 
 ## 1.16.5
 
