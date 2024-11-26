@@ -20,11 +20,9 @@ Test system specs:
 
 As you can see, GraalVM with G1GC is fastest here. GraalVM with Generational ZGC is equal to Azul and Adoptium with G1, and both Azul and Adoptium are pretty much the same with Generational ZGC.
 
-## FPS
+~~## FPS~~
 
-![fps](https://github.com/user-attachments/assets/88ce06e0-0a11-408d-9da6-9d2161d27c18)
-
-This chart shows max fps. GraalVM comes out on top, regardless whether G1GC or Generational ZGC is used. Adoptium and Azul are within margin of error with G1GC, followed by Azul with Generational ZGC. Adoptium with Generational ZGC seems to work much worse than all of the others.
+Temporarily removed
 
 ## Additional notes:
 
