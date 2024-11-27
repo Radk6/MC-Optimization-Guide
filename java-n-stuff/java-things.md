@@ -43,6 +43,6 @@ If you're on a version which supports Java 21 (or newer) and your PC has at leas
 -XX:+UseZGC -XX:+ZGenerational
 ``
 
-If you're on Java 24 or above, you only need `` -XX:+UseZGC`` since non-Generational ZGC was removed, making the ``-XX:+ZGenerational`` argument redundant
+If you're on Java 24 or above, you only need ``-XX:+UseZGC`` since non-Generational ZGC was removed, making the ``-XX:+ZGenerational`` argument redundant
 
 If you are on a lower-end device and/or you have a total of 8 GB of RAM or less, stick to GraalVM without any JVM args.
