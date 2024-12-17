@@ -24,8 +24,7 @@
 
 | Java | Notes |
 |:---:|:---:|
-| [GraalVM Java 21](https://www.graalvm.org/downloads/) | Best raw performance, shortest loading times |
-| [Azul Java 21](https://www.azul.com/downloads/?version=java-21-lts&package=jre#zulu) | Generational ZGC support (greatly reduces stutters but requires more RAM) |
+| [GraalVM Java 24](https://github.com/graalvm/oracle-graalvm-ea-builds/releases) | Best performance and Generational ZGC support |
 
 ## 1.7.10
 
