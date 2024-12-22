@@ -8,7 +8,7 @@
 6. Update all mods to their latest versions
 7. Install [ModularUI 2](https://github.com/GTNewHorizons/ModularUI)
 8. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.7.10.md) installed
-9. Set the game to run with GraalVM Java 24
+9. Set the game to run with Java 21
 
 Known issues: None (yet?)
 
@@ -19,7 +19,7 @@ Known issues: None (yet?)
 3. Replace NotEnoughItems, LogisticsPipes, Chisel, Ender IO, Ender Core, ForgeMultipart, CodeChickenCore and CodeChickenLib with their Unofficial (GTNH) versions. Some of them are on CurseForge, but some can only be downloaded from GitHub.
 4. Install [ModularUI 2](https://github.com/GTNewHorizons/ModularUI)
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.7.10.md) installed
-6. Set the game to run with GraalVM Java 24
+6. Set the game to run with Java 21
 
 Known issues: None (yet?)
 
@@ -31,7 +31,7 @@ Note: You may need to replace a few other mods (Carpenters' Blocks? Tinkers' Con
 2. Remove CodeChickenLib, FastCraft and Mercurius
 3. Replace NotEnoughItems, Chisel, Wireless Redstone-CBE, Ender IO, Ender Core, ForgeMultipart and CodeChickenCore with their Unofficial (GTNH) versions. Some of them are on CurseForge, but some can only be downloaded from GitHub.
 4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.7.10.md) installed
-5. Set the game to run with GraalVM Java 24
+5. Set the game to run with Java 21
 
 Known issues: None (yet?)
 
