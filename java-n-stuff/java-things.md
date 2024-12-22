@@ -30,11 +30,10 @@
 
 **NOTE:** Running 1.7.10 with Java versions newer than 8 is only possible with [LWJGL3ify](https://modrinth.com/mod/lwjgl3ify).
 
-**NOTE 2:** GraalVM 24 build 24.1 doesn't work with 1.7.10. You must use build 23.1 
-
 | Java | Notes |
 |:---:|:---:|
-| [GraalVM Java 24](https://github.com/graalvm/oracle-graalvm-ea-builds/releases) | Best performance and Generational ZGC support |
+| [GraalVM Java 21](https://www.graalvm.org/downloads/) | Best raw performance, shortest loading times |
+| [Azul Java 21](https://www.azul.com/downloads/?version=java-21-lts&package=jre#zulu) | Generational ZGC support (greatly reduces stutters but requires more RAM) |
 
 # Additional notes
 
