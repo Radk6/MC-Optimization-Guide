@@ -4,8 +4,10 @@
 2. Update Forge to the latest version
 3. Update Embeddium, Just Enough Items, ModernFix and RoadRunner.
 4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed
-5. Enable `Background JEI Loading in ModernFix'` settings
+5. Enable `Background JEI Loading` in ModernFix' settings
 6. Set the Java version to 21 and add [these jvm arguments](https://github.com/embeddedt/ModernFix/wiki/1.16---required-arguments-for-Java-17)
+
+Known issues: None (yet?)
 
 ## Crazy Craft Updated
 
