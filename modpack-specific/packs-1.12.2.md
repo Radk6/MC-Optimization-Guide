@@ -8,6 +8,17 @@
 
 Known issues: None (yet?)
 
+## Divine Journey 2
+
+1. Install the latest version of Divine Journey 2
+2. Install the latest version of Cleanroom Loader and copy the contents of the Divine Journey 2 instance to it.
+3. Remove Bed Patch, ConfigAnytime, FermiumASM, FermiumBooter, Just Enough Items, MixinBooter, NotEnoughIDs, Quark, Shadowfacts' Forgelin and Spark
+4. Update Recurrent Complex, Universal Tweaks
+5. Install Fugue, Scalar (2.11.1-2), Forgelin-Continuous, Roughly Enough IDs, Quark: RotN Edition and Had Enough Items
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+
 ## Enigmatica 2 Expert Unofficial (E2Eu)
 
 1. Install the latest version of E2Eu
@@ -49,6 +60,8 @@ Known issues: None (yet?)
 4. Install Fugue and Scalar (2.11.1-2) 
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
+Known issues: None (yet?)
+
 ## Project Ozone 3
 
 1. Install the latest version of Project Ozone 3
@@ -78,6 +91,8 @@ Known issues: None (yet?)
 4. Install Fugue, Scalar (2.11.1-2), Had Enough Items, Forgelin-Continuous, JourneyMapStages Continuation and Roughly Enough IDs
 5. Update  Bookshelf, CraftTweaker, JourneyMap, Ore Stages, Random Patches and The Twilight Forest
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties, otherwise the game won't load)
+
+Known issues: None (yet?)
 
 ## SkyFactory 4
 
