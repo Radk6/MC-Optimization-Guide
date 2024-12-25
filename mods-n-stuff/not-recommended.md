@@ -4,7 +4,6 @@
 | AI Improvements | 1.12.2 | Redundant with UniversalTweaks |
 | BetterFPS | 1.7.10, 1.12.2 | Compatibility issues, questionable impact on performance |
 | Better FPS - Render Distance | 1.16.5 - 1.21.1 | Decreases fps on lower render distances, causes visual "bugs" |
-| C2ME | 1.20.1, 1.21.1 | Still in alpha, may cause issues |
 | Canary | 1.19.2, 1.20.1 | Compatibility issues, bugs |
 | CoFH Tweaks | 1.7.10 | Redundant with ArchaicFix |
 | EBE Backforged | 1.16.5 | Not compatible with ModernFix' Dynamic Resources |
