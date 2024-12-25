@@ -1,6 +1,8 @@
 # This section covers modpack-specific optimizations
 
-In an ideal world, the modpacks mentioned here would be forked or updated with these changes applied by default. However, most of them are ARR which prohibits doing so. Instead, I'm providing instructions on how to make them run better in as few steps as possible. Keep in mind that most of these optimizations weren't thoroughly tested, the only tests were to see if the game loads up and if it crashes after creating/joining a world or not. Feedback is welcome.
+In an ideal world, the modpacks mentioned here would be forked or updated with these changes applied by default. However, most of them are ARR which prohibits doing so. Instead, I'm providing instructions on how to make them run better in as few steps as possible. 
+
+Keep in mind that most of these optimizations weren't thoroughly tested, the only tests were done to see if the game loads up and if it crashes after creating/joining a world. If you encounter any issues, please report them.
 
 | Minecraft version |
 |:---:|
