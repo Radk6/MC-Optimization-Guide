@@ -10,6 +10,7 @@
 | EBE Backforged | 1.16.5 | Not compatible with ModernFix' Dynamic Resources |
 | FalseTweaks | 1.7.10 | Incompatible with Angelica |
 | FastCraft | 1.7.10 | Incompatible with Angelica |
+| FastFurnace | 1.12.2 | Redundant with CensoredASM |
 | FastWorkbench | 1.12.2 | Redundant with UniversalTweaks |
 | FoamFix | 1.12.2 | Redundant with VintageFix |
 | Hesperus | 1.12.2 | Redundant with Alfheim Lighting Engine |
