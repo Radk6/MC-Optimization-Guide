@@ -15,8 +15,8 @@
 | Java | Notes |
 |:---:|:---:|
 | [GraalVM Java 21](https://www.graalvm.org/downloads/) | Best raw performance, shortest loading times |
-| [Azul Java 21](https://www.azul.com/downloads/?version=java-21-lts&package=jre#zulu) | Generational ZGC support (greatly reduces stutters but requires more RAM) |
-| [Azul Java 8](https://www.azul.com/downloads/?version=java-8-lts&package=jre#zulu) | Best mod compatibility |
+| [Adoptium Java 21](https://adoptium.net/temurin/releases/?version=21&package=jre) | Generational ZGC support (greatly reduces stutters but requires more RAM) |
+| [Adoptium Java 8](https://adoptium.net/temurin/releases/?version=8&package=jre) | Best mod compatibility |
 
 ## 1.12.2
 
@@ -33,7 +33,7 @@
 | Java | Notes |
 |:---:|:---:|
 | [GraalVM Java 21](https://www.graalvm.org/downloads/) | Best raw performance, shortest loading times |
-| [Azul Java 21](https://www.azul.com/downloads/?version=java-21-lts&package=jre#zulu) | Generational ZGC support (greatly reduces stutters but requires more RAM) |
+| [Adoptium Java 21](https://adoptium.net/temurin/releases/?version=21&package=jre) | Generational ZGC support (greatly reduces stutters but requires more RAM) |
 
 # Additional notes
 
