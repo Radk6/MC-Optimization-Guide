@@ -16,7 +16,7 @@ Known issues: None (yet?)
 
 1. Download the latest version of Project Ozone 2
 2. Remove CodeChickenLib and FastCraft 
-3. Replace NotEnoughItems, LogisticsPipes, Chisel, Ender IO, Ender Core, ForgeMultipart, CodeChickenCore and CodeChickenLib with their Unofficial (GTNH) versions. Some of them are on CurseForge, but some can only be downloaded from GitHub.
+3. Replace NotEnoughItems, LogisticsPipes, Chisel, Ender IO, Ender Core, ForgeMultipart and CodeChickenCore with their Unofficial (GTNH) versions. Some of them are on CurseForge, but some can only be downloaded from GitHub.
 4. Install [ModularUI 2](https://github.com/GTNewHorizons/ModularUI)
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.7.10.md) installed
 6. Set the game to run with Java 21
