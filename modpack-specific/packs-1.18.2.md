@@ -7,6 +7,15 @@
 
 Known issues: None (yet?)
 
+## Create: Astral
+
+1. Install the latest version of Create: Astral
+2. Update Fabric to the latest version
+3. Update ModernFix to the latest version
+4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.18.2.md#fabric) installed
+
+Known issues: None (yet?)
+
 ## FTB Inferno
 
 1. Install the latest version of FTB Inferno
