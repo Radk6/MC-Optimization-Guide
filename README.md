@@ -20,6 +20,8 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 | [1.12.2](mods-n-stuff/1.12.2.md) |
 | [1.7.10](mods-n-stuff/1.7.10.md) |
 
+[Additional mods which may be helpful in some situations](mods-n-stuff/additions.md)
+
 | Indicator | Explanation |
 |:---:|:---:|
 | Client | Install if you're playing on singleplayer or multiplayer, redundant server-side |
