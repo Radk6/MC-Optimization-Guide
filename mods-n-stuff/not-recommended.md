@@ -25,7 +25,7 @@
 | Performant | 1.12.2, 1.16.5 | Compatibility issues, incompatible with RoadRunner |
 | Phosphor | 1.12.2 | Replaced by Alfheim Lighting Engine |
 | Radon | 1.16.5 - 1.19.2 | Replaced by Starlight |
-| Redirector/Redirectionor | 1.7.10 - 1.20.1 | Competibility issues, questionable impact on performance |
+| Redirector/Redirectionor | 1.7.10 - 1.20.1 | Compatibility issues, questionable impact on performance |
 | Saturn | 1.16.5 - 1.20.1 | Replaced by ModernFix, negligible impact on performance |
 | Sulfuric | 1.16.5 | Replaced by Starlight |
 | TexFix | 1.12.2 | Replaced by CensoredASM |
