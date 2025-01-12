@@ -65,7 +65,17 @@ Known issues: None (yet?)
 1. Download the latest version of SkyFactory One
 2. Update Forge to the latest version (36.2.42)
 3. Update JEI to the latest version
-5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed
-6. Set `mixin.perf.skip_first_datapack_reload` to `false` in modernfix' config file (otherwise the game won't launch)
+4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed
+5. Set `mixin.perf.skip_first_datapack_reload` to `false` in modernfix' config file (otherwise the game won't launch)
 
 Known issues: None (yet?)
+
+## The Winter Rescue
+
+1. Download the latest version of The Winter Rescue
+2. Update Forge to the latest version (36.2.42)
+3. Update FerriteCore and JEI to their latest versions
+4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed (Except LazyDFU!)
+5. Set the Java version to 21 and add [these jvm arguments](https://github.com/embeddedt/ModernFix/wiki/1.16---required-arguments-for-Java-17)
+
+Known issues: Embeddium/Rubidium Extra doesn't work
