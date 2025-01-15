@@ -34,7 +34,7 @@
 | MemoryLeakFix | 1.20.1, 1.21.1 | Redundant, Mojang fixed most of the memory leaks |
 | Neodymium | 1.7.10 | Incompatible with Angelica |
 | OptiFine | All | [Various reasons](opti-not-so-fine.md)
-| OptimizationsAndTweaks | 1.7.10 | 
+| OptimizationsAndTweaks | 1.7.10 | Incompatible with Angelica |
 | Performant | 1.12.2, 1.16.5 | Compatibility issues, incompatible with RoadRunner |
 | Phosphor | 1.12.2 | Replaced by Alfheim Lighting Engine |
 | Radon | 1.16.5 - 1.19.2 | Replaced by Starlight |
