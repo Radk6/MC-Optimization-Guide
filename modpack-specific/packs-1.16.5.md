@@ -9,6 +9,17 @@
 
 Known issues: None (yet?)
 
+## Chroma Technology 2
+
+1. Download the latest version of Chroma Technology 2
+2. Update Forge to the latest version
+3. Update FerriteCore and Just Enough Items to their latest versions
+4. Remove Halogen (Sodium Reforged)
+5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed
+6. Enable `Background JEI Loading` in ModernFix' settings
+
+Known issues: None (yet?)
+
 ## Crazy Craft Updated
 
 1. Download the latest version of Crazy Craft Updated
