@@ -8,12 +8,23 @@
 
 Known issues: None (yet?)
 
+## Chroma Technology
+
+1. Install the latest version of Chroma Technology
+2. Install the latest version of Cleanroom Loader and copy the contents of the Chroma Technology instance to it.
+3. Remove BetterFPS, Born in a Barn Diet Hopper, Fast Leaf Decay, FoamFix, HelpFixer, Just Enough Items, NotEnoughIDs, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control, Unloader and VanillaFix
+4. Update SimplyJetpacks 2
+5. Install Fugue, Scalar (2.11.1-3), Forgelin-Continuous, Roughly Enough IDs and Had Enough Items
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+
 ## Divine Journey 2
 
 1. Install the latest version of Divine Journey 2
 2. Install the latest version of Cleanroom Loader and copy the contents of the Divine Journey 2 instance to it.
 3. Remove Bed Patch, ConfigAnytime, FermiumASM, FermiumBooter, Just Enough Items, MixinBooter, NotEnoughIDs, Quark, Shadowfacts' Forgelin and Spark
-4. Update Recurrent Complex, Universal Tweaks
+4. Update Recurrent Complex and Universal Tweaks
 5. Install Fugue, Scalar (2.11.1-3), Forgelin-Continuous, Roughly Enough IDs, Quark: RotN Edition and Had Enough Items
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
