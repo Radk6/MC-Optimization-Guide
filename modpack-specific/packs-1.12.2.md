@@ -13,7 +13,7 @@ Known issues: None (yet?)
 1. Install the latest version of Chroma Technology
 2. Install the latest version of Cleanroom Loader and copy the contents of the Chroma Technology instance to it.
 3. Remove BetterFPS, Born in a Barn Diet Hopper, Fast Leaf Decay, FoamFix, HelpFixer, Just Enough Items, NotEnoughIDs, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control, Unloader and VanillaFix
-4. Update SimplyJetpacks 2
+4. Update Corail Tombstone and SimplyJetpacks 2
 5. Install Fugue, Scalar (2.11.1-3), Forgelin-Continuous, Roughly Enough IDs and Had Enough Items
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
