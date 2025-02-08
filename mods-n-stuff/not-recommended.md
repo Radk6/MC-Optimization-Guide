@@ -38,7 +38,7 @@
 | Performant | 1.12.2, 1.16.5 | Compatibility issues, incompatible with RoadRunner |
 | Phosphor | 1.12.2 | Replaced by Alfheim Lighting Engine |
 | Radon | 1.16.5 - 1.19.2 | Replaced by Starlight |
-| Redirector/Redirectionor | 1.7.10 - 1.20.1 | Compatibility issues, questionable impact on performance |
+| Redirected/Redirector/Redirectionor | 1.7.10 - 1.20.1 | Compatibility issues, negligible impact on performance |
 | Saturn | 1.16.5 - 1.20.1 | Replaced by ModernFix, negligible impact on performance |
 | ScalableLux | 1.21.1 | Only "necessary" if you're running a server with many players and have a 32+ core CPU. The average player won't benefit from it |
 | Sodium Leaf Culling | 1.21.1 | Redundant with MoreCulling |
