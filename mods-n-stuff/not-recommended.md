@@ -24,7 +24,7 @@
 | FastFurnace | 1.12.2 | Redundant with CensoredASM |
 | FastWorkbench | 1.12.2 | Redundant with UniversalTweaks |
 | FoamFix | 1.12.2 | Redundant with VintageFix |
-| FPS Boost (by The_TCT) | Fake performance mod, doesn't actually boost fps |
+| FPS Boost (by The_TCT) | 1.18.2 - 1.21.1 | Fake performance mod, doesn't actually boost fps |
 | Hesperus | 1.12.2 | Redundant with Alfheim Lighting Engine |
 | Homoium | 1.12.2 | Rednundant with StellarCore/Universal Tweaks | 
 | Hydrogen | 1.16.5 | Redundant with FerriteCore |
