@@ -32,8 +32,7 @@
 
 | Java | Notes |
 |:---:|:---:|
-| [GraalVM Java 21](https://www.graalvm.org/downloads/) | Best raw performance, shortest loading times |
-| [Adoptium Java 21](https://adoptium.net/temurin/releases/?version=21&package=jre) | Generational ZGC support (greatly reduces stutters but requires more RAM) |
+| [GraalVM Java 24](https://github.com/graalvm/oracle-graalvm-ea-builds/releases) | Best performance and Generational ZGC support |
 
 # Additional notes
 
