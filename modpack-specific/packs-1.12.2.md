@@ -2,7 +2,7 @@
 
 1. Install the latest version of ATM3
 2. Install the latest version of Cleanroom Loader and copy the contents of the ATM3 instance to it.
-3. Remove AI Improvements, Bed Patch, BetterFPS, Diet Hopper, FastWorkbench, Fence Jumper, FoamFix, HelpFixer, Just Enough Items, LibrarianLib, NotEnoughIDs, Quick Leaf Decay, Shadowfacts' Forgelin, Spark, Toast Control and Unloader
+3. Remove AI Improvements, Bed Patch, BetterFPS, Diet Hopper, FastWorkbench, Fence Jumper, FoamFix, HelpFixer, Just Enough Items, LibrarianLib, NotEnoughIDs, Quick Leaf Decay, RandomPatches, Shadowfacts' Forgelin, Spark, Toast Control and Unloader
 4. Install Fugue, Scalar (2.11.1-3), LibrarianLib-Continuous, Forgelin-Continuous, Roughly Enough IDs and Had Enough Items
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
@@ -34,7 +34,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of E2Eu
 2. Install the latest version of Cleanroom Loader and copy the contents of the E2Eu instance to it.
-3. Remove BetterFPS, Hesperus, MixinBooter and Shadowfacts' Forgelin
+3. Remove BetterFPS, Hesperus, MixinBooter, RandomPatches and Shadowfacts' Forgelin
 4. Update CensoredASM, Had Enough Items, VintageFix and UniversalTweaks
 5. Install Fugue, Scalar (2.11.1-3) and Forgelin-Continuous
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
@@ -46,7 +46,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Hexxit Updated
 2. Install the latest version of Cleanroom Loader and copy the contents of the Hexxit Updated instance to it
-3. Remove AttributeFix, BetterFPS, Born in a Barn, FastFurnace, FastWorkbench, FoamFix, Just Enough Items, Performant, Phosphor, Not Enough IDs, Surge, ToastControl and Unloader
+3. Remove AttributeFix, BetterFPS, Born in a Barn, FastFurnace, FastWorkbench, FoamFix, Just Enough Items, Performant, Phosphor, RandomPatches, Not Enough IDs, Surge, ToastControl and Unloader
 4. Install Fugue, Scalar (2.11.1-3), Had Enough Items and Roughly Enough IDs
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed 
 
@@ -57,7 +57,7 @@ Known issues: None (yet?)
 1. Install the latest version of MC Eternal
 2. Install the latest version of Cleanroom Loader and copy the contents of the MC Eternal instance to it.
 3. Update Collective, Corail Tombstone and SimplyJetpacks to the latest versions
-4. Remove AI Reducer, AI Improvements, AttributeFix, BetterFPS, ErebusFix, FastWorkbench, FoamFix, Just Enough Items, NotEnoughIDs, OldJavaWarning, Phosphor, Save My Stronghold!, Shadowfacts' Forgelin, SwingThroughGrass and VanillaTweaks
+4. Remove AI Reducer, AI Improvements, AttributeFix, BetterFPS, ErebusFix, FastWorkbench, FoamFix, Just Enough Items, NotEnoughIDs, OldJavaWarning, Phosphor, RandomPatches, Save My Stronghold!, Shadowfacts' Forgelin, SwingThroughGrass and VanillaTweaks
 5. Install Fugue, Scalar (2.11.1-3), Had Enough Items, Forgelin-Continuous and Roughly Enough IDs
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
@@ -77,7 +77,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Project Ozone 3
 2. Install the latest version of Cleanroom Loader and copy the contents of the Project Ozone 3 to it.
-3. Remove AttributeFix, BetterFPS, Diet Hopper, FastWorkbench, Fence Jumper, FoamFix, Just Enough Items, Not Enough IDs, Phosphor, Quark, Shadowfacts' Forgelin and Toast Control
+3. Remove AttributeFix, BetterFPS, Diet Hopper, FastWorkbench, Fence Jumper, FoamFix, Just Enough Items, Not Enough IDs, Phosphor, Quark, RandomPatches, Shadowfacts' Forgelin and Toast Control
 4. Install Fugue, Scalar (2.11.1-3), Had Enough Items, Forgelin-Continuous, Quark: RotN Edition and Roughly Enough IDs
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
@@ -98,9 +98,9 @@ Known issues: None (yet?)
 
 1. Install the latest version of SevTech: Ages
 2. Install the latest version of Cleanroom Loader and copy the contents of the SevTech: Ages instance to it.
-3. Remove Better Foliage, BetterFPS, FastFurance, FastWorkbench, FoamFix, JustEnoughIDs, Just Enough Items, JourneyMapStages, Shadowfacts' Forgelin, Quick Leaf Decay, Swing Through Grass and Toast Control
+3. Remove Better Foliage, BetterFPS, FastFurance, FastWorkbench, FoamFix, JustEnoughIDs, Just Enough Items, JourneyMapStages, Quick Leaf Decay, RandomPatches, Shadowfacts' Forgelin, Swing Through Grass and Toast Control
 4. Install Fugue, Scalar (2.11.1-3), Had Enough Items, Forgelin-Continuous, JourneyMapStages Continuation and Roughly Enough IDs
-5. Update  Bookshelf, CraftTweaker, JourneyMap, Ore Stages, Random Patches and The Twilight Forest
+5. Update  Bookshelf, CraftTweaker, JourneyMap, Ore Stages, and The Twilight Forest
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties as well as `Parallel Model Loader` in stellar_core.cfg, otherwise the game won't load or you'll get missing textures)
 
 Known issues: None (yet?)
@@ -132,7 +132,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of StoneBlock 2
 2. Install the latest version of Cleanroom Loader and copy the contents of the StoneBlock 2 instance to it.
-3. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Fullscreen Windowed, Just Enough Items, Shadowfacts' Forgelin, ToastControl and VanillaFix
+3. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Fullscreen Windowed, Just Enough Items, RandomPatches, Shadowfacts' Forgelin, ToastControl and VanillaFix
 4. Update Flux Networks, HammerCore (HammerLib), MineTogether and Simply Jetpacks 2 to their lastest versions
 5. Install Fugue, Scalar (2.11.1-3), Had Enough Items and Forgelin-Continuous
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
