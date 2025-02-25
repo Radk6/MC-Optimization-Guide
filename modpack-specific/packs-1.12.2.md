@@ -101,7 +101,7 @@ Known issues: None (yet?)
 3. Remove Better Foliage, BetterFPS, FastFurance, FastWorkbench, FoamFix, JustEnoughIDs, Just Enough Items, JourneyMapStages, Shadowfacts' Forgelin, Quick Leaf Decay, Swing Through Grass and Toast Control
 4. Install Fugue, Scalar (2.11.1-3), Had Enough Items, Forgelin-Continuous, JourneyMapStages Continuation and Roughly Enough IDs
 5. Update  Bookshelf, CraftTweaker, JourneyMap, Ore Stages, Random Patches and The Twilight Forest
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties, otherwise the game won't load)
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties as well as `Parallel Model Loader` in stellar_core.cfg, otherwise the game won't load or you'll get missing textures)
 
 Known issues: None (yet?)
 
