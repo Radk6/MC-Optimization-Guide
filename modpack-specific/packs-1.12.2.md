@@ -23,7 +23,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Divine Journey 2
 2. Install the latest version of Cleanroom Loader and copy the contents of the Divine Journey 2 instance to it.
-3. Remove Bed Patch, ConfigAnytime, FermiumASM, FermiumBooter, Just Enough Items, MixinBooter, NotEnoughIDs, Quark, Shadowfacts' Forgelin and Spark
+3. Remove Bed Patch, ConfigAnytime, FermiumASM, FermiumBooter, Just Enough Items, LagGoggles, MixinBooter, NotEnoughIDs, Quark, Shadowfacts' Forgelin, Spark and TickCentral
 4. Update Recurrent Complex and Universal Tweaks
 5. Install Fugue, Scalar (2.11.1-3), Forgelin-Continuous, Roughly Enough IDs, Quark: RotN Edition and Had Enough Items
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
