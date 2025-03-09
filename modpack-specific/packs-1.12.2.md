@@ -8,6 +8,16 @@
 
 Known issues: None (yet?)
 
+## Basically Just Rocket Science
+
+1. Install the latest version of Basically Just Rocket Science
+2. Install the latest version of Cleanroom Loader and copy the contents of the Basically Just Rocket Science instance to it.
+3. Remove BetterFPS, Clumps, Fast Leaf Decay, Just Enough Items, Quark and SwingThroughGrass
+4. Install Fugue, Scalar (2.11.1-3), Had Enough Items and Quark: RotN Edition
+5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+
 ## Chroma Technology
 
 1. Install the latest version of Chroma Technology
@@ -40,6 +50,17 @@ Known issues: None (yet?)
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 7. Disable StellarCore's `B:EnergyCalculatorLegImprovements`, `B:EnergyNetLocalImprovements`, `B:GetIoAndSubTileEnergyNetLocalImprovements`, `B:GridDataImprovements` and `B:GridImprovements` (either in-game through the mod menu or by editing the config file)
  
+Known issues: None (yet?)
+
+## FTB Infinity Reloaded: Skyblock
+
+1. Install the latest version of Infinity Reloaded: Skyblock
+2. Install the latest version of Cleanroom Loader and copy the contents of the Infinity Reloaded: Skyblock instance to it.
+3. Remove BetterFPS, Clumps, FastFurnace, MixinBooter, MixinBootstrap, NotEnoughIDs, Shadowfacts' Forgelin
+4. Update Alfheim, Had Enough Items, Railcraft, Red Core, UniversalTweaks and VintageFix
+5. Install Fugue, Scalar (2.11.1-3) and Forgelin-Continuous
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
 Known issues: None (yet?)
 
 ## Hexxit Updated
