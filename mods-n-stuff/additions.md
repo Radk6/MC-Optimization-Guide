@@ -4,7 +4,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Better Biome Blend | Cleanroom/Forge | Improves biome blending and its' performance | 1.12.2 | Client |
 | Cesium | Fabric, Forge/NeoForge (Connector Only) | Reduces save file size | 1.20.1, 1.21.1 | Server |
-| Debugify/Modern Debugify | Fabric, Forge/NeoForge | Fixes bugs. Modern Debugify on 1.18.2 needs to have MC-147605 disabled if you're using JEI | 1.18.2 - 1.21.1 | Both |
+| Debugify/Debugify Reforged/Modern Debugify | Fabric, Forge | Fixes bugs. Modern Debugify on 1.18.2 needs to have MC-147605 disabled if you're using JEI | 1.18.2 - 1.21.1 | Both |
 | Immersive Optimization | Forge, Fabric | May differ from Vanilla slightly | 1.20.1 | Server |
 | Krypton/Pluto/Krypton Foxified | Fabric, Forge, NeoForge | Improves the network stack, may be helpful on mulitplayer | 1.18.2 - 1.21.1 | Both |
 | Mobtimizations | Forge, Fabric | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | 1.18.2 - 1.20.1 | Server |
