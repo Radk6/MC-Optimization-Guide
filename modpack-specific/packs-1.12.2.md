@@ -40,6 +40,17 @@ Known issues: None (yet?)
 
 Known issues: None (yet?)
 
+## Dungeons, Dragons and Space Shuttles (DD&SS)
+
+1. Install the latest version of DD&SS
+2. Install the latest version of Cleanroom Loader and copy the contents of the DD&SS instance to it.
+3. Remove BetterFPS, Clumps, Fast Leaf Decay, FastWorkbench, FoamFix, HelpFixer, Just Enough Items, LagGoggles, LibrarianLib, NotEnoughIDs, Phosphor, RandomPatches, Shadowfacts' Forgelin, TickCentral, ToastControl, VanillaFix
+4. Update Corail Tombstone, Simply Jetpacks 2, Sledgehammer, Solar Flux Reborn,
+5. Install Fugue, Scalar (2.11.1-3), Forgelin-Continuous, LibrarianLib-Continuous, Had Enough Items and Roughly Enough IDs
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+
 ## Enigmatica 2 Expert Unofficial (E2Eu)
 
 1. Install the latest version of E2Eu
@@ -77,9 +88,9 @@ Known issues: None (yet?)
 
 1. Install the latest version of InsaneCraft
 2. Install the latest version of Cleanroom Loader and copy the contents of the InsaneCraft instance to it
-3. Remove BetterFPS, FastFurnace, FastWorkbench, FoamFix, LibrarianLib, NotEnoughIDs, Performant, RandomPatches, Shadowfacts' Forgelin, Spark, Surge, SwingThroughGrass
+3. Remove BetterFPS, FastFurnace, FastWorkbench, FoamFix, LibrarianLib, NotEnoughIDs, Performant, RandomPatches, Shadowfacts' Forgelin, Spark, Surge and SwingThroughGrass
 4. Update Had Enough Items
-5. Install Fugue, Scalar, Forgelin-Continuous, LibrarianLib-Continuous and Roughly Enough IDs
+5. Install Fugue, Scalar (2.11.1-3), Forgelin-Continuous, LibrarianLib-Continuous and Roughly Enough IDs
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed 
 
 Known issues: None (yet?)
