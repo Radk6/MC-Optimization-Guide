@@ -73,6 +73,17 @@ Known issues: None (yet?)
 
 Known issues: None (yet?)
 
+## InsaneCraft
+
+1. Install the latest version of InsaneCraft
+2. Install the latest version of Cleanroom Loader and copy the contents of the InsaneCraft instance to it
+3. Remove BetterFPS, FastFurnace, FastWorkbench, FoamFix, LibrarianLib, NotEnoughIDs, Performant, RandomPatches, Shadowfacts' Forgelin, Spark, Surge, SwingThroughGrass
+4. Update Had Enough Items
+5. Install Fugue, Scalar, Forgelin-Continuous, LibrarianLib-Continuous and Roughly Enough IDs
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed 
+
+Known issues: None (yet?)
+
 ## MC Eternal
 
 1. Install the latest version of MC Eternal
