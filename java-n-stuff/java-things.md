@@ -6,7 +6,7 @@
 
 | Java | Notes |
 |:---:|:---:|
-| [GraalVM Java 24](https://github.com/graalvm/oracle-graalvm-ea-builds/releases) | Best performance and Generational ZGC support |
+| [GraalVM Java 24](https://www.graalvm.org/downloads/) | Best performance and Generational ZGC support |
 
 ## 1.16.5
 
@@ -24,7 +24,7 @@
 
 | Java | Notes |
 |:---:|:---:|
-| [GraalVM Java 24](https://github.com/graalvm/oracle-graalvm-ea-builds/releases) | Best performance and Generational ZGC support |
+| [GraalVM Java 24](https://www.graalvm.org/downloads/) | Best performance and Generational ZGC support |
 
 ## 1.7.10
 
@@ -32,7 +32,7 @@
 
 | Java | Notes |
 |:---:|:---:|
-| [GraalVM Java 24](https://github.com/graalvm/oracle-graalvm-ea-builds/releases) | Best performance and Generational ZGC support |
+| [GraalVM Java 24](https://www.graalvm.org/downloads/) | Best performance and Generational ZGC support |
 
 # Additional notes
 
