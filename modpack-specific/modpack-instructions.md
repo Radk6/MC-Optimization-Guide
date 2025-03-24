@@ -6,6 +6,7 @@ Keep in mind that most of these optimizations weren't thoroughly tested, the onl
 
 | Minecraft version |
 |:---:|
+| [1.20.1](packs-1.20.1.md) |
 | [1.19.2](packs-1.19.2.md) |
 | [1.18.2](packs-1.18.2.md) |
 | [1.16.5](packs-1.16.5.md) |
