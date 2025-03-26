@@ -25,7 +25,8 @@ Known issues: None (yet?)
 1. Download the latest version of Crazy Craft Updated
 2. Update Forge to the latest version
 3. Remove Rubidium, Performant and Magnesium Extras
-4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed
+4. Update Oculus
+5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed
 
 Known issues: None (yet?)
 
