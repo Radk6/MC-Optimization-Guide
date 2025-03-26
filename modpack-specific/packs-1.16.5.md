@@ -28,7 +28,7 @@ Known issues: None (yet?)
 4. Update Oculus
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed
 
-Known issues: None (yet?)
+Known issues: Enabling `Dynamic Resources` in ModernFix' settings prevents the game from loading.
 
 ## Create Above & Beyond
 
