@@ -110,11 +110,11 @@ Known issues: None (yet?)
 
 1. Install the latest version of Nomifactory CEu
 2. Install the latest version of Cleanroom Loader and copy the contents of the Nomifactory CEu instance to it.
-3. Update Alfheim, Forgelin-Continuous, Had Enough Items and Simply Jetpacks 2
+3. Update Forgelin-Continuous, Had Enough Items and Simply Jetpacks 2
 4. Install Fugue and Scalar (2.11.1-3) 
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
-Known issues: None (yet?)
+Known issues: Latest Alfheim and Red Core cause issues with GTCEu recipes, DO NOT update them!
 
 ## Project Ozone 3
 
