@@ -20,8 +20,6 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 | [1.12.2](mods-n-stuff/1.12.2.md) |
 | [1.7.10](mods-n-stuff/1.7.10.md) |
 
-[Additional mods which may be helpful in some situations](mods-n-stuff/additions.md)
-
 | Indicator | Explanation |
 |:---:|:---:|
 | Client | Install if you're playing on singleplayer or multiplayer, redundant server-side |
@@ -36,7 +34,7 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 
 Q: Why isn't `mod x` on any of the lists?
 
-A: A list of mods that aren't recommended (and why) can be found [here](mods-n-stuff/not-recommended.md)
+A: A list of mods that aren't recommended (and why) can be found [here](mods-n-stuff/not-recommended.md). Similarly, a list of situational performance mods which may help in some specific scenarios can be found [here](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/additions.md)
 
 Q: Why isn't `version x.y.z` supported?
 
