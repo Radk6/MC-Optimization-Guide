@@ -17,3 +17,4 @@
 | Smooth Boot/Smooth Boot Reloaded | Forge, Fabric | Modifies CPU scheduling to improve loading times | 1.16.5 - 1.19.2 | Both |
 | Structure Layout Optimizer | Forge, Fabric, NeoForge | Improves structure generation speed, helpful in packs with lots of structures | 1.16.5 - 1.21.1 | Server |
 | ThreadTweak | Fabric | Allows for changing thread priority, which can be beneficial on extremely low-end/old PCs | 1.20.1, 1.21.1 | Both |
+| Vanillin | Forge, Fabric, NeoForge | Speeds up rendering of block entities (eg. Chests), even better than Enhanced Block Entities. **Doesn't work with shaders** | 1.20.1, 1.21.1 | Client | 
