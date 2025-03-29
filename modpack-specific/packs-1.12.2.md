@@ -95,6 +95,18 @@ Known issues: None (yet?)
 
 Known issues: None (yet?)
 
+## Magiculture 2
+
+1. Install the latest version of Magiculture 2
+2. Install the latest version of Cleanroom Loader and copy the contents of the Magiculture 2 instance to it.
+3. Remove BetterFPS, Clumps, ConfigAnytime, EntityCulling, FastWorkbench, FoamFix, Max Potion ID Extender, MixinBooter, MixinBootstrap, NotEnoughIDs, Old Java Warning, RandomPatches, Shadowfacts' Forgelin and Spark
+4. Update CensoredASM, Had Enough Items, RenderLib and UniversalTweaks
+5. Install Fugue, Scalar (2.11.1-3), Forgelin-Continuous and Roughly Enough IDs.
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties as well as `Parallel Model Loader` in stellar_core.cfg, otherwise the game won't load or you'll get performance issues)
+7. Set Mipmap levels to 4 in the settings
+
+Known issues: None (yet?)
+
 ## MC Eternal
 
 1. Install the latest version of MC Eternal
