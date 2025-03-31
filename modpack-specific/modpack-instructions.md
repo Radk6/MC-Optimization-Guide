@@ -12,7 +12,3 @@ Keep in mind that most of these optimizations weren't thoroughly tested, the onl
 | [1.16.5](packs-1.16.5.md) |
 | [1.12.2](packs-1.12.2.md) |
 | [1.7.10](packs-1.7.10.md) |
-
-# ~~Some rough before and after fps results~~
-
-Temporarily removed. Graphs showing memory usage, game loading times and fps for a few select modpacks will be added shortly
