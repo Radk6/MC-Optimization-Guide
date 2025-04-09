@@ -119,6 +119,16 @@ Known issues: None (yet?)
 
 Known issues: None (yet?)
 
+## MeatballCraft, Dimensional Ascension
+
+1. Install the latest version of MeatballCraft
+2. Install the latest version of Cleanroom Loader and copy the contents of the MeatballCraft instance to it.
+3. Update Alfheim, CensoredASM, EntityCulling, Fugue, ReachFix, Red Core, RenderLib, Naughthirium, Nothirium, VintageFix and UniversalTweaks
+4. Remove ConfigAnytime, MixinBooter, MixinCompatibility and Scalar
+5. Install Scalar Legacy
+
+Known issues: None (yet?)
+
 ## Nomifactory CEu
 
 1. Install the latest version of Nomifactory CEu
