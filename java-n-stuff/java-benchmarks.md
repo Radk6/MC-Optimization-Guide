@@ -15,6 +15,6 @@ Test system specs:
 
 An average of 10 runs of every Java version and garbage collector. This was tested in an [optimized StoneBlock instance](https://github.com/Radk6/MC-Optimization-Guide/blob/main/modpack-specific/packs-1.12.2.md#stoneblock). Java 8 and 21 were from Adoptium. The time was measured with VintageFix.
 
-![time](https://github.com/user-attachments/assets/b7878deb-cb79-499c-ad3c-747e839d5664)
+![time](https://github.com/user-attachments/assets/3a32e3e9-2bc7-41b8-a334-c8e27fe9b449)
 
 GraalVM 24 with G1GC performs best here, followed by GraalVM 24 with Generational ZGC. Java 8 is considerably slower than everything else.
