@@ -113,7 +113,7 @@ Known issues: None (yet?)
 1. Install the latest version of MC Eternal
 2. Install the latest version of Cleanroom Loader and copy the contents of the MC Eternal instance to it.
 3. Update Collective, Corail Tombstone and SimplyJetpacks to the latest versions
-4. Remove AI Reducer, AI Improvements, AttributeFix, BetterFPS, ErebusFix, FastWorkbench, FoamFix, Just Enough Items, NotEnoughIDs, OldJavaWarning, Phosphor, RandomPatches, Save My Stronghold!, Shadowfacts' Forgelin, SwingThroughGrass and VanillaTweaks
+4. Remove AI Reducer, AI Improvements, AttributeFix, BetterFPS, ErebusFix, FastWorkbench, FoamFix, Just Enough Items, NotEnoughIDs, OldJavaWarning, Phosphor, RandomPatches, Save My Stronghold!, Shadowfacts' Forgelin, SwingThroughGrass and VanillaFix
 5. Install Fugue, Scalar Legacy, Had Enough Items, Forgelin-Continuous and Roughly Enough IDs
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
