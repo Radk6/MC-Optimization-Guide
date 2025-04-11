@@ -29,6 +29,7 @@
 | FoamFix | 1.12.2 | Redundant with VintageFix |
 | FPS Boost (by The_TCT) | 1.18.2 - 1.21.1 | Fake performance mod, doesn't actually boost fps 
 | Francium | 1.16.5, 1.18.2 | Negligible impact on performance, abandoned |
+| GPUTape/VideoTape | 1.18.2 - 1.21.1 | Doesn't actually fix anything (according to Iris' dev) |
 | Hesperus | 1.12.2 | Redundant with Alfheim Lighting Engine |
 | Homoium | 1.12.2 | Rednundant with StellarCore/Universal Tweaks | 
 | Hydrogen/Helium | 1.16.5 | Redundant with FerriteCore |
