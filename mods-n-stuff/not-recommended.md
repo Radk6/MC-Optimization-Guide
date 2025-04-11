@@ -26,7 +26,6 @@
 | Faster Random | 1.19.2 - 1.21.1 | Breaks Vanilla Parity |
 | FastFurnace | 1.12.2 | Redundant with CensoredASM |
 | FastWorkbench | 1.12.2 | Redundant with UniversalTweaks |
-| Flerovium | 1.20.1 | Redundant with ModernFix and ImmediatelyFast |
 | FoamFix | 1.12.2 | Redundant with VintageFix |
 | FPS Boost (by The_TCT) | 1.18.2 - 1.21.1 | Fake performance mod, doesn't actually boost fps 
 | Francium | 1.16.5, 1.18.2 | Negligible impact on performance, abandoned |
