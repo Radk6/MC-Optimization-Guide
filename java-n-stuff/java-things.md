@@ -34,7 +34,9 @@
 |:---:|:---:|
 | [GraalVM Java 24](https://www.graalvm.org/downloads/) | Best performance and Generational ZGC support |
 
-# Additional notes
+# JVM Arguments
+
+### Generational ZGC
 
 If you're on a version which supports Java 21 (or newer) and your PC has at least 16 GB of RAM, I'd recommend Adoptium JDK 21 with these args:
 
@@ -42,6 +44,14 @@ If you're on a version which supports Java 21 (or newer) and your PC has at leas
 -XX:+UseZGC -XX:+ZGenerational
 ``
 
-If you're on Java 24 or above, you only need ``-XX:+UseZGC`` since non-Generational ZGC was removed, making the ``-XX:+ZGenerational`` argument redundant
+Java 23 and newer only need `-XX:+UseZGC`, since it's generational by default.
 
-If you are on a lower-end device and/or you have a total of 8 GB of RAM or less, stick to GraalVM without any JVM args.
+If you are on a system with less than 6 cores and have 8 GB of total system RAM or less, I wouldn't recommend using ZGC.
+
+### Compact Object Headers
+
+Java 24 and newer support compact object headers, which can improve performance. You can enable them with these args: 
+
+``
+-XX:+UnlockExperimentalVMOptions -XX:+UseCompactObjectHeaders
+``
