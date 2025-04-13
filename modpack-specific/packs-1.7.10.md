@@ -2,7 +2,7 @@
 
 1. Install the latest version of Blightfall
 2. Remove LiteLoader, Neodymium and VoxelMap
-3. Update CodeChickenCore Unofficial, FoamFix, NotEnoughItems Unofficial, UniMixins
+3. Update CodeChickenCore Unofficial (CuseForge has 1.3.11 as latest which is incorrect, 1.4.1 is latest), FoamFix, NotEnoughItems Unofficial, UniMixins
 4. Install JourneyMap
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.7.10.md) installed
 6. Set the game to run with [the recommended Java version](https://github.com/Radk6/MC-Optimization-Guide/blob/main/java-n-stuff/java-things.md)
@@ -13,7 +13,7 @@ Known issues: None (yet?)
 
 1. Create a Crazy Craft 3.0 instance (the official way is downloading the pack via the Voidswrath launcher, then copying all files to a 1.7.10 Prism instance, but there are other ways, eg. via the Technic launcher)
 2. Remove Adventure Backpack, Carpenter's Blocks, Chisel, CodeChickenCore, CodeChickenLib, NEI Addons, NotEnoughItems, Mine & Blade Battlegear 2, Opis and SecurityCraft
-3. Install Unofficial/GTNH versions of Adventure Backpack, Carpenter's Blocks, Chisel, CodeChickenCore, NEI Addons, NotEnoughItems and Mine & Blade Battlegear 2 (some of them are on CurseForge/Modrinth, some are only on GitHub)
+3. Install Unofficial/GTNH versions of Adventure Backpack, Carpenter's Blocks, Chisel, CodeChickenCore (CuseForge has 1.3.11 as latest which is incorrect, 1.4.1 is latest), NEI Addons, NotEnoughItems and Mine & Blade Battlegear 2 (some of them are on CurseForge/Modrinth, some are only on GitHub)
 4. Install [quentin452's fork of SecurityCraft](https://github.com/quentin452/SecurityCraft/releases)
 5. Update Morph and iChun Util
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.7.10.md) installed (except Hodgepodge, as it's currently incompatible with Morph)
