@@ -1,8 +1,8 @@
 ## Blightfall
 
 1. Install the latest version of Blightfall
-2. Remove FastCraft, LiteLoader, Neodymium and VoxelMap
-3. Update CodeChickenCore Unofficial, FoamFix, GTNHLib, Hodgepodge, NotEnoughItems Unofficial, UniMixins
+2. Remove LiteLoader, Neodymium and VoxelMap
+3. Update CodeChickenCore Unofficial, FoamFix, NotEnoughItems Unofficial, UniMixins
 4. Install JourneyMap
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.7.10.md) installed
 6. Set the game to run with [the recommended Java version](https://github.com/Radk6/MC-Optimization-Guide/blob/main/java-n-stuff/java-things.md)
