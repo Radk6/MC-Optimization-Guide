@@ -4,6 +4,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Better Biome Blend | Cleanroom/Forge | Improves biome blending and its' performance | 1.12.2 | Client |
 | Cesium | Fabric, Forge/NeoForge (Connector Only) | Reduces save file size | 1.20.1, 1.21.1 | Server |
+| Create Better FPS | Forge, NeoForge | Improves fps when using shaders around Create contraptions | 1.20.1, 1.21.1 | Client |
 | Debugify/Debugify Reforged/Modern Debugify | Fabric, Forge | Fixes bugs. Modern Debugify on 1.18.2 needs to have MC-147605 disabled if you're using JEI | 1.18.2 - 1.21.1 | Both |
 | Flerovium | Forge, NeoForge | Speeds up item rendering | 1.20.1, 1.21.1 | Client |
 | Immersive Optimization | Forge, Fabric | May differ from Vanilla slightly | 1.20.1 | Server |
