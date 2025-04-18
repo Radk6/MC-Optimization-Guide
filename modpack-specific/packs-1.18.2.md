@@ -16,6 +16,16 @@ Known issues: None (yet?)
 
 Known issues: None (yet?)
 
+## Create: Arcane Engineering
+
+1. Install the latest version of Create: Arcane Engineering
+2. Update Forge to the latest version
+3. Update Canary, Just Enough Items, ModernFix and Oculus Flywheel Compat to their latest versions
+4. Remove ForgetMeChunk, Redirector, Rubidium and Rubidium Extras
+5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.18.2.md#fabric) installed
+
+Known issues: This pack has a memory leak which causes severe fps drops. Following this guide somewhat mitigates it, but it's not a 100% fix. The only way to fix it is to remove Iris & Oculus Flywheel Compat, which may or may not result in graphical glitches with Create contraptions when shaders are enabled.
+
 ## FTB Inferno
 
 1. Install the latest version of FTB Inferno
