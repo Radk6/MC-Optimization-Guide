@@ -20,7 +20,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Create: Arcane Engineering
 2. Update Forge to the latest version
-3. Update Canary, Just Enough Items, ModernFix and Oculus Flywheel Compat to their latest versions
+3. Update Canary, Just Enough Items, ModernFix and Iris & Oculus Flywheel Compat to their latest versions
 4. Remove ForgetMeChunk, Redirector, Rubidium and Rubidium Extras
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.18.2.md#fabric) installed
 
