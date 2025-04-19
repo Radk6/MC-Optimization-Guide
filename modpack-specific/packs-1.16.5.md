@@ -1,3 +1,6 @@
+## IMPORTANT NOTE: 
+### Due to Iris and Oculus being outdated and buggy on 1.16.5, playing any of these modpacks with shaders won't be a good experience. At best it'll be somewhat laggy, at worst it'll be unplayable. Currently there is no fix for this issue.
+
 ## All the Mods 6 (ATM6)
 
 1. Download the latest version of ATM6
