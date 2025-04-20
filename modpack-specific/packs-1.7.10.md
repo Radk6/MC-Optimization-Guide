@@ -2,7 +2,7 @@
 
 1. Install the latest version of Blightfall
 2. Remove FastCraft and Neodymium
-3. Update ArchaicFix, CodeChickenCore Unofficial (CuseForge has 1.3.11 as latest which is incorrect, 1.4.1 is latest), FoamFix, Hodgepodge, NotEnoughItems Unofficial and UniMixins
+3. Update ArchaicFix, CodeChickenCore Unofficial (CuseForge has 1.3.11 as latest which is incorrect, 1.4.1 is latest), Et Futurum Requiem, FoamFix, GTNHLib, Hodgepodge, NotEnoughItems Unofficial and UniMixins
 4. Install [LiteloaderLoader](https://github.com/Midnight145/LiteloaderLoader/releases)
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.7.10.md) installed
 6. Set the game to run with [the recommended Java version](https://github.com/Radk6/MC-Optimization-Guide/blob/main/java-n-stuff/java-things.md)
