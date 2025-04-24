@@ -2,6 +2,7 @@
 
 | Mod | Mod Loader | Note | Version | Client/Server |
 |:---:|:---:|:---:|:---:|:---:|
+| AsyncParticles | Fabric, Forge, NeoForge | Improves performance when many particles are on screen | 1.20.1, 1.21.1 | Client |
 | Better Biome Blend | Cleanroom/Forge | Improves biome blending and its' performance | 1.12.2 | Client |
 | Cesium | Fabric, Forge/NeoForge (Connector Only) | Reduces save file size | 1.20.1, 1.21.1 | Server |
 | Create Better FPS | Forge, NeoForge | Improves fps when using shaders around Create contraptions | 1.20.1, 1.21.1 | Client |
