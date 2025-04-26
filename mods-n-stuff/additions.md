@@ -12,7 +12,6 @@
 | Krypton/Pluto/Krypton Foxified | Fabric, Forge, NeoForge | Improves the network stack, may be helpful on mulitplayer | 1.18.2 - 1.21.1 | Both |
 | Mobtimizations | Forge, Fabric | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | 1.18.2 - 1.20.1 | Server |
 | Moonrise | Fabric, NeoForge | Adds various patches from Paper, improving server performance. **Incompatible with C2ME** | 1.21.1 | Server |
-| Particle Core | Forge, Fabric, NeoForge | Improves particle rendering, may be helpful in situations with lots of particles | 1.20.1, 1.21.1 | Client |
 | Particle Culling | Cleanroom/Forge | Culls particles, may be helpful in situations where there's a lot of them | 1.12.2 | Client |
 | SerializationIsBad | Cleanroom/Forge | Fixes the BleedingPipe vulnerability | 1.7.10 - 1.20.1 | Both |
 | Shader Fixer | Forge | Fixes bugs when using shaders with some mods | 1.7.10 | Client |
