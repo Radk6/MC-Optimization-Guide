@@ -2,9 +2,11 @@
 
 | Mod | Mod Loader | Note | Version | Client/Server |
 |:---:|:---:|:---:|:---:|:---:|
+| Alternate Current | Fabric, Forge, NeoForge | Can improve performance with lots of redstone contraptions around | 1.16.5 - 1.21.1 | Server |
 | AsyncParticles | Fabric, Forge, NeoForge | Improves performance when many particles are on screen | 1.20.1, 1.21.1 | Client |
 | Better Biome Blend | Cleanroom/Forge | Improves biome blending and its' performance | 1.12.2 | Client |
 | Cesium | Fabric, Forge/NeoForge (Connector Only) | Reduces save file size | 1.20.1, 1.21.1 | Server |
+| Clumps | Fabric, Forge, NeoForge | Clumps XP Orbs together, reducing lag | 1.16.5 - 1.21.1 | Both (1.16.5), Server (1.18.2+) |
 | Create Better FPS | Forge, NeoForge | Improves fps when using shaders around Create contraptions | 1.20.1, 1.21.1 | Client |
 | Debugify/Debugify Reforged/Modern Debugify | Fabric, Forge | Fixes bugs. Modern Debugify on 1.18.2 needs to have MC-147605 disabled if you're using JEI | 1.18.2 - 1.21.1 | Both |
 | Flerovium | Forge, NeoForge | Speeds up item rendering | 1.20.1, 1.21.1 | Client |
