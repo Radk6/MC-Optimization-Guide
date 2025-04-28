@@ -1,4 +1,10 @@
 ## List of mods that aren't recommended for one reason or another. May change in the future.
+**Mod** - Name of the mod
+
+**Version** - The version(s) on which the mod shouldn't be used
+
+**Reason** - Self explanatory.
+
 | Mod | Version | Reason |
 |:---:|:---:|:---:|
 | AI Improvements | 1.12.2 | Redundant with UniversalTweaks |
