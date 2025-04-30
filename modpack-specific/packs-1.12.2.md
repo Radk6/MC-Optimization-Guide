@@ -129,6 +129,17 @@ Known issues: None (yet?)
 
 Known issues: None (yet?)
 
+## Multiblock Madness
+
+1. Install the latest version of Multiblock Madness
+2. Install the latest version of Cleanroom Loader and copy the contents of the Multiblock Madness instance to it.
+3. Remove AI Improvements, AttributeFix, BetterFPS, Clumps, Diet Hopper, Duplicate Entity UUID Fix, Fast Leaf Decay, FastFurnace, FastWorkbench, Fence Jumper, FoamFix, Give me back my HP!, MixinBooter, MixinBootstrap, NotEnoughIDs, Phosphor, RandomPatches, Shadowfacts' Forgelin, Surge, SwingThroughGrass, ToastControl, VanillaFix,
+4. Install Fugue, Scalar Legacy, Forgelin-Continuous, Roughly Enough IDs
+5. Update CraftTweaker and Had Enough Items to their latest versions
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+
 ## Nomifactory CEu
 
 1. Install the latest version of Nomifactory CEu
