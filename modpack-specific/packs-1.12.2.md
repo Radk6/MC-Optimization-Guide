@@ -175,9 +175,9 @@ Known issues: None (yet?)
 
 1. Install the latest version of SevTech: Ages
 2. Install the latest version of Cleanroom Loader and copy the contents of the SevTech: Ages instance to it.
-3. Remove Better Foliage, BetterFPS, FastFurance, FastWorkbench, FoamFix, JustEnoughIDs, Just Enough Items, JourneyMapStages, Quick Leaf Decay, RandomPatches, Shadowfacts' Forgelin, Swing Through Grass and Toast Control
+3. Remove BetterFPS, FastFurance, FastWorkbench, FoamFix, JustEnoughIDs, Just Enough Items, JourneyMapStages, Quick Leaf Decay, RandomPatches, Shadowfacts' Forgelin, Swing Through Grass and Toast Control
 4. Install Fugue, Scalar Legacy, Had Enough Items, Forgelin-Continuous, JourneyMapStages Continuation and Roughly Enough IDs
-5. Update  Bookshelf, CraftTweaker, JourneyMap, Ore Stages, and The Twilight Forest
+5. Update Better Foliage, Bookshelf, CraftTweaker, JourneyMap, Ore Stages, and The Twilight Forest
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties as well as `Parallel Model Loader` in stellar_core.cfg, otherwise the game won't load or you'll get missing textures)
 
 Known issues: None (yet?)
