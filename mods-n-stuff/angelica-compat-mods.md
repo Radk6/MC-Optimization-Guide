@@ -15,3 +15,4 @@
 | SecurityCraft | [quentin452's SecurityCraft fork](https://github.com/quentin452/SecurityCraft/releases) | - |
 | Tinkers' Construct | [Tinkers' Construct-GTNH](https://github.com/GTNewHorizons/TinkersConstruct/releases) | Requires [Mantle-GTNH](https://github.com/GTNewHorizons/Mantle/releases) |
 | Twilight Forest | [Twilight Forest-GTNH](https://github.com/GTNewHorizons/twilightforest/releases) | - |
+| Wireless Redstone CBE | [Wireless Redstone CBE-GTNH](https://github.com/GTNewHorizons/WirelessRedstone-CBE/releases) | Requires [CodeChickenCore Unofficial](https://www.curseforge.com/minecraft/mc-mods/codechickencore-unofficial/files/all?page=1&pageSize=20) |
