@@ -144,7 +144,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Nomifactory CEu
 2. Install the latest version of Cleanroom Loader and copy the contents of the Nomifactory CEu instance to it.
-3. Update Forgelin-Continuous, Had Enough Items and Simply Jetpacks 2
+3. Update Alfheim, Forgelin-Continuous, Red Core, Simply Jetpacks 2 and VintageFix
 4. Install Fugue and Scalar Legacy 
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
@@ -164,7 +164,7 @@ Known issues: Dimensional cake rendering is slightly broken (possbily caused by 
 
 1. Install the latest version of RLCraft
 2. Install the latest version of Cleanroom Loader and copy the contents of the RLCraft instance to it.
-3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FileDirector (**RLCraft Dregora only**), FoamFix, Frame Void Patch HelpFixer, Just Enough Items, LibrarianLib, MixinBootstrap, MixinCompatibility,, Quark, Phosphor, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and ToastControl
+3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FileDirector (**RLCraft Dregora only**), FoamFix, Frame Void Patch, HelpFixer, Just Enough Items, LibrarianLib, MixinBootstrap, MixinCompatibility, Quark, Phosphor, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and ToastControl
 4. Install Fugue, Scalar Legacy, Had Enough Items, LibrarianLib-Continuous, Forgelin-Continuous and Quark: RotN Edition
 5. Update Recurrent Complex and RLTweaker
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**RLCraft Dregora only**: Don't use CensoredASM, FermiumASM is already included)
