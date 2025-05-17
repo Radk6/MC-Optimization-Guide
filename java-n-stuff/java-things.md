@@ -4,6 +4,8 @@
 
 ## 1.18.2+
 
+**NOTE:** While most mods should work fine with Java 24, there may be a few that won't. Currently the only one that I know of is Cobblemon, so if you're using it, switch to Java 21.
+
 | Java | Notes |
 |:---:|:---:|
 | [GraalVM Java 24](https://www.graalvm.org/downloads/) | Best performance and Generational ZGC support |
