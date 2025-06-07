@@ -34,7 +34,7 @@ Known issues: None (yet?)
 1. Install the latest version of Divine Journey 2
 2. Install the latest version of Cleanroom Loader and copy the contents of the Divine Journey 2 instance to it.
 3. Remove Bed Patch, ConfigAnytime, FermiumASM, FermiumBooter, Just Enough Items, MixinBooter, NotEnoughIDs, Quark, Shadowfacts' Forgelin and Spark
-4. Update Recurrent Complex and Universal Tweaks
+4. Update Recurrent Complex (you might have to delete and download the mod again) and Universal Tweaks
 5. Install Fugue, Scalar Legacy, Forgelin-Continuous, Roughly Enough IDs, Quark: RotN Edition and Had Enough Items
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
@@ -166,7 +166,7 @@ Known issues: Dimensional cake rendering is slightly broken (possbily caused by 
 2. Install the latest version of Cleanroom Loader and copy the contents of the RLCraft instance to it.
 3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FileDirector (**RLCraft Dregora only**), FoamFix, Frame Void Patch, HelpFixer, Just Enough Items, LibrarianLib, MixinBootstrap, MixinCompatibility, Quark, Phosphor, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and ToastControl
 4. Install Fugue, Scalar Legacy, Had Enough Items, LibrarianLib-Continuous, Forgelin-Continuous and Quark: RotN Edition
-5. Update Recurrent Complex and RLTweaker
+5. Update Recurrent Complex (you might have to delete and download the mod again) and RLTweaker
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**RLCraft Dregora only**: Don't use CensoredASM, FermiumASM is already included)
 
 Known issues: None (yet?)
