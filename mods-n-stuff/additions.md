@@ -4,6 +4,7 @@
 |:---:|:---:|:---:|:---:|:---:|
 | Alternate Current | Fabric, Forge, NeoForge | Can improve performance with lots of redstone contraptions around | 1.16.5 - 1.21.1 | Server |
 | AsyncParticles | Fabric, Forge, NeoForge | Improves performance when many particles are on screen | 1.20.1, 1.21.1 | Client |
+| BadOptimizations | Fabric, Forge | Optimizes various parts of the game, but some things may differ from Vanilla | 1.19.2 - 1.21.1 | Both |
 | Better Biome Blend | Cleanroom/Forge | Improves biome blending and its' performance | 1.12.2 | Client |
 | Cesium | Fabric, Forge/NeoForge (Connector Only) | Reduces save file size | 1.20.1, 1.21.1 | Server |
 | ChromatiFixes | Forge | Fixes performance issues with Reika's mods | 1.7.10 | Both | 
