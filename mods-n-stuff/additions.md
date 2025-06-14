@@ -12,6 +12,7 @@
 | Create Better FPS | Forge, NeoForge | Improves fps when using shaders around Create contraptions | 1.20.1, 1.21.1 | Client |
 | Debugify/Debugify Reforged/Modern Debugify | Fabric, Forge | Fixes bugs. Modern Debugify on 1.18.2 needs to have MC-147605 disabled if you're using JEI | 1.18.2 - 1.21.1 | Both |
 | Flerovium | Forge, NeoForge | Speeds up item rendering | 1.20.1, 1.21.1 | Client |
+| Gnetum | Cleanroom/Forge, NeoForge | Caches the HUD. Performs better than ImmediatelyFast, at the cost of making the HUD "feel" worse | 1.12.2, 1.20.1, 1.21.1 | Client |
 | Immersive Optimization | Forge, Fabric | May differ from Vanilla slightly | 1.20.1 | Server |
 | Krypton/Pluto/Krypton Foxified | Fabric, Forge, NeoForge | Improves the network stack, may be helpful on mulitplayer | 1.18.2 - 1.21.1 | Both |
 | Lazyyyyy | Forge | Can improve loading times in bigger modpacks | 1.20.1 | Both |
