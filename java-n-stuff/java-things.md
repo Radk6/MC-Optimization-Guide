@@ -38,6 +38,18 @@
 
 # JVM Arguments
 
+### DateFormat Fix
+
+For versions 11w49a-23w17a, on Java 20 and newer, a NNBSP (Narrow No-Break Space) character can show up in DateFormat outputs.
+
+This will render as a dotted box with surrounding the text "nnbsp" and will appear near timestamps (most commonly).
+
+To fix this add the argument:
+
+``
+-Djava.locale.providers=JRE
+``
+
 ### Generational ZGC (GenZGC)
 
 If you're on a version which supports Java 21 or newer and your PC has at least 16 GB of RAM, I'd recommend using GenZGC, as it can greatly reduce stutters. You can enable it with these args:
