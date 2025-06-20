@@ -42,7 +42,7 @@
 
 For versions 11w49a-23w17a, on Java 20 and newer, a NNBSP (Narrow No-Break Space) character can show up in DateFormat outputs.
 
-This will render as a dotted box with surrounding the text "nnbsp" and will appear near timestamps (most commonly).
+This will render as a dotted box with surrounding the text "NNBSP" and will appear near timestamps (most commonly).
 
 To fix this add the argument:
 
