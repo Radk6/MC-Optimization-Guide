@@ -8,6 +8,7 @@
 
 | Java | Notes |
 |:---:|:---:|
+| [GraalVM Java 25](https://github.com/graalvm/oracle-graalvm-ea-builds/releases) | **Only works with NeoForge and Fabric**. Best performance, GenZGC and Compact Object Headers support |
 | [GraalVM Java 24](https://www.graalvm.org/downloads/) | Best performance and GenZGC support |
 
 ## 1.16.5
