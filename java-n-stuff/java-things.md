@@ -43,13 +43,15 @@
 
 For versions 11w49a-23w17a, on Java 20 and newer, a NNBSP (Narrow No-Break Space) character can show up in DateFormat outputs.
 
-This will render as a dotted box with surrounding the text "NNBSP" and will appear near timestamps (most commonly).
+This will render as a dotted box surrounding the text "NNBSP" and will appear near timestamps (most commonly).
 
 To fix this add the argument:
 
 ``
 -Djava.locale.providers=JRE
 ``
+
+This does not affect 1.12.2 (Cleanroom Loader) or 1.7.10 (LWJGL3ify)
 
 ### Generational ZGC (GenZGC)
 
