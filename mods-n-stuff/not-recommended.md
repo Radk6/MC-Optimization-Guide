@@ -58,7 +58,7 @@
 | Sulfuric | 1.16.5 | Redundant with Starlight |
 | TexFix | 1.12.2 | Redundant with CensoredASM |
 | ThreatenGL | 1.18.2 - 1.21.1 | Fake performance mod, doesn't do anything except change the text in the F3 menu |
-| Unibilium | 1.20.1 - 1.21.1 | AI-generated mod, causes severe performance issues |
+| Unbinilium | 1.20.1 - 1.21.1 | AI-generated mod, causes severe performance issues |
 | VanillaFix | 1.12.2 | Redundant with CensoredASM |
 | VulkanMod | 1.18.2 - 1.21.1 | Compatibility issues, bugs |
 | Xenon | 1.20.1 | Doesn't have any advantages over Embeddium |
