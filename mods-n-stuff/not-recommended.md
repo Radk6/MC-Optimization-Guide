@@ -8,7 +8,6 @@
 | Mod | Version | Reason |
 |:---:|:---:|:---:|
 | AI Improvements | 1.12.2, 1.16.5 - 1.21.1 | Redundant with UniversalTweaks. Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead. |
-| Alternative Chunkloading | 1.7.10 | Breaks structure generation in some mods, redundant with ArchaicFix | 
 | Bedrodium/Bocchium | 1.16.5 - 1.20.1 | Negligible impact on performance, should be redundant with Sodium/Embeddium |
 | Better Beds | 1.16.5 - 1.21.1 | Redundant with Enhanced Block Entities |
 | BetterFPS | 1.7.10, 1.12.2 | Compatibility issues, questionable impact on performance |
