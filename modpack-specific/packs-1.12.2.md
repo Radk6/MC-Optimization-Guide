@@ -22,8 +22,19 @@ Known issues: None (yet?)
 
 1. Install the latest version of Chroma Technology
 2. Install the latest version of Cleanroom Loader and copy the contents of the Chroma Technology instance to it.
-3. Remove BetterFPS, Born in a Barn Diet Hopper, Fast Leaf Decay, FoamFix, HelpFixer, Just Enough Items, NotEnoughIDs, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control, Unloader and VanillaFix
+3. Remove BetterFPS, Born in a Barn, Diet Hopper, Fast Leaf Decay, FoamFix, HelpFixer, Just Enough Items, NotEnoughIDs, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control, Unloader and VanillaFix
 4. Update Corail Tombstone and SimplyJetpacks 2
+5. Install Fugue, Scalar Legacy, Forgelin-Continuous, Roughly Enough IDs and Had Enough Items
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+
+## Chroma Sky
+
+1. Install the latest version of Chroma Sky
+2. Install the latest version of Cleanroom Loader and copy the contents of the Chroma Sky instance to it.
+3. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Just Enough Items, JustEnoughIDs, NetherPortalFix, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control, Unloader and VanillaFix
+4. Update Corail Tombstone
 5. Install Fugue, Scalar Legacy, Forgelin-Continuous, Roughly Enough IDs and Had Enough Items
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
