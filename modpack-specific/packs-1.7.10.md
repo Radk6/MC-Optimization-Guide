@@ -24,7 +24,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Infinity Evolved
 2. Remove Binnie Patcher, CodeChickenLib, FastCraft and INpureCore
-3. Replace all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/angelica-compat-mods.md) (if present)
+3. Replace all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.7.10-compat-mods.md) (if present)
 4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.7.10.md) installed
 5. Go to the instance folder -> bugtorch -> mixins.cfg and set `B:skipInitialWorldChunkLoad` to `false`
 6. Set the game to run with [the recommended Java version](https://github.com/Radk6/MC-Optimization-Guide/blob/main/java-n-stuff/java-things.md)
