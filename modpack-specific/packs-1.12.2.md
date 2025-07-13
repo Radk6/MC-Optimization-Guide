@@ -60,7 +60,7 @@ Known issues: None (yet?)
 ~~5. Install Fugue, Scalar Legacy, Forgelin-Continuous, LibrarianLib-Continuous, Had Enough Items and Roughly Enough IDs~~
 ~~6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed~~
 
-Known issues: Guide is currently not functional
+Known issues: Guide is currently not functional, expect breakage.
 
 ## Enigmatica 2 Expert Unofficial (E2Eu)
 
