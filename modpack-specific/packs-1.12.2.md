@@ -51,16 +51,16 @@ Known issues: None (yet?)
 
 Known issues: None (yet?)
 
-## Dungeons, Dragons and Space Shuttles (DD&SS)
+## ~~Dungeons, Dragons and Space Shuttles (DD&SS)~~
 
-1. Install the latest version of DD&SS
-2. Install the latest version of Cleanroom Loader and copy the contents of the DD&SS instance to it.
-3. Remove BetterFPS, Clumps, Fast Leaf Decay, FastWorkbench, FoamFix, HelpFixer, Just Enough Items, LibrarianLib, NotEnoughIDs, Phosphor, RandomPatches, Shadowfacts' Forgelin, ToastControl, VanillaFix
-4. Update Corail Tombstone, Simply Jetpacks 2, Sledgehammer and Solar Flux Reborn
-5. Install Fugue, Scalar Legacy, Forgelin-Continuous, LibrarianLib-Continuous, Had Enough Items and Roughly Enough IDs
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+~~1. Install the latest version of DD&SS~~
+~~2. Install the latest version of Cleanroom Loader and copy the contents of the DD&SS instance to it.~~
+~~3. Remove BetterFPS, Clumps, Fast Leaf Decay, FastWorkbench, FoamFix, HelpFixer, Just Enough Items, LibrarianLib, NotEnoughIDs, Phosphor, RandomPatches, Shadowfacts' Forgelin, ToastControl, VanillaFix~~
+~~4. Update Corail Tombstone, Simply Jetpacks 2, Sledgehammer and Solar Flux Reborn~~
+~~5. Install Fugue, Scalar Legacy, Forgelin-Continuous, LibrarianLib-Continuous, Had Enough Items and Roughly Enough IDs~~
+~~6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed~~
 
-Known issues: None (yet?)
+Known issues: Guide is currently not functional
 
 ## Enigmatica 2 Expert Unofficial (E2Eu)
 
