@@ -74,6 +74,17 @@ Known issues: Guide is currently not functional, expect breakage.
  
 Known issues: None (yet?)
 
+## FTB Academy
+
+1. Install the latest version of FTB Academy
+2. Install the latest version of Cleanroom Loader and copy the contents of the FTB Academy instance to it.
+3. Remove BetterFPS, Clumps, Diet Hopper, Fast Leaf Decay, FastFurance, FastWorkbench, FoamFix, Just Enough Items, NetherPortalFix, Phosphor, RandomPatches, Shadowfacts' Forgelin and VanillaFix
+4. Update Dynamic Trees, Dynamic Trees - Traverse, JourneyMap, MineTogether, 
+5. Install Fugue, Scalar Legacy, Forgelin-Continuous and Had Enough Items
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+   
 ## FTB Infinity Reloaded: Skyblock
 
 1. Install the latest version of Infinity Reloaded: Skyblock
