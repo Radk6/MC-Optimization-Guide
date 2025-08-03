@@ -66,11 +66,10 @@ Known issues: Guide is currently not functional, expect breakage.
 
 1. Install the latest version of E2Eu
 2. Install the latest version of Cleanroom Loader and copy the contents of the E2Eu instance to it.
-3. Remove BetterFPS, Hesperus, MixinBooter, RandomPatches and Shadowfacts' Forgelin
+3. Remove BetterFPS, Clumps, Hesperus, MixinBooter, NotEnoughIDs, Old Java Warning, RandomPatches and Shadowfacts' Forgelin
 4. Update CensoredASM, Had Enough Items, VintageFix and UniversalTweaks
-5. Install Fugue, Scalar Legacy and Forgelin-Continuous
+5. Install Fugue, Scalar Legacy, Roughly Enough IDs and Forgelin-Continuous
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
-7. Disable StellarCore's `B:EnergyCalculatorLegImprovements`, `B:EnergyNetLocalImprovements`, `B:GetIoAndSubTileEnergyNetLocalImprovements`, `B:GridDataImprovements` and `B:GridImprovements` (either in-game through the mod menu or by editing the config file)
  
 Known issues: None (yet?)
 
