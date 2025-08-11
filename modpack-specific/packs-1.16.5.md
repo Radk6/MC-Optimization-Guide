@@ -44,6 +44,15 @@ Known issues: Enabling `Dynamic Resources` in ModernFix' settings prevents the g
 
 Known issues: None (yet?)
 
+## Enigmatica 6
+
+1. Download the latest version of Enigmatica 6
+2. Update Forge to the latest version (36.2.42)
+3. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed
+4. Set the Java version to 21 and add [these jvm arguments](https://github.com/embeddedt/ModernFix/wiki/1.16---required-arguments-for-Java-17)
+
+Known issues: None (yet?)
+
 ## Mineshafts & Monsters
 
 1. Download the latest version of Mineshafts & Monsters
