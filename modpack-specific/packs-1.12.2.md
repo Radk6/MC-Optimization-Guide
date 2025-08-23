@@ -242,7 +242,7 @@ Known issues: None (yet?)
 1. Install the latest version of StoneBlock 2
 2. Install the latest version of Cleanroom Loader and copy the contents of the StoneBlock 2 instance to it.
 3. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Fullscreen Windowed, Just Enough Items, RandomPatches, Shadowfacts' Forgelin, ToastControl and VanillaFix
-4. Update Flux Networks, HammerCore (HammerLib), MineTogether and Simply Jetpacks 2 to their lastest versions
+4. Update Chisel, ConnectedTexturesMod, Flux Networks, HammerCore (HammerLib), MineTogether and Simply Jetpacks 2 to their lastest versions
 5. Install Fugue, Scalar Legacy, Had Enough Items and Forgelin-Continuous
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
