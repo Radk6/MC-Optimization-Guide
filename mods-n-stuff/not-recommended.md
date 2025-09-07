@@ -12,6 +12,7 @@
 | Better Beds | 1.16.5 - 1.21.1 | Redundant with Enhanced Block Entities |
 | BetterFPS | 1.7.10, 1.12.2 | Compatibility issues, questionable impact on performance |
 | Better FPS - Render Distance | 1.16.5 - 1.21.1 | Decreases fps on lower render distances, causes visual "bugs" |
+| Born In A Barn | 1.7.10, 1.12.2 | Redundant with Hodgepodge (1.7.10), fix present in Forge/Cleanroom (1.12.2) |
 | Brute force render culling | 1.18.2 - 1.20.1 | Visual bugs |
 | C2ME | 1.18.2, 1.19.2 | Alpha, may cause issues |
 | Canary | 1.19.2, 1.20.1 | Compatibility issues, bugs |
