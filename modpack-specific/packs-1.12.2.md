@@ -223,7 +223,7 @@ Known issues: None (yet?)
 2. Install the latest version of Cleanroom Loader and copy the contents of the SkyFactory 4 instance to it.
 3. Remove FastFurnace, FastWorkbench, FoamFix, Just Enough Items, Mercurius, Shadowfacts' Forgelin, Surge, SwingThroughGrass, and Toast Control 
 4. Replace Mekanism and Mekanism Generators with their "Community Edition" equivalents
-5. Update Flux Networks to the latest version
+5. Update Flux Networks and CraftTweaker to the latest version
 6. Install Fugue, Scalar Legacy, Had Enough Items and Forgelin-Continuous
 7. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
