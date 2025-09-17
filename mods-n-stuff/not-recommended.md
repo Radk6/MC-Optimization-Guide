@@ -40,7 +40,7 @@
 | Hesperus | 1.12.2 | Redundant with Alfheim Lighting Engine |
 | Homoium | 1.12.2 | Rednundant with StellarCore/Universal Tweaks | 
 | Hydrogen/Helium | 1.16.5 | Redundant with FerriteCore |
-| Ksyxis | 1.16.5 - 1.20.1 | Removes spawn chunks |
+| Ksyxis | 1.12.2 - 1.21.1 | Removes spawn chunks |
 | Lightspeed | 1.16.5 - 1.19.2 | Redundant with ModernFix |
 | Leafculling | 1.7.10 | Redundant with Angelica |
 | MemoryLeakFix | 1.20.1, 1.21.1 | Redundant, Mojang fixed most of the memory leaks |
