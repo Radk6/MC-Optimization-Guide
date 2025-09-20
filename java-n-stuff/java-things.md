@@ -8,7 +8,7 @@
 
 | Java | Notes |
 |:---:|:---:|
-| [Adoptium Java 25](https://adoptium.net/temurin/releases/?version=25&package=jre) | **Only works with NeoForge and Fabric**. Best performance, GenZGC and Compact Object Headers support |
+| [Adoptium Java 25](https://adoptium.net/temurin/releases/?version=25&package=jre) | **Only works with Forge 1.20.1, NeoForge and Fabric**. Best performance, GenZGC and Compact Object Headers support |
 | [GraalVM Java 24](https://www.graalvm.org/downloads/) | Best performance and GenZGC support |
 
 ## 1.16.5
