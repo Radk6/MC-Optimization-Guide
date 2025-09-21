@@ -42,7 +42,7 @@ Known issues: None (yet?)
 3. Update REI (and associated mods) to the latest version
 4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.18.2.md#forge) installed
 
-Known issues: Shaders (Oculus) don't work. This is an issue with the Literal Sky Block mod, nothing this guide can fix.
+Known issues: Shaders (Oculus) don't work. [There is a workaround](https://www.reddit.com/r/feedthebeast/comments/yrpulh/i_figured_out_how_to_get_shaders_in_stoneblock_3/), but it involves changing recipes which alters gameplay slightly.
 
 ## Vault Hunters 3rd Edition
 
