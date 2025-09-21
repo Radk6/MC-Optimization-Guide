@@ -297,6 +297,18 @@ Known issues: None (yet?)
 
 Known issues: None (yet?)
 
+## Supersymmetry
+
+1. Install the latest version of Supersymmetry
+2. Move the pack to Cleanroom Loader
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Supersymmetry instance to it.
+   - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
+3. Remove ConfigAnytime, Hesperus and MixinBooter
+4. Update Fugue to the latest version
+5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+
 ## Ultimate Alchemy
 
 1. Install the latest version of Ultimate Alchemy
