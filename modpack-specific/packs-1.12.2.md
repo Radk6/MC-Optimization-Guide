@@ -213,11 +213,12 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Nomifactory CEu instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update Alfheim, Forgelin-Continuous, Red Core, Simply Jetpacks 2 and VintageFix
-4. Install Fugue and Scalar Legacy 
-5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+3. Remove Clumps
+4. Update Alfheim, CensoredASM, Forgelin-Continuous, LibrarianLib-Continuous, Red Core, Simply Jetpacks 2, VintageFix and UniversalTweaks
+5. Install Fugue and Scalar Legacy 
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
-Known issues: Latest Alfheim and Red Core cause issues with GTCEu recipes, DO NOT update them!
+Known issues: Java 25 causes issues, stick with Java 21 for now.
 
 ## Project Ozone 3
 
