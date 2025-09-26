@@ -116,6 +116,21 @@ Known issues: None (yet?)
 
 Known issues: None (yet?)
 
+## FTB Interactions
+
+1. Install the latest version of FTB Interactions
+2. Move the pack to Cleanroom Loader
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the FTB Interactions instance to it.
+   - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
+3. Remove AI Improvements, BetterFPS, Bigger Packets Please, Clumps, Diet Hopper, DupeFix Project, FastWorkbench, FoamFix, Just Enough Items, LibrarianLib, Logistics Bridge, MixinBootstrap, Mouse Tweaks, Phosphor, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control and VanillaFix
+4. Update CraftTweaker, Logistics Pipes and Sledgehammer
+5. Install Fugue, Scalar Legacy, Forgelin-Continuous, LibrarianLib-Continuous, Had Enough Items, Logistics Bridge Extended Life and Mouse Tweaks Unofficial
+6. Run the game once (it will crash)
+7. Add `org.eientei.gtce2oc.GTCE2OC` to `S:Reflection Patch Target List` in `fugue.cfg`
+8. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+
 ## Hexxit Updated
 
 1. Install the latest version of Hexxit Updated
@@ -238,7 +253,7 @@ Known issues: Dimensional cake rendering is slightly broken (possbily caused by 
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the RLCraft / RLCraft Dregora instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FileDirector (**RLCraft Dregora only**), FoamFix, Frame Void Patch, HelpFixer, Just Enough Items, LibrarianLib, MixinBootstrap, MixinCompatibility, Quark, Phosphor, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and ToastControl
+3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FileDirector (**RLCraft Dregora only**), FoamFix, Frame Void Patch, HelpFixer, Just Enough Items, LibrarianLib, MixinBootstrap, MixinCompatibility, Quark, Phosphor, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and Toast Control
 4. Install Fugue, Scalar Legacy, Had Enough Items, LibrarianLib-Continuous, Forgelin-Continuous and Quark: RotN Edition
 5. Update Recurrent Complex (you might have to delete and download the mod again) and RLTweaker
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**RLCraft Dregora only**: Don't use CensoredASM, FermiumASM is already included)
@@ -278,7 +293,7 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the StoneBlock instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FoamFix, Just Enough Items, Just Enough IDs, Mercurius, Old Java Warning, Shadowfacts' Forgelin and ToastControl
+3. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FoamFix, Just Enough Items, Just Enough IDs, Mercurius, Old Java Warning, Shadowfacts' Forgelin and Toast Control
 4. Update Flux Networks, Simply Jetpacks 2 and Solar Flux Reborn to their lastest versions
 5. Install Fugue, Scalar Legacy, Had Enough Items, Roughly Enough IDs and Forgelin-Continuous
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
@@ -291,7 +306,7 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the StoneBlock 2 instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Fullscreen Windowed, Just Enough Items, RandomPatches, Shadowfacts' Forgelin, ToastControl and VanillaFix
+3. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Fullscreen Windowed, Just Enough Items, RandomPatches, Shadowfacts' Forgelin, Toast Control and VanillaFix
 4. Update Chisel, ConnectedTexturesMod, Flux Networks, HammerCore (HammerLib), MineTogether and Simply Jetpacks 2 to their lastest versions
 5. Install Fugue, Scalar Legacy, Had Enough Items and Forgelin-Continuous
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
