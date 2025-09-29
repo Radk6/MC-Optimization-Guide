@@ -8,3 +8,4 @@ As you may have noticed, OptiFine is not present on any of the lists. Now, [this
 - It takes really long to update to newer versions of Minecraft
 - There are better performance boosting mods out there
 - Some of its' features can break certain game mechanics (for example Fast Math or Smooth World)
+- Some shaders are dropping OptiFine support in favor of Iris.
