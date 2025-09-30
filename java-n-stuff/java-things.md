@@ -39,44 +39,29 @@
 
 # JVM Arguments
 
-### DateFormat Fix
+Depending on the Minecraft version, different JVM arguments are avaiable. Here's what I usually use:
 
-For versions 11w49a-23w17a, on Java 20 and newer, a NNBSP (Narrow No-Break Space) character can show up in DateFormat outputs.
+| Java version | JVM arguments |
+|:---:|:---:|
+| Java 25 | `-XX:+UseCompactObjectHeaders -XX:+UseZGC` |
+| Java 24 | `-XX:+UnlockExperimentalVMOptions -XX:+UseCompactObjectHeaders -XX:+UseZGC` |
+| Java 21 | `-XX:+UseZGC -XX:+ZGenerational` |
+| Java 8 | `-XX:+UseG1GC` |
 
-This will render as a dotted box surrounding the text "NNBSP" and will appear near timestamps (most commonly).
+**NOTE:** If you have an old CPU or less than 16 GB of total system RAM, I wouldn't recommend using ZGC. G1GC is a better option for such systems.
 
-To fix this add the argument:
+Brief explanation of what these arguments do:
 
-``
--Djava.locale.providers=JRE
-``
+`-XX:+UseG1GC` - Enables the G1 Garbage Collector. G1 is the default since Java 9, so the arg is only necessary on Java 8.
 
-This does not affect 1.12.2 (Cleanroom Loader) or 1.7.10 (LWJGL3ify)
+`-XX:+UseZGC` - Enables the Z Garbage Collector. It uses more RAM but eliminates GC-related stutters
 
-### Generational ZGC (GenZGC)
+`-XX:+ZGenerational` - Makes ZGC generational. ZGC is Generational by default since Java 23, so the arg is only necessary on Java 21
 
-If you're on a version which supports Java 21 or newer and your PC has at least 16 GB of RAM, I'd recommend using GenZGC, as it can greatly reduce stutters. You can enable it with these args:
+`-XX:+UseCompactObjectHeaders` - Enables Compact Object Headers. This feature reduces RAM usage.
 
-For Java 21 and 22:
+`-XX:+UnlockExperimentalVMOptions` - Unlocks Experimental JVM Options. Necessary for using Compact Object Headers on Java 24
 
-``
--XX:+UseZGC -XX:+ZGenerational
-``
+### Additional JVM arguments
 
-For Java 23 and newer: 
-
-``
--XX:+UseZGC
-``
-
-If you are on a system with less than 6 cores and have 8 GB of total system RAM or less, I wouldn't recommend using ZGC.
-
-### Compact Object Headers
-
-Java 24 and newer support compact object headers, which can reduce memory usage, loading times and even increase fps. You can enable them with these args: 
-
-``
--XX:+UnlockExperimentalVMOptions -XX:+UseCompactObjectHeaders
-``
-
-However, keep in mind that on Java 24 it comes with a speed penalty (eg. slightly longer loading times). In Java 25 this won't be the case, however not many Minecraft versions work with Java 25 yet.
+`-Djava.locale.providers=JRE` Fixes `NNBSP` characters showing up in DateFormat outputs (e.g. near timestamps) on some versions when using Java 20 or newer.
