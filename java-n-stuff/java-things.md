@@ -39,7 +39,7 @@
 
 # JVM Arguments
 
-Depending on the Minecraft version, different JVM arguments are avaiable. Here's what I usually use:
+Depending on the Java version, different JVM arguments are avaiable. Here's what I usually use:
 
 | Java version | JVM arguments |
 |:---:|:---:|
