@@ -247,6 +247,19 @@ Known issues: Java 25 causes issues, stick with Java 21 for now.
 
 Known issues: Dimensional cake rendering is slightly broken (possbily caused by one of the rendering mods?), some items aren't hidden in HEI ([caused by CensoredASM](https://github.com/LoliKingdom/LoliASM/issues/263), not worth removing the mod given the performance improvement it brings)
 
+## Revers
+
+1. Install the latest version of Revers
+2. Move the pack to Cleanroom Loader
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Revers instance to it.
+   - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
+3. Remove AI Improvements, AttributeFix, Better Burning, BetterFPS, Born in a Barn, Clumps, EntityCulling, Fast Leaf Decay, FoamFix, Ido, Just Enough Items, LagGoggles, Mixin Compatibility, MixinBooter, MixinBootstrap, NotEnoughIDs, Performant, Phosphor, RandomPatches, Save My Stronghold!, Shadowfacts' Forgelin, Surge, SwingThroughGrass and TickCentral
+4. Update CensoredASM, JEI Utilities, Nothirium, Railcraft, RenderLib, Sledgehammer
+5. Install Fugue, Scalar Legacy, Aqua Acrobatics, Had Enough Items, Forgelin-Continuous and Roughly Enough IDs
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+
 ## RLCraft / RLCraft Dregora
 
 1. Install the latest version of RLCraft
