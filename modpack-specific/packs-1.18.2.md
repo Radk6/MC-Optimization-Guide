@@ -1,9 +1,17 @@
-## All The Mods 7 - To The Sky
+## All the Mods 7 - To The Sky (ATM7 TTS)
 
-1. Install the latest version of All The Mods 7 - To The Sky
+1. Install the latest version of ATM7 TTS
 2. Update Forge to the latest version
 3. Update JEI to the latest version
 4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.18.2.md#forge) installed
+
+Known issues: None (yet?)
+
+## Better Animals Better Horses Better Farm (BABHBF)
+
+1. Install the latest version of BABHBF
+2. Update Forge to the latest version
+3. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.18.2.md#forge) installed and configured accordingly
 
 Known issues: None (yet?)
 
