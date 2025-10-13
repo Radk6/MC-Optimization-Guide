@@ -268,7 +268,7 @@ Known issues: None (yet?)
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FileDirector (**RLCraft Dregora only**), FoamFix, Frame Void Patch, HelpFixer, Just Enough Items, LibrarianLib, MixinBootstrap, MixinCompatibility, Quark, Phosphor, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and Toast Control
 4. Install Fugue, Scalar Legacy, Had Enough Items, LibrarianLib-Continuous, Forgelin-Continuous and Quark: RotN Edition
-5. Update Recurrent Complex (you might have to delete and download the mod again) and RLTweaker
+5. Update RenderLib, Recurrent Complex (you might have to delete and download the mod again) and RLTweaker
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**RLCraft Dregora only**: Don't use CensoredASM, FermiumASM is already included)
 
 Known issues: None (yet?)
