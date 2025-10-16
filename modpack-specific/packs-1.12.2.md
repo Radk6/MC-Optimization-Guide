@@ -54,7 +54,7 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Compact Claustrophobia instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Remove BetterFps, Bigger Packets Please, Clumps, Diet Hopper, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Phospor, Shadowfacts' Forgelin, Toast Control
+3. Remove BetterFps, Bigger Packets Please, Clumps, Diet Hopper, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Just Enough Items, Phospor, Shadowfacts' Forgelin, Toast Control
 4. Install Fugue, Scalar Legacy, Had Enough Items and Forgelin-Continous
 5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
