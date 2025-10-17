@@ -283,7 +283,7 @@ Known issues: None (yet?)
 
 Known issues: None (yet?)
 
-## SevTech: Ages
+## SevTech: Ages / Ages of The Sky
 
 1. Install the latest version of SevTech: Ages
 2. Move the pack to Cleanroom Loader
