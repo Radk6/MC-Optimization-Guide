@@ -58,7 +58,7 @@ Brief explanation of what these arguments do:
 
 `-XX:+ZGenerational` - Makes ZGC generational. ZGC is Generational by default since Java 23, so the arg is only necessary on Java 21
 
-`-XX:+UseCompactObjectHeaders` - Enables Compact Object Headers. This feature reduces RAM usage.
+`-XX:+UseCompactObjectHeaders` - Enables Compact Object Headers. This feature reduces RAM usage and boosts performance a bit.
 
 `-XX:+UnlockExperimentalVMOptions` - Unlocks Experimental JVM Options. Necessary for using Compact Object Headers on Java 24
 
