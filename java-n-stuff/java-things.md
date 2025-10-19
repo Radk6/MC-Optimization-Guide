@@ -56,7 +56,7 @@ Brief explanation of what these arguments do:
 
 `-XX:+UseZGC` - Enables the Z Garbage Collector. It uses more RAM but eliminates GC-related stutters
 
-`-XX:+ZGenerational` - Makes ZGC generational. ZGC is Generational by default since Java 23, so the arg is only necessary on Java 21
+`-XX:+ZGenerational` - Makes ZGC generational. Only necessary on Java 21 as ZGC is generational by default since Java 23.
 
 `-XX:+UseCompactObjectHeaders` - Enables Compact Object Headers. This feature reduces RAM usage and boosts performance a bit.
 
