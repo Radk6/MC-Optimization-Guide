@@ -270,16 +270,28 @@ Known issues: Dimensional cake rendering is slightly broken (possbily caused by 
 
 Known issues: None (yet?)
 
-## RLCraft / RLCraft Dregora
+## RLCraft
 
 1. Install the latest version of RLCraft
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the RLCraft / RLCraft Dregora instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FileDirector (**RLCraft Dregora only**), FoamFix, Frame Void Patch, HelpFixer, Just Enough Items, LibrarianLib, MixinBootstrap, MixinCompatibility, Quark, Phosphor, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and Toast Control
+3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FoamFix, Frame Void Patch, HelpFixer, Just Enough Items, LibrarianLib, MixinBootstrap, MixinCompatibility, Quark, Phosphor, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and Toast Control
 4. Install Fugue, Scalar Legacy, Had Enough Items, LibrarianLib-Continuous, Forgelin-Continuous and Quark: RotN Edition
 5. Update RenderLib, Recurrent Complex (you might have to delete and download the mod again) and RLTweaker
-6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**RLCraft Dregora only**: Don't use CensoredASM, FermiumASM is already included)
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+
+## RLCraft Dregora
+
+1. Install the latest version of RLCraft
+2. Move the pack to Cleanroom Loader
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the RLCraft / RLCraft Dregora instance to it.
+   - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
+3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FermiumASM, FermiumBooter, FileDirector, FoamFix, Food Fix, Frame Void Patch, HelpFixer, Just Enough Items, LibrarianLib, Quark, Phosphor, PhosphorCrashFix, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and Toast Control
+4. Install Fugue, Scalar Legacy, Had Enough Items, LibrarianLib-Continuous, FermiumBooterDepoliticization, Forgelin-Continuous and Quark: RotN Edition
+5. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
 Known issues: None (yet?)
 
