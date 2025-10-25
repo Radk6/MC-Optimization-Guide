@@ -213,11 +213,11 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the MeatballCraft, Dimensional Ascension instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Update Alfheim, CensoredASM, EntityCulling, Fugue, ReachFix, Red Core, RenderLib, Naughthirium, Nothirium, VintageFix and UniversalTweaks
+3. Update CensoredASM, EntityCulling, Fugue, ReachFix, Red Core, RenderLib, Naughthirium, Nothirium, VintageFix and UniversalTweaks
 4. Remove ConfigAnytime, MixinBooter, MixinCompatibility and Scalar
 5. Install Scalar Legacy
 
-Known issues: None (yet?)
+Known issues: Updating Alfheim to 1.6 causes crashes when displaying MMCE multiblocks in HEI, so stick with Alfheim 1.5 for now.
 
 ## Multiblock Madness
 
