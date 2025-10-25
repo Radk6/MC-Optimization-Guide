@@ -1,4 +1,4 @@
-## Some other mods which may be useful in some situations (eg. big modpacks)
+## Some other mods which may be useful in some specific situations.
 
 | Mod | Mod Loader | Note | Version | Client/Server |
 |:---:|:---:|:---:|:---:|:---:|
@@ -17,6 +17,7 @@
 | Immersive Optimization | Forge, Fabric | May differ from Vanilla slightly | 1.20.1 | Server |
 | Krypton/Pluto/Krypton Foxified | Fabric, Forge, NeoForge | Improves the network stack, may be helpful on mulitplayer | 1.18.2 - 1.21.1 | Both |
 | Lazyyyyy | Forge | Can improve loading times in bigger modpacks | 1.20.1 | Both |
+| MapMipMapMod | Fabric | Improves mipmapping of maps in item frames | 1.20.1, 1.21.1 | Client |
 | Mobtimizations | Forge, Fabric | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | 1.18.2 - 1.20.1 | Server |
 | Moonrise | Fabric, NeoForge | Adds various patches from Paper, improving server performance. **Incompatible with C2ME** | 1.21.1 | Server |
 | Not Enough Recipe Book | Fabric, Forge, NeoForge | Removes the recipe book, can help performance in some cases and reduces redundancy with item viewers such as EMI | 1.18.2 - 1.21.1 | Both |
