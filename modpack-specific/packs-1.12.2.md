@@ -257,6 +257,19 @@ Known issues: Java 25 causes issues, stick with Java 21 for now.
 
 Known issues: Dimensional cake rendering is slightly broken (possbily caused by one of the rendering mods?), some items aren't hidden in HEI ([caused by CensoredASM](https://github.com/LoliKingdom/LoliASM/issues/263), not worth removing the mod given the performance improvement it brings)
 
+## Rebirth of the Night (RotN)
+
+1. Install the latest version of RotN
+2. Move the pack to Cleanroom Loader
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the RotN instance to it.
+   - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
+3. Remove ConfigAnytime, EntityCulling (by Meldexun), FermiumASM, FermiumBooter, MixinBooter, MixinBootstrap, Mixin Compatibility
+4. Update Alfheim, Fixeroo, Had Enough Items, Red Core and UniversalTweaks
+5. Install Fugue, Scalar Legacy, FermiumBooterDepoliticization
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: Doesn't work with Java 25, so stick with Java 21 for now.
+
 ## Revers
 
 1. Install the latest version of Revers
