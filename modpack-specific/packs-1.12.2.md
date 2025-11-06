@@ -69,8 +69,6 @@ Known issues: None (yet?)
 5. Install Fugue, Scalar Legacy, Forgelin-Continuous, Roughly Enough IDs, Quark: RotN Edition and Had Enough Items
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
-NOTE: JEI Utilities doesn't work with the latest version of Had Enough Items. Either remove JEIU, use HEI 4.28.1 or use JEIU 2.13.
-
 Known issues: None (yet?)
 
 ## Dungeons, Dragons and Space Shuttles (DD&SS)
