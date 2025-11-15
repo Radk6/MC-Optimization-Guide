@@ -195,7 +195,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Mod | Reason |
 |:---:|:---:|
 | BetterFPS | Compatibility issues, negligible performance improvement |
-| Born in a Barn | Redundant, fix already present in Forge/Cleanroom |
+| Born in a Barn | Redundant, fix already present in Forge |
 | CoFH Tweaks | Redundant with ArchaicFix |
 | FastCraft | Incompatible with Angelica |
 | Neodymium | Incompatible with Angelica/Beddium |
