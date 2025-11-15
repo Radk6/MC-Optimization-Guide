@@ -122,7 +122,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | FastChest | Redundant with Enhanced Block Entities |
 | Fastload | Compatibility issues |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
-| Francium | Negligible impact on performance |
+| Francium | Negligible performance improvement |
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
 | Ksyxis | Removes spawn chunks |
 | Lightspeed | Redundant with ModernFix |
@@ -150,7 +150,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | FastBoot | Redundant with ModernFix |
 | FastChest | Redundant with Enhanced Block Entities |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
-| Francium | Negligible impact on performance |
+| Francium | Negligible performance improvement |
 | Hydrogen/Helium | Redundant with FerriteCore |
 | Ksyxis | Removes spawn chunks |
 | Lightspeed | Redundant with ModernFix |
