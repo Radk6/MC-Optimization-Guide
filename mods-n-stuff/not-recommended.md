@@ -1,65 +1,206 @@
 ## List of mods that aren't recommended for one reason or another. May change in the future.
-**Mod** - Name of the mod
+This list assumes that you're already using every mod this guide recommends. Furthermore, just because a mod is on this list, doesn't mean it's bad. Many of them are great, but they've either been replaced by a better mod or are redundant with something recommended in this guide.
 
-**Version** - The version(s) on which the mod shouldn't be used
+# 1.21.1
+<details>
+  <summary>Click to expand</summary>
 
-**Reason** - Self explanatory.
+| Mod | Reason |
+|:---:|:---:|
+| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
+| Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
+| Better Beds | Redundant with Enhanced Block Entities |
+| Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
+| Cull Leaves | Redundant with More Culling |
+| Cull Less Leaves | Redundant with More Culling |
+| Cull Particles Multiloader | Mostly redundant with Async Particles, Sodium and NeoForge |
+| Dashloader | Redundant with ModernFix |
+| Faster Random | Breaks Vanilla Parity |
+| FPS Boost | Fake mod, doesn't provide any performance improvements |
+| GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
+| Ksyxis | Removes spawn chunks |
+| MemoryLeakFix | Redundant, Mojang fixed most of the memory leaks |
+| OptiFine | [Various reasons](opti-not-so-fine.md) |
+| Particle Core | Redundant with Async Particles |
+| Redirected | Compatibility issues, negligible performance improvement |
+| Saturn | Redundant with ModernFix, negligible performance improvement |
+| ScalableLux | Not necessary for the average player |
+| Sodium Leaf Culling | Redundant with More Culling |
+| StutterFix | Redundant with C2ME |
+| ThreatenGL | Fake mod, doesn't provide any performance improvements |
+| Unbinilium | AI-generated mod, causes severe performance issues |
+| VulkanMod | Compatibility issues |
 
-| Mod | Version | Reason |
-|:---:|:---:|:---:|
-| AI Improvements | 1.12.2, 1.16.5 - 1.21.1 | Redundant with UniversalTweaks. Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead. |
-| Bedrodium/Bocchium | 1.16.5 - 1.20.1 | Negligible impact on performance, should be redundant with Sodium/Embeddium |
-| Better Beds | 1.16.5 - 1.21.1 | Redundant with Enhanced Block Entities |
-| BetterFPS | 1.7.10, 1.12.2 | Compatibility issues, questionable impact on performance |
-| Better FPS - Render Distance | 1.16.5 - 1.21.1 | Decreases fps on lower render distances, causes visual "bugs" |
-| Born In A Barn | 1.7.10, 1.12.2 | Redundant with Hodgepodge (1.7.10), fix present in Forge/Cleanroom (1.12.2) |
-| Brute force render culling | 1.18.2 - 1.20.1 | Visual bugs |
-| C2ME | 1.18.2, 1.19.2 | Alpha, may cause issues |
-| Canary | 1.19.2, 1.20.1 | Compatibility issues, bugs |
-| Clumps | 1.12.2 | Redundant with Fixeroo |
-| CoFH Tweaks | 1.7.10 | Redundant with ArchaicFix |
-| Cull Clouds | 1.18.2, 1.19.2 | Negligible impact on performance, more or less redundant wiht Sodium and MoreCulling |
-| Cull Leaves | 1.18.2 - 1.21.1 | Redundant with MoreCulling |
-| Cull Less Leaves | 1.19.2 - 1.21.1 | Redundant with MoreCulling |
-| Cull Particles Multiloader | 1.21.1 | Forge already does particle culling since 1.16 |
-| Dashloader | 1.16.5 - 1.20.1 | Redundant with ModernFix |
-| EBE Backforged | 1.16.5 | Not compatible with ModernFix' Dynamic Resources |
-| FastAnim | 1.19.2, 1.20.1 | Doesn't boost performance |
-| FastBoot | 1.16.5 - 1.20.1 | Redundant with ModernFix |
-| Fastload | 1.18.2 - 1.20.1 | Abandoned, has compatibility issues |
-| FalseTweaks | 1.7.10 | Incompatible with Angelica |
-| FastChest | 1.16.5 - 1.20.1 | Redundant with Enhanced Block Entities |
-| FastCraft | 1.7.10 | Incompatible with Angelica |
-| Faster Random | 1.19.2 - 1.21.1 | Breaks Vanilla Parity |
-| FastFurnace | 1.12.2 | Redundant with CensoredASM |
-| FastWorkbench | 1.12.2 | Redundant with UniversalTweaks |
-| FoamFix | 1.12.2 | Redundant with VintageFix |
-| FPS Boost (by The_TCT) | 1.18.2 - 1.21.1 | Fake performance mod, doesn't actually boost fps 
-| Francium | 1.16.5, 1.18.2 | Negligible impact on performance, abandoned |
-| GPUTape/VideoTape | 1.18.2 - 1.21.1 | Doesn't actually fix anything (according to Iris' dev) |
-| Hesperus | 1.12.2 | Redundant with Alfheim Lighting Engine |
-| Homoium | 1.12.2 | Rednundant with StellarCore/Universal Tweaks | 
-| Hydrogen/Helium | 1.16.5 | Redundant with FerriteCore |
-| Ksyxis | 1.12.2 - 1.21.1 | Removes spawn chunks |
-| Lightspeed | 1.16.5 - 1.19.2 | Redundant with ModernFix |
-| Leafculling | 1.7.10 | Redundant with Angelica |
-| MemoryLeakFix | 1.20.1, 1.21.1 | Redundant, Mojang fixed most of the memory leaks |
-| Neodymium | 1.7.10 | Incompatible with Angelica |
-| OptiFine | All | [Various reasons](opti-not-so-fine.md)
-| OptimizationsAndTweaks | 1.7.10 | Incompatible with Angelica |
-| Particle Core | 1.20.1, 1.21.1 | Redundant with Async Particles |
-| Performant | 1.12.2, 1.16.5 | Compatibility issues, incompatible with RoadRunner |
-| Phosphor | 1.12.2 | Redundant with Alfheim Lighting Engine |
-| Radon | 1.16.5 - 1.19.2 | Redundant with Starlight |
-| Redirected/Redirector/Redirectionor | 1.7.10 - 1.20.1 | Compatibility issues, negligible impact on performance |
-| Saturn | 1.16.5 - 1.20.1 | Redundant with ModernFix, negligible impact on performance |
-| ScalableLux | 1.21.1 | Only "necessary" if you're running a server with many players and have a 32+ core CPU. The average player won't benefit from it |
-| Sodium Leaf Culling | 1.21.1 | Redundant with MoreCulling |
-| StutterFix | 1.19.2 - 1.21.1 | Redundant with Smooth Boot/ThreadTweak |
-| Sulfuric | 1.16.5 | Redundant with Starlight |
-| TexFix | 1.12.2 | Redundant with CensoredASM |
-| ThreatenGL | 1.18.2 - 1.21.1 | Fake performance mod, doesn't do anything except change the text in the F3 menu |
-| Unbinilium | 1.20.1 - 1.21.1 | AI-generated mod, causes severe performance issues |
-| VanillaFix | 1.12.2 | Redundant with CensoredASM |
-| VulkanMod | 1.18.2 - 1.21.1 | Compatibility issues, bugs |
-| Xenon | 1.20.1 | Doesn't have any advantages over Embeddium |
+</details>
+
+# 1.20.1
+<details>
+  <summary>Click to expand</summary>
+  
+| Mod | Reason |
+|:---:|:---:|
+| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
+| Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
+| Better Beds | Redundant with Enhanced Block Entities |
+| Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
+| Brute force render culling | Visual bugs |
+| Canary | Redundant with Radium |
+| Cull Leaves | Redundant with More Culling |
+| Cull Less Leaves | Redundant with More Culling |
+| Dashloader | Redundant with ModernFix |
+| FastAnim | Negligible performance improvement |
+| FastBoot | Redundant with ModernFix |
+| FastChest | Redundant with Enhanced Block Entities |
+| Fastload | Compatibility issues |
+| Faster Random | Breaks Vanilla Parity |
+| FPS Boost | Fake mod, doesn't provide any performance improvements |
+| GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
+| Ksyxis | Removes spawn chunks |
+| MemoryLeakFix | Redundant, Mojang fixed most of the memory leaks |
+| OptiFine | [Various reasons](opti-not-so-fine.md) |
+| Particle Core | Redundant with Async Particles |
+| Redirector [Modern]/Redirected | Compatibility issues, negligible performance improvement |
+| Saturn | Redundant with ModernFix, negligible performance improvement |
+| StutterFix | Redundant with ThreadTweak |
+| ThreatenGL | Fake mod, doesn't provide any performance improvements |
+| Unbinilium | AI-generated mod, causes severe performance issues |
+| VulkanMod | Compatibility issues |
+| Xenon | No real advantages over Embeddium |
+
+</details>
+
+# 1.19.2
+<details>
+  <summary>Click to expand</summary>
+  
+| Mod | Reason |
+|:---:|:---:|
+| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
+| Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
+| Better Beds | Redundant with Enhanced Block Entities |
+| Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
+| Brute force render culling | Visual bugs |
+| Canary | Redundant with Radium |
+| Cull Clouds | Negligible performance improvement |
+| Cull Leaves | Redundant with More Culling |
+| Cull Less Leaves | Redundant with More Culling |
+| Dashloader | Redundant with ModernFix |
+| FastAnim | Negligible performance improvement |
+| FastBoot | Redundant with ModernFix |
+| FastChest | Redundant with Enhanced Block Entities |
+| Fastload | Compatibility issues |
+| Faster Random | Breaks Vanilla Parity |
+| FPS Boost | Fake mod, doesn't provide any performance improvements |
+| GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
+| Ksyxis | Removes spawn chunks |
+| Lightspeed | Redundant with ModernFix |
+| OptiFine | [Various reasons](opti-not-so-fine.md) |
+| Radon | Redundant with Starlight |
+| Redirector [Modern] | Compatibility issues, negligible performance improvement |
+| Saturn | Redundant with ModernFix, negligible performance improvement |
+| StutterFix | Redundant with Smooth Boot |
+| ThreatenGL | Fake mod, doesn't provide any performance improvements |
+| VulkanMod | Compatibility issues |
+
+</details>
+
+# 1.18.2
+<details>
+  <summary>Click to expand</summary>
+  
+| Mod | Reason |
+|:---:|:---:|
+| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
+| Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
+| Better Beds | Redundant with Enhanced Block Entities |
+| Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
+| Brute force render culling | Visual bugs |
+| Cull Clouds | Negligible performance improvement |
+| Cull Leaves | Redundant with More Culling |
+| Dashloader | Redundant with ModernFix |
+| FastBoot | Redundant with ModernFix |
+| FastChest | Redundant with Enhanced Block Entities |
+| Fastload | Compatibility issues |
+| FPS Boost | Fake mod, doesn't provide any performance improvements |
+| Francium | Negligible impact on performance |
+| GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
+| Ksyxis | Removes spawn chunks |
+| Lightspeed | Redundant with ModernFix |
+| OptiFine | [Various reasons](opti-not-so-fine.md) |
+| Radon | Redundant with Starlight |
+| Redirector [Modern] | Compatibility issues, negligible performance improvement |
+| Saturn | Redundant with ModernFix, negligible performance improvement |
+| ThreatenGL | Fake mod, doesn't provide any performance improvements |
+| VulkanMod | Compatibility issues |
+
+</details>
+
+# 1.16.5
+<details>
+  <summary>Click to expand</summary>
+  
+| Mod | Reason |
+|:---:|:---:|
+| AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
+| Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
+| Better Beds | Redundant with Enhanced Block Entities |
+| Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
+| Dashloader | Redundant with ModernFix |
+| EBE Backforged | Not compatible with ModernFix |
+| FastBoot | Redundant with ModernFix |
+| FastChest | Redundant with Enhanced Block Entities |
+| FPS Boost | Fake mod, doesn't provide any performance improvements |
+| Francium | Negligible impact on performance |
+| Hydrogen/Helium | Redundant with FerriteCore |
+| Ksyxis | Removes spawn chunks |
+| Lightspeed | Redundant with ModernFix |
+| OptiFine | [Various reasons](opti-not-so-fine.md) |
+| Performant | Incompatible and redundant with RoadRunner |
+| Radon | Redundant with Starlight |
+| Redirector [Modern] | Compatibility issues, negligible performance improvement |
+| Saturn | Redundant with ModernFix, negligible performance improvement |
+| Sulfuric | Redundant with Starlight |
+
+</details>
+
+# 1.12.2
+<details>
+  <summary>Click to expand</summary>
+  
+| Mod | Reason |
+|:---:|:---:|
+| AI Improvements | Redundant with UniversalTweaks |
+| BetterFPS | Compatibility issues, negligible performance improvement |
+| Born in a Barn | Redundant, fix already present in Forge/Cleanroom |
+| Clumps | Redundant with Fixeroo |
+| FastFurnace | Redundant with CensoredASM |
+| FastWorkbench | Redundant with UniversalTweaks |
+| FoamFix | Redundant with VintageFix |
+| FPS Boost | Fake mod, doesn't provide any performance improvements |
+| Hesperus | Redundant with Alfheim |
+| Homoium | Negligible performance improvement |
+| Ksyxis | Removes spawn chunks, redundant with UniversalTweaks |
+| Performant | No performance improvement (latest version), slows down parts of the game to "improve" performance |
+| Phosphor | Redundant with Alfheim |
+| Redirectionor [Retro] | Compatibility issues, negligible performance improvement |
+| TexFix | Redundant with CensoredASM |
+| VanillaFix | Redundant with CensoredASM |
+
+</details>
+
+# 1.7.10
+<details>
+  <summary>Click to expand</summary>
+  
+| Mod | Reason |
+|:---:|:---:|
+| BetterFPS | Compatibility issues, negligible performance improvement |
+| Born in a Barn | Redundant, fix already present in Forge/Cleanroom |
+| CoFH Tweaks | Redundant with ArchaicFix |
+| FastCraft | Incompatible with Angelica |
+| Neodymium | Incompatible with Angelica/Beddium |
+| OptiFine | [Various reasons](opti-not-so-fine.md) |
+| OptimizationsAndTweaks | Incompatible with Angelica/Beddium |
+| Redirectionor [Retro] | Compatibility issues, negligible performance improvement |
+
+</details>
