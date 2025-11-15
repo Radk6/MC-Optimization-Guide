@@ -15,6 +15,7 @@
 | Flerovium | Forge, NeoForge | Speeds up item rendering | 1.20.1, 1.21.1 | Client |
 | Gnetum | Cleanroom/Forge, NeoForge | Caches the HUD. Performs better than ImmediatelyFast, at the cost of making the HUD "feel" worse | 1.12.2, 1.20.1, 1.21.1 | Client |
 | Immersive Optimization | Forge, Fabric | May differ from Vanilla slightly | 1.20.1 | Server |
+| Ixeris | Fabric, Forge, NeoForge | Offloads event polling to a separate thread, potentially improving FPS | 1.20.1, 1.21.1 | Client |
 | Krypton/Pluto/Krypton Foxified | Fabric, Forge, NeoForge | Improves the network stack, may be helpful on mulitplayer | 1.18.2 - 1.21.1 | Both |
 | Lazyyyyy | Forge | Can improve loading times in bigger modpacks | 1.20.1 | Both |
 | MapMipMapMod | Fabric | Improves mipmapping of maps in item frames | 1.20.1, 1.21.1 | Client |
@@ -27,5 +28,5 @@
 | Sledgehammer | Cleanroom/Forge | Situational fixes for some mods | 1.12.2 | Both |
 | Smooth Boot/Smooth Boot Reloaded | Forge, Fabric | Modifies CPU scheduling to improve loading times | 1.16.5 - 1.19.2 | Both |
 | Structure Layout Optimizer | Forge, Fabric, NeoForge | Improves structure generation speed, helpful in packs with lots of structures | 1.16.5 - 1.21.1 | Server |
-| ThreadTweak | Fabric | Allows for changing thread priority, which can be beneficial on extremely low-end/old PCs | 1.20.1, 1.21.1 | Both |
+| ThreadTweak | Fabric | Allows for changing thread priority, which can be beneficial on extremely low-end/old PCs | 1.20.1 | Both |
 | Vanillin | Forge, Fabric, NeoForge | Speeds up rendering of block entities (eg. Chests), even better than Enhanced Block Entities. Shaders require the Colorwheel mod | 1.20.1, 1.21.1 | Client | 
