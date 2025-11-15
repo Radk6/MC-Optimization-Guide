@@ -1,5 +1,5 @@
 ## List of mods that aren't recommended for one reason or another. May change in the future.
-This list assumes that you're already using every mod this guide recommends. Furthermore, just because a mod is on this list, doesn't mean it's bad. Many of them are great, but they've either been replaced by a better mod or are redundant with something recommended in this guide.
+This list assumes that you're already using every mod this guide recommends. Furthermore, just because a mod is on this list doesn't mean it's bad. Many of them are great, but they've either been replaced by a better mod or are redundant with something recommended by this guide.
 
 # 1.21.1
 <details>
