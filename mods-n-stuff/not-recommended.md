@@ -8,6 +8,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Mod | Reason |
 |:---:|:---:|
 | AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
+| Async | Compatibility issues, contains AI-generated code |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
