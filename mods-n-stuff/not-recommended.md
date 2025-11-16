@@ -12,6 +12,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
+| Chunk Sending | Redundant with Krypton |
 | Cull Leaves | Redundant with More Culling |
 | Cull Less Leaves | Redundant with More Culling |
 | Cull Particles Multiloader | Mostly redundant with Async Particles, Sodium and NeoForge |
@@ -26,6 +27,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Redirected | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
 | ScalableLux | Not necessary for the average player |
+| Smooth Chunk Save | Redundant with C2ME, stops saving when MSPT >50 |
 | Sodium Leaf Culling | Redundant with More Culling |
 | StutterFix | Redundant with C2ME |
 | ThreatenGL | Fake mod, doesn't provide any performance improvements |
@@ -46,6 +48,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Brute force render culling | Visual bugs |
 | Canary | Redundant with Radium |
+| Chunk Sending | Redundant with Krypton |
 | Cull Leaves | Redundant with More Culling |
 | Cull Less Leaves | Redundant with More Culling |
 | Dashloader | Redundant with ModernFix |
@@ -62,6 +65,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Particle Core | Redundant with Async Particles |
 | Redirector [Modern]/Redirected | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
+| Smooth Chunk Save | Redundant with C2ME, stops saving when MSPT >50 |
 | StutterFix | Redundant with ThreadTweak |
 | ThreatenGL | Fake mod, doesn't provide any performance improvements |
 | Unbinilium | AI-generated mod, causes severe performance issues |
@@ -82,6 +86,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Brute force render culling | Visual bugs |
 | Canary | Redundant with Radium |
+| Chunk Sending | Redundant with Krypton/Pluto |
 | Cull Clouds | Negligible performance improvement |
 | Cull Leaves | Redundant with More Culling |
 | Cull Less Leaves | Redundant with More Culling |
@@ -99,6 +104,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Radon | Redundant with Starlight |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
+| Smooth Chunk Save | Redundant with C2ME, stops saving when MSPT >50 |
 | StutterFix | Redundant with Smooth Boot |
 | ThreatenGL | Fake mod, doesn't provide any performance improvements |
 | VulkanMod | Compatibility issues |
@@ -116,6 +122,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Better Beds | Redundant with Enhanced Block Entities |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Brute force render culling | Visual bugs |
+| Chunk Sending | Redundant with Krypton/Pluto |
 | Cull Clouds | Negligible performance improvement |
 | Cull Leaves | Redundant with More Culling |
 | Dashloader | Redundant with ModernFix |
@@ -131,6 +138,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Radon | Redundant with Starlight |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
+| Smooth Chunk Save | Redundant with C2ME, stops saving when MSPT >50 |
 | ThreatenGL | Fake mod, doesn't provide any performance improvements |
 | VulkanMod | Compatibility issues |
 
@@ -146,6 +154,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
+| Chunk Sending | Redundant with Krypton |
 | Dashloader | Redundant with ModernFix |
 | EBE Backforged | Not compatible with ModernFix |
 | FastBoot | Redundant with ModernFix |
@@ -160,6 +169,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Radon | Redundant with Starlight |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
+| Smooth Chunk Save | Stops saving when MSPT >50 |
 | Sulfuric | Redundant with Starlight |
 
 </details>
