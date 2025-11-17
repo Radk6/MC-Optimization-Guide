@@ -237,7 +237,7 @@ Known issues: None (yet?)
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Nomifactory CEu instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove Clumps
-4. Update Alfheim, CensoredASM, Forgelin-Continuous, LibrarianLib-Continuous, Red Core, Simply Jetpacks 2, VintageFix and UniversalTweaks
+4. Update CensoredASM, Forgelin-Continuous, LibrarianLib-Continuous, VintageFix and UniversalTweaks
 5. Install Fugue and Scalar Legacy 
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
 
