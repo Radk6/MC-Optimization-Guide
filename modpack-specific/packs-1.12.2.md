@@ -92,11 +92,11 @@ Known issues: None (yet?)
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the E2Eu instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFPS, Clumps, Hesperus, MixinBooter, NotEnoughIDs, Old Java Warning, RandomPatches and Shadowfacts' Forgelin
-4. Update CensoredASM, Had Enough Items, NotEnoughEnergistics, VintageFix and UniversalTweaks
+4. Update CensoredASM, Had Enough Items, JEI Utilities, NotEnoughEnergistics, VintageFix and UniversalTweaks
 5. Install Fugue, Scalar Legacy, Roughly Enough IDs and Forgelin-Continuous
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
  
-Known issues: None (yet?)
+Known issues: Doesn't work on latest Cleanroom (0.3.26), use 0.3.24 for now.
 
 ## FTB Academy
 
