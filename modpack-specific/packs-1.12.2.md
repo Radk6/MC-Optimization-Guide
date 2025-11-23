@@ -217,6 +217,19 @@ Known issues: None (yet?)
 
 Known issues: Updating Alfheim to 1.6 causes crashes when displaying MMCE multiblocks in HEI, so stick with Alfheim 1.5 for now.
 
+## Modern Skyblock 3: Departed
+
+1. Install the latest version of Modern Skyblock 3: Departed
+2. Move the pack to Cleanroom Loader
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Modern Skyblock 3: Departed instance to it.
+   - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
+3. Remove Bed Patch, BetterFPS, Clumps, Diet Hopper, Fast Leaf Decay, FastWorkbench, FoamFix, Just Enough Items, NetherPortalFix, NotEnoughIDs, RandomPatches, Shadowfacts' Forgelin and ToastControl
+4. Update Corail Tombstone, HammerCore (HammerLib), iChunUtil, JourneyMap, Flux Networks, Mekanism, Mekanism Generators, Mekanism Tools, Simply Jetpacks 2 and ThaumicJEI to their latest versions
+5. Install Fugue, Scalar Legacy, Forgelin-Continuous, Had Enough Items and Roughly Enough IDs
+6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed
+
+Known issues: None (yet?)
+
 ## Multiblock Madness
 
 1. Install the latest version of Multiblock Madness
