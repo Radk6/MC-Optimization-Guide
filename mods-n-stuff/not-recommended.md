@@ -17,6 +17,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Cull Less Leaves | Redundant with More Culling |
 | Cull Particles Multiloader | Mostly redundant with Async Particles, Sodium and NeoForge |
 | Dashloader | Redundant with ModernFix |
+| Fast Async World Save | Redundant and partially incompatible with C2ME |
 | Faster Random | Breaks Vanilla Parity |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
@@ -53,6 +54,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Cull Less Leaves | Redundant with More Culling |
 | Dashloader | Redundant with ModernFix |
 | FastAnim | Negligible performance improvement |
+| Fast Async World Save | Redundant and partially incompatible with C2ME |
 | FastBoot | Redundant with ModernFix |
 | FastChest | Redundant with Enhanced Block Entities |
 | Fastload | Compatibility issues |
@@ -92,6 +94,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Cull Less Leaves | Redundant with More Culling |
 | Dashloader | Redundant with ModernFix |
 | FastAnim | Negligible performance improvement |
+| Fast Async World Save | Redundant and partially incompatible with C2ME |
 | FastBoot | Redundant with ModernFix |
 | FastChest | Redundant with Enhanced Block Entities |
 | Fastload | Compatibility issues |
@@ -126,6 +129,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Cull Clouds | Negligible performance improvement |
 | Cull Leaves | Redundant with More Culling |
 | Dashloader | Redundant with ModernFix |
+| Fast Async World Save | Redundant and partially incompatible with C2ME |
 | FastBoot | Redundant with ModernFix |
 | FastChest | Redundant with Enhanced Block Entities |
 | Fastload | Compatibility issues |
