@@ -325,9 +325,9 @@ Known issues: None (yet?)
 2. Move the pack to Cleanroom Loader
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the SevTech: Ages instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
-3. Remove BetterFPS, FastFurance, FastWorkbench, FoamFix, JustEnoughIDs, Just Enough Items, JourneyMapStages, Quick Leaf Decay, RandomPatches, Shadowfacts' Forgelin, Swing Through Grass and Toast Control
+3. Remove BetterFPS, Clumps, FastFurance, FastWorkbench, FoamFix, JustEnoughIDs, Just Enough Items, JourneyMapStages, Quick Leaf Decay, RandomPatches, Shadowfacts' Forgelin, Swing Through Grass and Toast Control
 4. Install Fugue, Scalar Legacy, Had Enough Items, Forgelin-Continuous, JourneyMapStages Continuation and Roughly Enough IDs
-5. Update Better Foliage, Bookshelf, Chisel, CraftTweaker, JourneyMap, Ore Stages, and The Twilight Forest
+5. Update Better Foliage, Bookshelf, ConnectedTexturesMod, Chisel, CraftTweaker, JourneyMap, Ore Stages, and The Twilight Forest
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed (**NOTE:** You MUST set `mixin.dynamic_resources` to `false` in vintagefix.properties as well as `Parallel Model Loader` in stellar_core.cfg, otherwise the game won't load or you'll get missing textures)
 
 Known issues: None (yet?)
