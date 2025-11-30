@@ -31,6 +31,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Smooth Chunk Save | Redundant with C2ME, stops saving when MSPT >50 |
 | Sodium Leaf Culling | Redundant with More Culling |
 | StutterFix | Redundant with C2ME |
+| ThreadTweak | Redundant with C2ME |
 | ThreatenGL | Fake mod, doesn't provide any performance improvements |
 | Unbinilium | AI-generated mod, causes severe performance issues |
 | VulkanMod | Compatibility issues |
