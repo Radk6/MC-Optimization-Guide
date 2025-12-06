@@ -215,6 +215,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Born in a Barn | Redundant, fix already present in Forge |
 | CoFH Tweaks | Redundant with ArchaicFix |
 | FastCraft | Incompatible with Angelica |
+| Flying Cullers | Incompatible with Beddium |
 | Neodymium | Incompatible with Angelica/Beddium |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
 | OptimizationsAndTweaks | Incompatible with Angelica/Beddium |
