@@ -17,7 +17,7 @@
 | Gnetum | Cleanroom/Forge, NeoForge | Caches the HUD. Performs better than ImmediatelyFast, at the cost of making the HUD "feel" worse | 1.12.2, 1.20.1, 1.21.1 | Client |
 | Immersive Optimization | Forge, Fabric | May differ from Vanilla slightly | 1.20.1 | Server |
 | Ixeris | Fabric, Forge, NeoForge | Offloads event polling to a separate thread, potentially improving FPS | 1.20.1, 1.21.1 | Client |
-| Krypton/Pluto/Krypton Foxified | Fabric, Forge, NeoForge | Improves the network stack, may be helpful on mulitplayer | 1.18.2 - 1.21.1 | Both |
+| Krypton/Krypton FNP | Fabric, Forge, NeoForge | Improves the network stack, may be helpful on mulitplayer | 1.18.2 - 1.21.1 | Both |
 | Lazyyyyy | Forge | Can improve loading times in bigger modpacks | 1.20.1 | Both |
 | MapMipMapMod | Fabric | Improves mipmapping of maps in item frames | 1.20.1, 1.21.1 | Client |
 | Mobtimizations | Forge, Fabric | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | 1.18.2 - 1.20.1 | Server |
