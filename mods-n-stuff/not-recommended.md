@@ -20,7 +20,8 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Fast Async World Save | Redundant and partially incompatible with C2ME |
 | Faster Random | Breaks Vanilla Parity |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
-| GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
+| GPUBooster/GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
+| KryptonFoxified | Redundant with KryptonFNP |
 | Ksyxis | Removes spawn chunks |
 | MemoryLeakFix | Redundant, Mojang fixed most of the memory leaks |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
@@ -106,6 +107,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Ksyxis | Removes spawn chunks |
 | Lightspeed | Redundant with ModernFix |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
+| Pluto | Redundant with KryptonFNP |
 | Radon | Redundant with Starlight |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
@@ -141,6 +143,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Ksyxis | Removes spawn chunks |
 | Lightspeed | Redundant with ModernFix |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
+| Pluto | Redundant with KryptonFNP |
 | Radon | Redundant with Starlight |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
