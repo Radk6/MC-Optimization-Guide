@@ -25,6 +25,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | MemoryLeakFix | Redundant, Mojang fixed most of the memory leaks |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
 | Particle Core | Redundant with Async Particles |
+| Propane | AI-generated, negligible performance improvement |
 | Redirected | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
 | ScalableLux | Not necessary for the average player |
