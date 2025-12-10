@@ -205,6 +205,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Redirectionor [Retro] | Compatibility issues, negligible performance improvement |
 | TexFix | Redundant with CensoredASM |
 | VanillaFix | Redundant with CensoredASM |
+| Vintagium/Relictium/Neonium | Compatibility issues, redundant with Celeritas |
 
 </details>
 
