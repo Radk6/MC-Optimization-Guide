@@ -2,7 +2,7 @@
 
 1. Install the latest version of ATM3
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the ATM3 instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the ATM3 instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AI Improvements, Bed Patch, BetterFPS, Diet Hopper, FastWorkbench, Fence Jumper, FoamFix, HelpFixer, Just Enough Items, LibrarianLib, NotEnoughIDs, Quick Leaf Decay, RandomPatches, Shadowfacts' Forgelin, Spark, Toast Control and Unloader
 4. Install Fugue, Scalar Legacy, LibrarianLib-Continuous, Forgelin-Continuous, Roughly Enough IDs and Had Enough Items
@@ -14,7 +14,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Basically Just Rocket Science
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Basically Just Rocket Science instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Basically Just Rocket Science instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFPS, Clumps, Fast Leaf Decay, Just Enough Items, Quark and SwingThroughGrass
 4. Install Fugue, Scalar Legacy, Had Enough Items and Quark: RotN Edition
@@ -26,7 +26,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Chroma Technology
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Chroma Technology instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Chroma Technology instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFPS, Born in a Barn, Diet Hopper, Fast Leaf Decay, FoamFix, HelpFixer, Just Enough Items, NotEnoughIDs, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control, Unloader and VanillaFix
 4. Update Corail Tombstone and SimplyJetpacks 2
@@ -39,7 +39,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Chroma Sky
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Chroma Sky instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Chroma Sky instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Just Enough Items, JustEnoughIDs, NetherPortalFix, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control, Unloader and VanillaFix
 4. Update Corail Tombstone
@@ -52,7 +52,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Compact Claustrophobia
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Compact Claustrophobia instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Compact Claustrophobia instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFps, Bigger Packets Please, Clumps, Diet Hopper, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Just Enough Items, Phospor, Shadowfacts' Forgelin, Toast Control
 4. Install Fugue, Scalar Legacy, Had Enough Items and Forgelin-Continous
@@ -62,7 +62,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Divine Journey 2
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Divine Journey 2 instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Divine Journey 2 instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove Bed Patch, Clumps, ConfigAnytime, FermiumASM, FermiumBooter, Just Enough Items, MixinBooter, NotEnoughIDs, Quark, Shadowfacts' Forgelin and Spark
 4. Update JEI Utilities, Recurrent Complex, VintageFix and Universal Tweaks
@@ -75,7 +75,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of DD&SS
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the DD&SS instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the DD&SS instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFPS, Clumps, Fast Leaf Decay, FastWorkbench, FoamFix, HelpFixer, Just Enough Items, LagGoggles, LibrarianLib, NotEnoughIDs, Phosphor, RandomPatches, Shadowfacts' Forgelin, TickCentral, ToastControl, VanillaFix
 4. Update ContentTweaker, Corail Tombstone, CraftTweaker, ModTweaker, Simply Jetpacks 2, Sledgehammer and Solar Flux Reborn
@@ -89,7 +89,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of E2Eu
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the E2Eu instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the E2Eu instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFPS, Clumps, Hesperus, MixinBooter, NotEnoughIDs, Old Java Warning, RandomPatches and Shadowfacts' Forgelin
 4. Update CensoredASM, Had Enough Items, JEI Utilities, NotEnoughEnergistics, VintageFix and UniversalTweaks
@@ -102,7 +102,7 @@ Known issues: Doesn't work on latest Cleanroom (0.3.26), use 0.3.24 for now.
 
 1. Install the latest version of FTB Academy
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the FTB Academy instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the FTB Academy instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFPS, Clumps, Diet Hopper, Fast Leaf Decay, FastFurance, FastWorkbench, FoamFix, Just Enough Items, NetherPortalFix, Phosphor, RandomPatches, Shadowfacts' Forgelin and VanillaFix
 4. Update Chisel, Dynamic Trees, Dynamic Trees - Traverse, JourneyMap, MineTogether, 
@@ -115,7 +115,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Infinity Reloaded: Skyblock
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the FTB Infinity Reloaded: Skyblock instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the FTB Infinity Reloaded: Skyblock instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFPS, Clumps, FastFurnace, MixinBooter, MixinBootstrap, NotEnoughIDs, Shadowfacts' Forgelin
 4. Update Alfheim, Had Enough Items, Railcraft, Red Core, UniversalTweaks and VintageFix
@@ -128,7 +128,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of FTB Interactions
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the FTB Interactions instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the FTB Interactions instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AI Improvements, BetterFPS, Bigger Packets Please, Clumps, Diet Hopper, DupeFix Project, FastWorkbench, FoamFix, Just Enough Items, LibrarianLib, Logistics Bridge, MixinBootstrap, Mouse Tweaks, Phosphor, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass, Toast Control and VanillaFix
 4. Update CraftTweaker, Logistics Pipes and Sledgehammer
@@ -143,7 +143,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Hexxit Updated
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Hexxit Updated instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Hexxit Updated instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AttributeFix, BetterFPS, Born in a Barn, FastFurnace, FastWorkbench, FoamFix, Just Enough Items, Performant, Phosphor, RandomPatches, Not Enough IDs, Surge, ToastControl and Unloader
 4. Install Fugue, Scalar Legacy, Had Enough Items and Roughly Enough IDs
@@ -155,7 +155,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of InsaneCraft
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the InsaneCraft instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the InsaneCraft instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFPS, FastFurnace, FastWorkbench, FoamFix, LibrarianLib, NotEnoughIDs, Performant, RandomPatches, Shadowfacts' Forgelin, Spark, Surge and SwingThroughGrass
 4. Update Had Enough Items
@@ -168,7 +168,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Magiculture 2
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Magiculture 2 instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Magiculture 2 instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFPS, Clumps, ConfigAnytime, EntityCulling, FastWorkbench, FoamFix, Max Potion ID Extender, MixinBooter, MixinBootstrap, NotEnoughIDs, Old Java Warning, RandomPatches, Shadowfacts' Forgelin and Spark
 4. Update CensoredASM, Had Enough Items, RenderLib and UniversalTweaks
@@ -183,7 +183,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of MC Eternal
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the MC Eternal instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the MC Eternal instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Update Collective, Corail Tombstone and Simply Jetpacks 2 to their latest versions
 4. Remove AI Reducer, AI Improvements, AttributeFix, BetterFPS, ErebusFix, FastWorkbench, FoamFix, Just Enough Items, NotEnoughIDs, OldJavaWarning, Phosphor, RandomPatches, Save My Stronghold!, Shadowfacts' Forgelin, SwingThroughGrass and VanillaFix
@@ -196,7 +196,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of MC Eternal Lite
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the MC Eternal Lite instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the MC Eternal Lite instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Update Corail Tombstone, PlusTiC and Simply Jetpacks 2 to their latest versions
 4. Remove AI Improvements, AttributeFix, BetterFPS, Clumps, FastWorkbench, FoamFix, Just Enough Items, NetherPortalFix, NotEnoughIDs, OldJavaWarning, Phosphor, RandomPatches, Shadowfacts' Forgelin, SwingThroughGrass and VanillaFix
@@ -209,7 +209,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of MeatballCraft
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the MeatballCraft, Dimensional Ascension instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the MeatballCraft, Dimensional Ascension instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Update CensoredASM, EntityCulling, Fugue, ReachFix, Red Core, RenderLib, Naughthirium, Nothirium, VintageFix and UniversalTweaks
 4. Remove ConfigAnytime and MixinBooter
@@ -220,7 +220,7 @@ Known issues: Updating Alfheim to 1.6 causes crashes when displaying MMCE multib
 
 1. Install the latest version of Modern Skyblock 3: Departed
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Modern Skyblock 3: Departed instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Modern Skyblock 3: Departed instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove Bed Patch, BetterFPS, Clumps, Diet Hopper, Fast Leaf Decay, FastWorkbench, FoamFix, Just Enough Items, NetherPortalFix, NotEnoughIDs, RandomPatches, Shadowfacts' Forgelin and ToastControl
 4. Update Corail Tombstone, HammerCore (HammerLib), iChunUtil, JourneyMap, Flux Networks, Mekanism, Mekanism Generators, Mekanism Tools, Simply Jetpacks 2 and ThaumicJEI to their latest versions
@@ -233,7 +233,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Multiblock Madness
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Multiblock Madness instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Multiblock Madness instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AI Improvements, AttributeFix, BetterFPS, Clumps, Diet Hopper, Duplicate Entity UUID Fix, Fast Leaf Decay, FastFurnace, FastWorkbench, Fence Jumper, FoamFix, Give me back my HP!, MixinBooter, MixinBootstrap, NotEnoughIDs, Phosphor, RandomPatches, Shadowfacts' Forgelin, Surge, SwingThroughGrass, ToastControl, VanillaFix,
 4. Install Fugue, Scalar Legacy, Forgelin-Continuous, Roughly Enough IDs
@@ -246,7 +246,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Nomifactory CEu
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Nomifactory CEu instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Nomifactory CEu instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove Clumps
 4. Update CensoredASM, Forgelin-Continuous, LibrarianLib-Continuous, VintageFix and UniversalTweaks
@@ -259,7 +259,7 @@ Known issues: Java 25 causes issues, stick with Java 21 for now.
 
 1. Install the latest version of Project Ozone 3
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Project Ozone 3 instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Project Ozone 3 instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AttributeFix, BetterFPS, Diet Hopper, FastWorkbench, Fence Jumper, FoamFix, Just Enough Items, Not Enough IDs, Phosphor, Quark, RandomPatches, Shadowfacts' Forgelin and Toast Control
 4. Install Fugue, Scalar Legacy, Had Enough Items, Forgelin-Continuous, Quark: RotN Edition and Roughly Enough IDs
@@ -271,7 +271,7 @@ Known issues: Dimensional cake rendering is slightly broken (possbily caused by 
 
 1. Install the latest version of RotN
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the RotN instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the RotN instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove ConfigAnytime, EntityCulling (by Meldexun), FermiumASM, FermiumBooter, MixinBooter, MixinBootstrap, Mixin Compatibility
 4. Update Alfheim, Fixeroo, Had Enough Items, Red Core and UniversalTweaks
@@ -284,7 +284,7 @@ Known issues: Doesn't work with Java 25, so stick with Java 21 for now.
 
 1. Install the latest version of Revers
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Revers instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Revers instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AI Improvements, AttributeFix, Better Burning, BetterFPS, Born in a Barn, Clumps, EntityCulling, Fast Leaf Decay, FoamFix, Ido, Just Enough Items, LagGoggles, Mixin Compatibility, MixinBooter, MixinBootstrap, NotEnoughIDs, Performant, Phosphor, RandomPatches, Save My Stronghold!, Shadowfacts' Forgelin, Surge, SwingThroughGrass and TickCentral
 4. Update CensoredASM, JEI Utilities, Nothirium, Railcraft, RenderLib, Sledgehammer
@@ -297,7 +297,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of RLCraft
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the RLCraft instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the RLCraft instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FoamFix, Frame Void Patch, HelpFixer, Just Enough Items, LibrarianLib, MixinBootstrap, MixinCompatibility, Quark, Phosphor, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and Toast Control
 4. Install Fugue, Scalar Legacy, Had Enough Items, LibrarianLib-Continuous, Forgelin-Continuous and Quark: RotN Edition
@@ -310,7 +310,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of RLCraft
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the RLCraft Dregora instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the RLCraft Dregora instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AttributeFix, Born in a Barn, BreakBedBegone, Block Overlay Fix, Entity Culling (by Meldexun), FermiumASM, FermiumBooter, FileDirector, FoamFix, Food Fix, Frame Void Patch, HelpFixer, Just Enough Items, LibrarianLib, Quark, Phosphor, PhosphorCrashFix, PortalDupeBegone, Shadowfacts' Forgelin, Spark, Surge and Toast Control
 4. Install Fugue, Scalar Legacy, Had Enough Items, LibrarianLib-Continuous, FermiumBooterDepoliticization, Forgelin-Continuous and Quark: RotN Edition
@@ -322,7 +322,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of SevTech: Ages
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the SevTech: Ages instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the SevTech: Ages instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove BetterFPS, Clumps, FastFurance, FastWorkbench, FoamFix, JustEnoughIDs, Just Enough Items, JourneyMapStages, Quick Leaf Decay, RandomPatches, Shadowfacts' Forgelin, Swing Through Grass and Toast Control
 4. Install Fugue, Scalar Legacy, Had Enough Items, Forgelin-Continuous, JourneyMapStages Continuation and Roughly Enough IDs
@@ -335,7 +335,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of SkyFactory 4
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the SkyFactory 4 instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the SkyFactory 4 instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove FastFurnace, FastWorkbench, FoamFix, Just Enough Items, Mercurius, Shadowfacts' Forgelin, Surge, SwingThroughGrass, and Toast Control 
 4. Replace Mekanism and Mekanism Generators with their "Community Edition" equivalents
@@ -349,7 +349,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of StoneBlock
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the StoneBlock instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the StoneBlock instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FoamFix, Just Enough Items, Just Enough IDs, Mercurius, Old Java Warning, Shadowfacts' Forgelin and Toast Control
 4. Update Flux Networks, Simply Jetpacks 2 and Solar Flux Reborn to their lastest versions
@@ -362,7 +362,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of StoneBlock 2
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the StoneBlock 2 instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the StoneBlock 2 instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove AttributeFix, BetterFPS, Fast Leaf Decay, FastFurnace, FastWorkbench, FoamFix, Fullscreen Windowed, Just Enough Items, RandomPatches, Shadowfacts' Forgelin, Toast Control and VanillaFix
 4. Update Chisel, ConnectedTexturesMod, Flux Networks, HammerCore (HammerLib), MineTogether and Simply Jetpacks 2 to their lastest versions
@@ -375,7 +375,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Supersymmetry
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Supersymmetry instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Supersymmetry instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove ConfigAnytime, Hesperus and MixinBooter
 4. Update Fugue to the latest version
@@ -387,7 +387,7 @@ Known issues: None (yet?)
 
 1. Install the latest version of Ultimate Alchemy
 2. Move the pack to Cleanroom Loader
-   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://github.com/CleanroomMC/Cleanroom/releases) and copy the `minecraft` (or `.minecraft`) folder from the Ultimate Alchemy instance to it.
+   - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC Zip](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Ultimate Alchemy instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Remove Clumps, Diet Hopper, FastWorkbench and Just Enough Items
 4. Update Flux Networks
