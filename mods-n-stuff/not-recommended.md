@@ -11,31 +11,48 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Async | Compatibility issues, contains AI-generated code |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
+| Better Chunk Loading | May cause issues [[1]](https://github.com/FiniteReality/embeddium/wiki/Compatibility#other-known-incompatibilities) |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
-| Chunk Sending | Redundant with Krypton |
+| Chunk Sending | Redundant with Krypton/KryptonFNP |
+| Client Crafting | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Cull Leaves | Redundant with More Culling |
 | Cull Less Leaves | Redundant with More Culling |
 | Cull Particles Multiloader | Mostly redundant with Async Particles, Sodium and NeoForge |
 | Dashloader | Redundant with ModernFix |
+| Does It Tick? | Redundant as Vanilla has a simulation distance option |
+| DoesPotatoTick? | Redundant as Vanilla has a simulation distance option |
+| Dynamic View | Mostly redundant with Immersive Optimization |
 | Fast Async World Save | Redundant and partially incompatible with C2ME |
+| FastChest | Redundant with Enhanced Block Entities |
+| FastEvent | Negligible performance improvement, abandoned |
 | Faster Random | Breaks Vanilla Parity |
+| FeyTweaks | Mostly redundant with ImmediatelyFast |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
 | GPUBooster/GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
 | KryptonFoxified | Redundant with KryptonFNP |
 | Ksyxis | Removes spawn chunks |
+| lazy-language-loader | Redundant with Language Reload |
 | MemoryLeakFix | Redundant, Mojang fixed most of the memory leaks |
+| Methane | Disables light calculations, breaks Vanilla parity, incompatible with Starlight |
+| Noisium | Negligible performance improvement |
+| No See, No Tick | Redundant as Vanilla has a simulation distance option |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
+| Palladium | Negligible performance improvement |
 | Particle Core | Redundant with Async Particles |
 | Propane | AI-generated, negligible performance improvement |
+| Recipe Essentials | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Redirected | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
 | ScalableLux | Not necessary for the average player |
 | Smooth Chunk Save | Redundant with C2ME, stops saving when MSPT >50 |
 | Sodium Leaf Culling | Redundant with More Culling |
+| Structure Essentials | Redundant with BiomeSpy |
 | StutterFix | Redundant with C2ME |
+| Super Fast Math | Mostly redundant with Lithium, may actually be slower than Vanilla [[1]](https://github.com/ItzjustElias/FastMathMod/issues/12) |
 | ThreadTweak | Redundant with C2ME |
 | ThreatenGL | Fake mod, doesn't provide any performance improvements |
 | Unbinilium | AI-generated mod, causes severe performance issues |
+| Vramo | Questionable performance improvement, likely AI-generated |
 | VulkanMod | Compatibility issues |
 
 </details>
@@ -49,29 +66,47 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
+| Better Chunk Loading | May cause issues [[1]](https://github.com/FiniteReality/embeddium/wiki/Compatibility#other-known-incompatibilities) |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Brute force render culling | Visual bugs |
 | Canary | Redundant with Radium |
-| Chunk Sending | Redundant with Krypton |
+| Chunk Sending | Redundant with Krypton/KryptonFNP |
+| Client Crafting | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Cull Leaves | Redundant with More Culling |
 | Cull Less Leaves | Redundant with More Culling |
 | Dashloader | Redundant with ModernFix |
+| Does It Tick? | Redundant as Vanilla has a simulation distance option |
+| DoesPotatoTick? | Redundant as Vanilla has a simulation distance option |
+| Dynamic View | Mostly redundant with Immersive Optimization |
 | FastAnim | Negligible performance improvement |
 | Fast Async World Save | Redundant and partially incompatible with C2ME |
 | FastBoot | Redundant with ModernFix |
 | FastChest | Redundant with Enhanced Block Entities |
 | Fastload | Compatibility issues |
+| FastEvent | Negligible performance improvement, abandoned |
 | Faster Random | Breaks Vanilla Parity |
+| FeyTweaks | Mostly redundant with ImmediatelyFast |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
 | Ksyxis | Removes spawn chunks |
+| lazy-language-loader | Redundant with Language Reload |
 | MemoryLeakFix | Redundant, Mojang fixed most of the memory leaks |
+| Methane | Disables light calculations, breaks Vanilla parity, incompatible with Starlight |
+| Noisium | Negligible performance improvement |
+| No See, No Tick | Redundant as Vanilla has a simulation distance option |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
+| OptiPainting | Redundant with FastPaintings |
+| Out Of Sight | Redundant with Entity Culling |
+| Palladium | Negligible performance improvement |
 | Particle Core | Redundant with Async Particles |
+| Performance Tweaks | Breaks vanilla parity (RO), not necessary (EC), redundant with Alternate Current |
 | Ravicon | AI-generated |
+| Recipe Essentials | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Redirector [Modern]/Redirected | Compatibility issues, negligible performance improvement |
+| Rubidium | Redundant with Embeddium |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
 | Smooth Chunk Save | Redundant with C2ME, stops saving when MSPT >50 |
+| Structure Essentials | Redundant with BiomeSpy |
 | StutterFix | Redundant with ThreadTweak |
 | ThreatenGL | Fake mod, doesn't provide any performance improvements |
 | Unbinilium | AI-generated mod, causes severe performance issues |
@@ -89,32 +124,50 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
+| Better Chunk Loading | May cause issues [[1]](https://github.com/FiniteReality/embeddium/wiki/Compatibility#other-known-incompatibilities) |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Brute force render culling | Visual bugs |
 | Canary | Redundant with Radium |
-| Chunk Sending | Redundant with Krypton/Pluto |
+| Chunk Sending | Redundant with Krypton/KryptonFNP |
+| Client Crafting | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Cull Clouds | Negligible performance improvement |
 | Cull Leaves | Redundant with More Culling |
 | Cull Less Leaves | Redundant with More Culling |
 | Dashloader | Redundant with ModernFix |
+| Dimensional Threading | Compatibility issues, bugs |
+| Does It Tick? | Redundant as Vanilla has a simulation distance option |
+| DoesPotatoTick? | Redundant as Vanilla has a simulation distance option |
 | FastAnim | Negligible performance improvement |
 | Fast Async World Save | Redundant and partially incompatible with C2ME |
 | FastBoot | Redundant with ModernFix |
 | FastChest | Redundant with Enhanced Block Entities |
+| FastEvent | Negligible performance improvement, abandoned |
 | Fastload | Compatibility issues |
 | Faster Random | Breaks Vanilla Parity |
+| FeyTweaks | Mostly redundant with ImmediatelyFast |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
+| It Shall Not Tick (ISNT) | Redundant as Vanilla has a simulation distance option |
 | Ksyxis | Removes spawn chunks |
+| lazy-language-loader | Redundant with Language Reload |
 | Lightspeed | Redundant with ModernFix |
+| Methane | Disables light calculations, breaks Vanilla parity, incompatible with Starlight |
+| Noisium (Unofficial Port) | Negligible performance improvement |
+| No See, No Tick | Redundant as Vanilla has a simulation distance option |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
+| OptiPainting | Redundant with FastPaintings |
+| Out Of Sight | Redundant with Entity Culling |
 | Pluto | Redundant with KryptonFNP |
 | Radon | Redundant with Starlight |
+| Recipe Essentials | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
+| Rubidium | Redundant with Embeddium |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
 | Smooth Chunk Save | Redundant with C2ME, stops saving when MSPT >50 |
+| Structure Essentials | Redundant with Async Locator |
 | StutterFix | Redundant with Smooth Boot |
 | ThreatenGL | Fake mod, doesn't provide any performance improvements |
+| Vramo | Questionable performance improvement, likely AI-generated |
 | VulkanMod | Compatibility issues |
 
 </details>
@@ -128,27 +181,41 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
+| Better Chunk Loading | May cause issues [[1]](https://github.com/FiniteReality/embeddium/wiki/Compatibility#other-known-incompatibilities) |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Brute force render culling | Visual bugs |
-| Chunk Sending | Redundant with Krypton/Pluto |
+| Chunk Sending | Redundant with Krypton/KryptonFNP |
+| Client Crafting | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Cull Clouds | Negligible performance improvement |
 | Cull Leaves | Redundant with More Culling |
 | Dashloader | Redundant with ModernFix |
+| Dimensional Threading | Compatibility issues, bugs |
+| Does It Tick? | Redundant as Vanilla has a simulation distance option |
+| DoesPotatoTick? | Redundant as Vanilla has a simulation distance option |
 | Fast Async World Save | Redundant and partially incompatible with C2ME |
 | FastBoot | Redundant with ModernFix |
 | FastChest | Redundant with Enhanced Block Entities |
+| FastEvent | Negligible performance improvement, abandoned |
 | Fastload | Compatibility issues |
+| FeyTweaks | Mostly redundant with ImmediatelyFast |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
 | Francium | Negligible performance improvement |
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
+| It Shall Not Tick (ISNT) | Redundant as Vanilla has a simulation distance option |
 | Ksyxis | Removes spawn chunks |
+| lazy-language-loader | Redundant with Language Reload |
 | Lightspeed | Redundant with ModernFix |
+| NoisiumForked | Negligible performance improvement |
+| No See, No Tick | Redundant as Vanilla has a simulation distance option |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
+| Out Of Sight | Redundant with Entity Culling |
 | Pluto | Redundant with KryptonFNP |
 | Radon | Redundant with Starlight |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
+| Rubidium | Redundant with Embeddium |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
 | Smooth Chunk Save | Redundant with C2ME, stops saving when MSPT >50 |
+| Structure Essentials | Redundant with Async Locator |
 | ThreatenGL | Fake mod, doesn't provide any performance improvements |
 | VulkanMod | Compatibility issues |
 
@@ -165,19 +232,25 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Better Beds | Redundant with Enhanced Block Entities |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Chunk Sending | Redundant with Krypton |
+| Client Crafting | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Dashloader | Redundant with ModernFix |
+| Dimensional Threading | Compatibility issues, bugs |
 | EBE Backforged | Not compatible with ModernFix |
 | FastBoot | Redundant with ModernFix |
 | FastChest | Redundant with Enhanced Block Entities |
+| FastEvent | Negligible performance improvement, abandoned |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
 | Francium | Negligible performance improvement |
 | Hydrogen/Helium | Redundant with FerriteCore |
 | Ksyxis | Removes spawn chunks |
 | Lightspeed | Redundant with ModernFix |
+| Magnesium | Redundant with Embeddium |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
+| Out Of Sight | Redundant with Entity Culling |
 | Performant | Incompatible and redundant with RoadRunner |
 | Radon | Redundant with Starlight |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
+| Rubidium | Redundant with Embeddium |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
 | Smooth Chunk Save | Stops saving when MSPT >50 |
 | Sulfuric | Redundant with Starlight |
@@ -191,6 +264,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Mod | Reason |
 |:---:|:---:|
 | AI Improvements | Redundant with UniversalTweaks |
+| BettererBiomerBlender | Doesn't actually fix any issues with the original mod |
 | BetterFPS | Compatibility issues, negligible performance improvement |
 | Born in a Barn | Redundant, fix already present in Forge/Cleanroom |
 | Clumps | Redundant with Fixeroo |
