@@ -1,33 +1,139 @@
-## Some other mods which may be useful in some specific situations.
+## Other mods which may be useful in some specific situations.
+This doesn't mean you should just install all of them. Only use the ones you need.
 
-| Mod | Mod Loader | Note | Version | Client/Server |
-|:---:|:---:|:---:|:---:|:---:|
-| Alternative Chunkloading | Forge | Improves chunk loading speed. If you're using ChickenChunks, use [this fork](https://github.com/LITW-Refined/ChickenChunks/releases) instead | 1.7.10 | Server |
-| Alternate Current | Fabric, Forge, NeoForge | Can improve performance with lots of redstone contraptions around | 1.16.5 - 1.21.1 | Server |
-| AsyncParticles | Fabric, Forge, NeoForge | Improves performance when many particles are on screen | 1.20.1, 1.21.1 | Client |
-| BadOptimizations | Fabric, Forge | Optimizes various parts of the game, but some things may differ from Vanilla | 1.19.2 - 1.21.1 | Both |
-| Better Biome Blend | Cleanroom/Forge | Improves biome blending and its' performance | 1.12.2 | Client |
-| Cerulean/Icterine | Fabric, Forge, NeoForge | Optimizes the advancement checking system | 1.18.2 - 1.21.1 | Server |
-| Cesium | Fabric, Forge/NeoForge (Connector Only) | Reduces save file size | 1.20.1, 1.21.1 | Server |
-| ChromatiFixes | Forge | Fixes performance issues with Reika's mods | 1.7.10 | Both | 
-| Clumps | Fabric, Forge, NeoForge | Clumps XP Orbs together, reducing lag | 1.16.5 - 1.21.1 | Both (1.16.5), Server (1.18.2+) |
-| Create Better FPS | Forge, NeoForge | Improves fps when using shaders around Create contraptions | 1.20.1, 1.21.1 | Client |
-| Debugify/Debugify Reforged/Modern Debugify | Fabric, Forge | Fixes bugs. Modern Debugify on 1.18.2 needs to have MC-147605 disabled if you're using JEI | 1.18.2 - 1.21.1 | Both |
-| Flerovium | Forge, NeoForge | Speeds up item rendering | 1.20.1, 1.21.1 | Client |
-| Gnetum | Cleanroom/Forge, NeoForge | Caches the HUD. Performs better than ImmediatelyFast, at the cost of making the HUD "feel" worse | 1.12.2, 1.20.1, 1.21.1 | Client |
-| Immersive Optimization | Forge, Fabric | May differ from Vanilla slightly | 1.20.1 | Server |
-| Ixeris | Fabric, Forge, NeoForge | Offloads event polling to a separate thread, potentially improving FPS | 1.20.1, 1.21.1 | Client |
-| Krypton/Krypton FNP | Fabric, Forge, NeoForge | Improves the network stack, may be helpful on mulitplayer | 1.18.2 - 1.21.1 | Both |
-| Lazyyyyy | Forge | Can improve loading times in bigger modpacks | 1.20.1 | Both |
-| MapMipMapMod | Fabric | Improves mipmapping of maps in item frames | 1.20.1, 1.21.1 | Client |
-| Mobtimizations | Forge, Fabric | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | 1.18.2 - 1.20.1 | Server |
-| Moonrise | Fabric, NeoForge | Adds various patches from Paper, improving server performance. **Incompatible with C2ME** | 1.21.1 | Server |
-| Not Enough Recipe Book | Fabric, Forge, NeoForge | Removes the recipe book, can help performance in some cases and reduces redundancy with item viewers such as EMI | 1.18.2 - 1.21.1 | Both |
-| Particle Culling | Cleanroom/Forge | Culls particles, may be helpful in situations where there's a lot of them | 1.12.2 | Client |
-| SerializationIsBad | Cleanroom/Forge | Fixes the BleedingPipe vulnerability | 1.7.10 - 1.20.1 | Both |
-| Shader Fixer | Forge | Fixes bugs when using shaders with some mods | 1.7.10 | Client |
-| Sledgehammer | Cleanroom/Forge | Situational fixes for some mods | 1.12.2 | Both |
-| Smooth Boot/Smooth Boot Reloaded | Forge, Fabric | Modifies CPU scheduling to improve loading times | 1.16.5 - 1.20.1 | Both |
-| Structure Layout Optimizer | Forge, Fabric, NeoForge | Improves structure generation speed, helpful in packs with lots of structures | 1.16.5 - 1.21.1 | Server |
-| ThreadTweak | Fabric | Allows for changing thread priority, which can be beneficial on extremely low-end/old PCs | 1.20.1 | Both |
-| Vanillin | Forge, Fabric, NeoForge | Speeds up rendering of block entities (eg. Chests), even better than Enhanced Block Entities. Shaders require the Colorwheel mod | 1.20.1, 1.21.1 | Client | 
+# 1.21.1
+<details>
+  <summary>Click to expand</summary>
+  
+| Mod | Note | Mod loader | Client/Server |
+|:---:|:---:|:---:|:---:|
+| Alternate Current | Can improve performance with lots of redstone contraptions around | Fabric, NeoForge | Server |
+| AsyncParticles | Improves performance when many particles are on screen | Fabric, NeoForge | Client |
+| BadOptimizations | Optimizes various parts of the game, **but some things may differ from Vanilla** | Fabric, NeoForge | Both |
+| Cerulean | Optimizes the advancement checking system | Fabric, NeoForge | Server |
+| Cesium | Reduces save file size | Fabric, NeoForge (Connector only) | Server |
+| Clumps | Clumps XP Orbs together, reducing lag | Fabric, NeoForge | Server |
+| Create Better FPS | Improves fps when using shaders around Create contraptions. Doesn't work as well as Vanillin, but has better shader compatibility | NeoForge | Client |
+| Debugify | Fixes various bugs | Fabric | Both |
+| Flerovium | Speeds up item rendering | NeoForge | Client |
+| Gnetum | Distributes HUD updates over multiple frames which improves performance | NeoForge | Client |
+| Immersive Optimization | Improves TPS, but may differ from Vanilla slightly | Fabric, NeoForge | Server |
+| Ixeris | Offloads event polling to a separate thread, potentially improving FPS | NeoForge | Client |
+| Krypton/Krypton FNP | Improves the network stack, may be helpful on mulitplayer | Fabric, Forge, NeoForge | Both |
+| MapMipMapMod | Improves mipmapping of maps in item frames | Fabric | Client |
+| Mobtimizations | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | Fabric, NeoForge | Server |
+| Not Enough Recipe Book | Removes the recipe book which can help performance in some cases. Reduces redundancy with item viewers such as EMI | Fabric, NeoForge | Both |
+| Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, NeoForge | Server |
+| Vanillin | Speeds up rendering of block entities, even better than Enhanced Block Entities. Shaders require the Colorwheel mod | Fabric, NeoForge | Client |
+
+</details>
+
+# 1.20.1
+<details>
+  <summary>Click to expand</summary>
+
+| Mod | Note | Mod loader | Client/Server |
+|:---:|:---:|:---:|:---:|
+| Alternate Current | Can improve performance with lots of redstone contraptions around | Fabric, Forge | Server |
+| AsyncParticles | Improves performance when many particles are on screen | Fabric, Forge | Client |
+| BadOptimizations | Optimizes various parts of the game, **but some things may differ from Vanilla** | Fabric, Forge | Both |
+| Cerulean | Optimizes the advancement checking system | Fabric, Forge | Server |
+| Cesium | Reduces save file size | Fabric, Forge (Connector only) | Server |
+| Clumps | Clumps XP Orbs together, reducing lag | Fabric, Forge | Server |
+| Create Better FPS | Improves fps when using shaders around Create contraptions. Doesn't work as well as Vanillin, but has better shader compatibility | NeoForge | Client |
+| Debugify | Fixes various bugs | Fabric | Both |
+| Flerovium | Speeds up item rendering | Forge | Client |
+| Gnetum | Distributes HUD updates over multiple frames which improves performance | Forge | Client |
+| Immersive Optimization | Improves TPS, but may differ from Vanilla slightly | Fabric, Forge | Server |
+| Ixeris | Offloads event polling to a separate thread, potentially improving FPS | NeoForge | Client |
+| Krypton/Krypton FNP | Improves the network stack, may be helpful on mulitplayer | Fabric, Forge | Both |
+| Lazyyyyy | Can improve loading times in bigger modpacks | Forge | Both |
+| MapMipMapMod | Improves mipmapping of maps in item frames | Fabric | Client |
+| Mobtimizations | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | Fabric, Forge | Server |
+| Not Enough Recipe Book | Removes the recipe book which can help performance in some cases. Reduces redundancy with item viewers such as EMI | Fabric, Forge | Both |
+| SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Forge | Both |
+| Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, Forge | Server |
+| ThreadTweak | Allows for changing thread priority, which can be beneficial on extremely low-end/old PCs | Fabric | Both |
+| Vanillin | Speeds up rendering of block entities, even better than Enhanced Block Entities. Shaders require the Colorwheel mod | Fabric, Forge | Client |
+
+</details>
+
+# 1.19.2
+<details>
+  <summary>Click to expand</summary>
+
+| Mod | Note | Mod loader | Client/Server |
+|:---:|:---:|:---:|:---:|
+| Alternate Current | Can improve performance with lots of redstone contraptions around | Fabric, Forge | Server |
+| BadOptimizations | Optimizes various parts of the game, **but some things may differ from Vanilla** | Fabric, Forge | Both |
+| Clumps | Clumps XP Orbs together, reducing lag | Fabric, Forge | Server |
+| Debugify/Debugify Reforged | Fixes various bugs | Fabric, Forge | Both |
+| Icterine | Optimizes the advancement checking system | Fabric, Forge | Server |
+| Krypton/Krypton FNP | Improves the network stack, may be helpful on mulitplayer | Fabric, Forge | Both |
+| Mobtimizations | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | Fabric, Forge | Server |
+| Not Enough Recipe Book | Removes the recipe book which can help performance in some cases. Reduces redundancy with item viewers such as EMI | Fabric, Forge | Both |
+| SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Forge | Both |
+| Smooth Boot/Smooth Boot Reloaded | Modifies CPU scheduling to improve loading times | Fabric, Forge | Both |
+| Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, Forge | Server |
+
+</details>
+
+# 1.18.2
+<details>
+  <summary>Click to expand</summary>
+
+| Mod | Note | Mod loader | Client/Server |
+|:---:|:---:|:---:|:---:|
+| Alternate Current | Can improve performance with lots of redstone contraptions around | Fabric, Forge | Server |
+| Clumps | Clumps XP Orbs together, reducing lag | Fabric, Forge | Server |
+| Debugify/Modern Debugify | Fixes various bugs. Modern Debugify needs to have MC-147605 disabled if you're using JEI | Fabric, Forge | Both |
+| Krypton/Krypton FNP | Improves the network stack, may be helpful on mulitplayer | Fabric, Forge | Both |
+| Mobtimizations | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | Fabric, Forge | Server |
+| Not Enough Recipe Book | Removes the recipe book which can help performance in some cases. Reduces redundancy with item viewers such as EMI | Fabric, Forge | Both |
+| SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Forge | Both |
+| Smooth Boot/Smooth Boot Reloaded | Modifies CPU scheduling to improve loading times | Fabric, Forge | Both |
+| Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, Forge | Server |
+
+</details>
+
+# 1.16.5
+<details>
+  <summary>Click to expand</summary>
+
+| Mod | Note | Mod loader | Client/Server |
+|:---:|:---:|:---:|:---:|
+| Alternate Current | Can improve performance with lots of redstone contraptions around | Fabric, Forge | Server |
+| Clumps | Clumps XP Orbs together, reducing lag | Fabric, Forge | Both |
+| Krypton | Improves the network stack, may be helpful on mulitplayer | Fabric | Both |
+| SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Forge | Both |
+| Smooth Boot | Modifies CPU scheduling to improve loading times | Fabric | Both |
+| Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, Forge | Server |
+
+</details>
+
+# 1.12.2
+<details>
+  <summary>Click to expand</summary>
+
+| Mod | Note | Mod loader | Client/Server |
+|:---:|:---:|:---:|:---:|
+| Better Biome Blend | Improves the performance and look of biome blending. Not necessary if you're using Celeritas | Cleanroom | Client |
+| Gnetum | Distributes HUD updates over multiple frames which improves performance | Cleanroom | Client |
+| Particle Culling | Culls particles, may be helpful in situations where there's a lot of them | Cleanroom | Client |
+| SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Cleanroom | Both |
+| Sledgehammer | Situational fixes for some mods | Cleanroom | Both |
+
+</details>
+
+# 1.7.10
+<details>
+  <summary>Click to expand</summary>
+
+| Mod | Note | Mod loader | Client/Server |
+|:---:|:---:|:---:|:---:|
+| Alternative Chunkloading | Improves chunk loading speed. If you're using ChickenChunks, use [this fork](https://github.com/LITW-Refined/ChickenChunks/releases) instead | Forge | Server |
+| ChromatiFixes | Fixes performance issues with Reika's mods | Forge | Both | 
+| SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Forge | Both |
+| Shader Fixer | Fixes bugs when using shaders with some mods | Forge | Client |
+
+</details>
