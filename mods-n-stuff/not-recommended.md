@@ -89,6 +89,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | FeyTweaks | Mostly redundant with ImmediatelyFast |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
+| Icterine | Redundant with Cerulean |
 | Ksyxis | Removes spawn chunks |
 | lazy-language-loader | Redundant with Language Reload |
 | MemoryLeakFix | Redundant, Mojang fixed most of the memory leaks |
