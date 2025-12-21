@@ -11,6 +11,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Async | Compatibility issues, contains AI-generated code |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
+| Better Biome Reblend | Redundant with Sodium |
 | Better Chunk Loading | May cause issues [[1]](https://github.com/FiniteReality/embeddium/wiki/Compatibility#other-known-incompatibilities) |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Chunk Sending | Redundant with Krypton/KryptonFNP |
@@ -67,12 +68,14 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
+| Better Biome Reblend | Redundant with Sodium/Embeddium |
 | Better Chunk Loading | May cause issues [[1]](https://github.com/FiniteReality/embeddium/wiki/Compatibility#other-known-incompatibilities) |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Brute force render culling | Visual bugs |
 | Canary | Redundant with Radium |
 | Chunk Sending | Redundant with Krypton/KryptonFNP |
 | Client Crafting | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
+| Concurrent Chunk Management Engine Forge (C2MEF) | No different than using C2ME via Synitra Connector |
 | Cull Leaves | Redundant with More Culling |
 | Cull Less Leaves | Redundant with More Culling |
 | Dashloader | Redundant with ModernFix |
@@ -126,6 +129,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
+| Better Biome Blend | Redundant with Sodium/Embeddium |
 | Better Chunk Loading | May cause issues [[1]](https://github.com/FiniteReality/embeddium/wiki/Compatibility#other-known-incompatibilities) |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Brute force render culling | Visual bugs |
@@ -147,6 +151,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Fastload | Compatibility issues |
 | Faster Random | Breaks Vanilla Parity |
 | FeyTweaks | Mostly redundant with ImmediatelyFast |
+| ForgetMeChunk | Mostly redundant with Starlight |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
 | It Shall Not Tick (ISNT) | Redundant as Vanilla has a simulation distance option |
@@ -183,6 +188,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
 | Bedrodium/Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
+| Better Biome Blend | Redundant with Sodium/Embeddium |
 | Better Chunk Loading | May cause issues [[1]](https://github.com/FiniteReality/embeddium/wiki/Compatibility#other-known-incompatibilities) |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Brute force render culling | Visual bugs |
@@ -200,6 +206,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | FastEvent | Negligible performance improvement, abandoned |
 | Fastload | Compatibility issues |
 | FeyTweaks | Mostly redundant with ImmediatelyFast |
+| ForgetMeChunk | Mostly redundant with Starlight |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
 | Francium | Negligible performance improvement |
 | GPUTape/VideoTape | Doesn't actually fix VRAM leaks |
@@ -232,6 +239,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | AI Improvements | Isn't as significant in 1.15+ as in older versions, use Lithium/RoadRunner/Radium and/or Mobtimizations instead |
 | Bocchium | Negligible performance improvement, mostly redundant with Sodium/Embeddium |
 | Better Beds | Redundant with Enhanced Block Entities |
+| Better Biome Blend | Redundant with Sodium/Embeddium |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
 | Chunk Sending | Redundant with Krypton |
 | Client Crafting | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
