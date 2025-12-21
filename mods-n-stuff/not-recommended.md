@@ -220,6 +220,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Out Of Sight | Redundant with Entity Culling |
 | Pluto | Redundant with KryptonFNP |
 | Radon | Redundant with Starlight |
+| Recipe Cache | Redundant with FastFurnace, FastWorkench and FastSuite |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
 | Rubidium | Redundant with Embeddium |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
@@ -241,6 +242,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Better Beds | Redundant with Enhanced Block Entities |
 | Better Biome Blend | Redundant with Sodium/Embeddium |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
+| Chloride | Redundant with Embeddium | 
 | Chunk Sending | Redundant with Krypton |
 | Client Crafting | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Dashloader | Redundant with ModernFix |
@@ -251,6 +253,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | FastEvent | Negligible performance improvement, abandoned |
 | FPS Boost | Fake mod, doesn't provide any performance improvements |
 | Francium | Negligible performance improvement |
+| Halogen | Redundant with Embeddium |
 | Hydrogen/Helium | Redundant with FerriteCore |
 | Ksyxis | Removes spawn chunks |
 | Lightspeed | Redundant with ModernFix |
@@ -260,6 +263,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Out Of Sight | Redundant with Entity Culling |
 | Performant | Incompatible and redundant with RoadRunner |
 | Radon | Redundant with Starlight |
+| Recipe Cache | Redundant with FastFurnace, FastWorkench and FastSuite |
 | Redirector [Modern] | Compatibility issues, negligible performance improvement |
 | Rubidium | Redundant with Embeddium |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
