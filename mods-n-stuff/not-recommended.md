@@ -206,7 +206,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Ksyxis | Removes spawn chunks |
 | lazy-language-loader | Redundant with Language Reload |
 | Lightspeed | Redundant with ModernFix |
-| NoisiumForked | Negligible performance improvement |
+| NoisiumLegacy | Negligible performance improvement |
 | No See, No Tick | Redundant as Vanilla has a simulation distance option |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
 | Out Of Sight | Redundant with Entity Culling |
