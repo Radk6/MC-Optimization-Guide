@@ -33,7 +33,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Ksyxis | Removes spawn chunks |
 | lazy-language-loader | Redundant with Language Reload |
 | MemoryLeakFix | Redundant, Mojang fixed most of the memory leaks |
-| Methane | Disables light calculations, breaks Vanilla parity, incompatible with Starlight |
+| Methane | Disables light calculations, breaks Vanilla parity, incompatible with ScalableLux |
 | Moonrise | Compatibility issues | 
 | Noisium | Negligible performance improvement |
 | No See, No Tick | Redundant as Vanilla has a simulation distance option |
