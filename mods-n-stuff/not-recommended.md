@@ -246,6 +246,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Ksyxis | Removes spawn chunks |
 | Lightspeed | Redundant with ModernFix |
 | Magnesium | Redundant with Embeddium |
+| Opotato | Redundant with PotatoCurrent |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
 | Out Of Sight | Redundant with Entity Culling |
 | Performant | Incompatible and redundant with RoadRunner |
