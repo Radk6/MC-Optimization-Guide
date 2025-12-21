@@ -52,6 +52,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Mobtimizations | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | Fabric, Forge | Server |
 | Not Enough Recipe Book | Removes the recipe book which can help performance in some cases. Reduces redundancy with item viewers such as EMI | Fabric, Forge | Both |
 | SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Forge | Both |
+| Smooth Boot Reloaded | Modifies CPU scheduling to improve loading times | Forge | Both |
 | Structure Layout Optimizer | Improves structure generation speed, helpful in packs with lots of structures | Fabric, Forge | Server |
 | ThreadTweak | Allows for changing thread priority, which can be beneficial on extremely low-end/old PCs | Fabric | Both |
 | Vanillin | Speeds up rendering of block entities, even better than Enhanced Block Entities. Shaders require the Colorwheel mod | Fabric, Forge | Client |
@@ -87,6 +88,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Alternate Current | Can improve performance with lots of redstone contraptions around | Fabric, Forge | Server |
 | Clumps | Clumps XP Orbs together, reducing lag | Fabric, Forge | Server |
 | Debugify/Modern Debugify | Fixes various bugs. Modern Debugify needs to have MC-147605 disabled if you're using JEI | Fabric, Forge | Both |
+| Icterine | Optimizes the advancement checking system | Fabric, Forge | Server |
 | Krypton/Krypton FNP | Improves the network stack, may be helpful on mulitplayer | Fabric, Forge | Both |
 | Mobtimizations | Modifies Entity behavior to improve performance. May differ from Vanilla slightly | Fabric, Forge | Server |
 | Not Enough Recipe Book | Removes the recipe book which can help performance in some cases. Reduces redundancy with item viewers such as EMI | Fabric, Forge | Both |
