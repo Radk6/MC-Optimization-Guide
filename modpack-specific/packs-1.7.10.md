@@ -1,3 +1,5 @@
+# Note: Currently these are provided as-is, with no support. I will probably revisit/rewrite them in the future, but for now, if something breaks, you're on your own.
+
 ## Blightfall
 
 1. Install the latest version of Blightfall

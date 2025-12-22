@@ -18,14 +18,14 @@
 | Mod Loader | Java | Notes |
 |:---:|:---:|:---:|
 | Fabric | [Adoptium Java 25](https://adoptium.net/temurin/releases/?version=25&package=jre) | - |
-| Forge | [GraalVM 24](https://www.oracle.com/java/technologies/javase/graalvm-jdk24-archive-downloads.html) | - |
+| Forge | [Adoptium Java 21](https://adoptium.net/temurin/releases/?version=21&package=jre) | - |
 
 ## 1.16.5
 | Mod Loader | Java | Notes |
 |:---:|:---:|:---:|
 | Fabric | [Adoptium Java 25](https://adoptium.net/temurin/releases/?version=25&package=jre) | - |
 | Forge | [Adoptium Java 21](https://adoptium.net/temurin/releases/?version=21&package=jre) | I highly recommend using [these JVM arguments](https://github.com/embeddedt/ModernFix/wiki/1.16---required-arguments-for-Java-17), as well as [NashornCompatLayer](https://github.com/embeddedt/NashornCompatLayer/releases) |
-| Fabric/Forge | [Adoptium Java 8](https://adoptium.net/temurin/releases/?version=8&package=jre) | Use ONLY if you have a mod which doesn't work with Java 21 |
+| Fabric/Forge | [Adoptium Java 8](https://adoptium.net/temurin/releases/?version=8&package=jre) | Use ONLY if you have a mod which doesn't work with Java 21 or 25 |
 
 ## 1.12.2
 | Mod Loader | Java | Notes |
@@ -39,12 +39,11 @@
 
 # JVM Arguments
 
-Depending on the Java version, different JVM arguments are avaiable. Here's what I usually use:
+Depending on the Java version, different JVM arguments are available. Here's what I usually use:
 
 | Java version | JVM arguments |
 |:---:|:---:|
 | Java 25 | `-XX:+UseCompactObjectHeaders -XX:+UseZGC` |
-| Java 24 | `-XX:+UnlockExperimentalVMOptions -XX:+UseCompactObjectHeaders -XX:+UseZGC` |
 | Java 21 | `-XX:+UseZGC -XX:+ZGenerational` |
 | Java 8 | `-XX:+UseG1GC` |
 
@@ -59,8 +58,6 @@ Brief explanation of what these arguments do:
 `-XX:+ZGenerational` - Makes ZGC generational. Only necessary on Java 21 as ZGC is generational by default since Java 23.
 
 `-XX:+UseCompactObjectHeaders` - Enables Compact Object Headers. This feature reduces RAM usage and boosts performance a bit.
-
-`-XX:+UnlockExperimentalVMOptions` - Unlocks Experimental JVM Options. Necessary for using Compact Object Headers on Java 24
 
 ### Additional JVM arguments
 
