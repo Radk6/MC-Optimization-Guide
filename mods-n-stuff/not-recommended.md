@@ -245,7 +245,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Better Beds | Redundant with Enhanced Block Entities |
 | Better Biome Blend | Redundant with Sodium/Embeddium |
 | Better FPS - Render Distance | Might decrease fps on lower render distances, might cause visual bugs |
-| Chloride | Redundant with Embeddium | 
+| Chlorine | Redundant with Embeddium | 
 | Chunk Sending | Redundant with Krypton |
 | Client Crafting | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Dashloader | Redundant with ModernFix |
