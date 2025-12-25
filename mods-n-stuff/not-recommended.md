@@ -100,6 +100,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Noisium | Negligible performance improvement |
 | No See, No Tick | Redundant as Vanilla has a simulation distance option |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
+| OptiLeaves | Redundant with CullLessLeaves Reforged |
 | OptiPainting | Redundant with FastPaintings |
 | Out Of Sight | Redundant with Entity Culling |
 | Palladium | Negligible performance improvement |
@@ -162,6 +163,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Noisium (Unofficial Port) | Negligible performance improvement |
 | No See, No Tick | Redundant as Vanilla has a simulation distance option |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
+| OptiLeaves | Redundant with CullLessLeaves Reforged |
 | OptiPainting | Redundant with FastPaintings |
 | Out Of Sight | Redundant with Entity Culling |
 | Pluto | Redundant with KryptonFNP |
@@ -217,6 +219,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | NoisiumLegacy | Negligible performance improvement |
 | No See, No Tick | Redundant as Vanilla has a simulation distance option |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
+| OptiLeaves | Redundant with CullLessLeaves Reforged |
 | Out Of Sight | Redundant with Entity Culling |
 | Pluto | Redundant with KryptonFNP |
 | Radon | Redundant with Starlight |
