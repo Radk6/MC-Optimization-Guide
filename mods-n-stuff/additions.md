@@ -124,6 +124,7 @@ This doesn't mean you should just install all of them. Only use the ones you nee
 | Particle Culling | Culls particles, may be helpful in situations where there's a lot of them | Cleanroom | Client |
 | SerializationIsBad | Fixes the BleedingPipe/ObjectInputStream vulnerability | Cleanroom | Both |
 | Sledgehammer | Situational fixes for some mods | Cleanroom | Both |
+| Valkyrie | Various performance improvements and additional settings | Cleanroom | Client |
 
 </details>
 
