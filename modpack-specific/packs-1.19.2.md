@@ -4,7 +4,7 @@
   <summary>Click to see instructions</summary>
 
   
-1. Download the latest version of ATM 8
+1. Install the latest version of ATM 8
 2. Update Forge to the latest version
 3. Update Embeddium, Just Enough Items and ModernFix to their latest versions
 4. Remove Oculus and Saturn
@@ -20,7 +20,7 @@ Known issues: None (yet?)
 <details>
   <summary>Click to see instructions</summary>
   
-1. Download the latest version of Forever Factory
+1. Install the latest version of Forever Factory
 2. Update Forge to the latest version
 3. Update Just Enough Items to the latest version
 4. Remove Canary
