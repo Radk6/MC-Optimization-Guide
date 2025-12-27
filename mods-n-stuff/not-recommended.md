@@ -41,7 +41,8 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
 | Palladium | Negligible performance improvement |
 | Particle Core | Redundant with Async Particles |
-| Propane | AI-generated, negligible performance improvement |
+| Project-Unbound | AI-generated, no performance improvement |
+| Propane | AI-generated, no performance improvement |
 | Recipe Essentials | Mostly Redundant with FastFurnace, FastWorkbench and FastSuite |
 | Redirected | Compatibility issues, negligible performance improvement |
 | Saturn | Redundant with ModernFix, negligible performance improvement |
