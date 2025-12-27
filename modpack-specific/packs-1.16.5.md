@@ -3,7 +3,7 @@
 <details>
   <summary>Click to see instructions</summary>
 
-1. Download the latest version of ATM6
+1. Install the latest version of ATM6
 2. Update Forge to the latest version
 3. Update Embeddium, Just Enough Items, ModernFix and RoadRunner.
 4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed and configured accordingly
@@ -18,7 +18,7 @@ Known issues: None (yet?)
 <details>
   <summary>Click to see instructions</summary>
   
-1. Download the latest version of Chroma Technology 2
+1. Install the latest version of Chroma Technology 2
 2. Update Forge to the latest version
 3. Update FerriteCore and Just Enough Items to their latest versions
 4. Remove Halogen (Sodium Reforged)
@@ -33,7 +33,7 @@ Known issues: None (yet?)
 <details>
   <summary>Click to see instructions</summary>
   
-1. Download the latest version of Crazy Craft Updated
+1. Install the latest version of Crazy Craft Updated
 2. Update Forge to the latest version
 3. Remove Rubidium, Performant and Magnesium Extras
 4. Update Oculus
@@ -48,7 +48,7 @@ Known issues: Enabling `Dynamic Resources` in ModernFix' settings prevents the g
 <details>
   <summary>Click to see instructions</summary>
   
-1. Download the latest version of Create Above & Beyond
+1. Install the latest version of Create Above & Beyond
 2. Update Forge to the latest version
 3. Update JEI to the latest version
 4. Remove the Straw Golem mod - it's notorious for causing performance issues in this pack
@@ -64,7 +64,7 @@ Known issues: None (yet?)
 <details>
   <summary>Click to see instructions</summary>
   
-1. Download the latest version of Enigmatica 6
+1. Install the latest version of Enigmatica 6
 2. Update Forge to the latest version
 3. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed and configured accordingly
 4. Set the Java version to 21 and add [these jvm arguments](https://github.com/embeddedt/ModernFix/wiki/1.16---required-arguments-for-Java-17)
@@ -78,7 +78,7 @@ Known issues: None (yet?)
 <details>
   <summary>Click to see instructions</summary>
   
-1. Download the latest version of Mineshafts & Monsters
+1. Install the latest version of Mineshafts & Monsters
 2. Update Forge to the latest version
 3. Update JEI, RoadRunner, Snow! Real Magic!, Xaero's World Map and Xaero's Minimap to their latest versions
 4. Remove Magnesium and Sulfuric
@@ -94,7 +94,7 @@ Known issues: None (yet?)
 <details>
   <summary>Click to see instructions</summary>
   
-1. Download the latest version of Pixelmon OneBlock
+1. Install the latest version of Pixelmon OneBlock
 2. Update Forge to the latest version
 3. Update JEI to the latest version
 4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed and configured accordingly
@@ -109,7 +109,7 @@ Known issues: None (yet?)
 <details>
   <summary>Click to see instructions</summary>
   
-1. Download the latest version of Roguelike Adventures and Dungeons 2
+1. Install the latest version of Roguelike Adventures and Dungeons 2
 2. Update Forge to the latest version
 3. Update RoadRunner and ProjectMMO to their latest versions
 4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed and configured accordingly
@@ -124,7 +124,7 @@ Known issues: None (yet?)
 <details>
   <summary>Click to see instructions</summary>
   
-1. Download the latest version of SkyFactory One
+1. Install the latest version of SkyFactory One
 2. Update Forge to the latest version
 3. Update JEI to the latest version
 4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed and configured accordingly
@@ -139,7 +139,7 @@ Known issues: None (yet?)
 <details>
   <summary>Click to see instructions</summary>
   
-1. Download the latest version of The Winter Rescue
+1. Install the latest version of The Winter Rescue
 2. Update Forge to the latest version
 3. Update FerriteCore and JEI to their latest versions
 4. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.16.5.md) installed (Except LazyDFU!)
