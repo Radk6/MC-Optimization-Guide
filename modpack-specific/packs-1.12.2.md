@@ -95,8 +95,8 @@ Known issues: None (yet?)
    - **(Prism/MultiMC)** - Download the latest [Cleanroom Loader MMC instance](https://download.cleanroommc.com) and copy the `minecraft` (or `.minecraft`) folder from the Divine Journey 2 instance to it.
    - **(CurseForge/Modrinth/ATLauncher/GDLauncher)** - Install the Cleanroom Relauncher mod
 3. Update JEI Utilities, Recurrent Complex, VintageFix and Universal Tweaks
-4. Remove Bed Patch, Clumps, ConfigAnytime, FermiumASM, FermiumBooter, Just Enough Items, MixinBooter, NotEnoughIDs, Quark, Shadowfacts' Forgelin and Spark
-5. Install Forgelin-Continuous, Fugue, Had Enough Items, Quark: RotN Edition, Roughly Enough IDs and Scalar Legacy
+4. Remove Clumps, ConfigAnytime, FermiumASM, Just Enough Items, MixinBooter, NotEnoughIDs and Spark
+5. Install Fugue, Had Enough Items, Roughly Enough IDs, CensoredASM, Flare and Scalar Legacy
 6. Make sure you have all of [these mods](https://github.com/Radk6/MC-Optimization-Guide/blob/main/mods-n-stuff/1.12.2.md) installed and configured accordingly
 
 Known issues: None (yet?)
