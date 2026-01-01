@@ -314,6 +314,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | CoFH Tweaks | Redundant with ArchaicFix |
 | FastCraft | Incompatible with Angelica |
 | Flying Cullers | Incompatible with Beddium |
+| FpsPlus | Compatibility issues, negligible performance improvement |
 | LeafCulling | Redundant with Angelica/NotFine |
 | Neodymium | Incompatible with Angelica/Beddium |
 | OptiFine | [Various reasons](opti-not-so-fine.md) |
