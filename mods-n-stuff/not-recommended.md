@@ -283,6 +283,7 @@ This list assumes that you're already using every mod this guide recommends. Fur
 | Mod | Reason |
 |:---:|:---:|
 | AI Improvements | Redundant with UniversalTweaks |
+| Better Biome Blend Continued | AI-generated, no significant changes over the original |
 | BettererBiomerBlender | Doesn't actually fix any issues with the original mod |
 | BetterFPS | Compatibility issues, negligible performance improvement |
 | Born in a Barn | Redundant, fix already present in Forge/Cleanroom |
