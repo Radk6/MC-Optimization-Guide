@@ -19,6 +19,7 @@ Inspired by [UsefulMods](https://github.com/TheUsefulLists/UsefulMods) and vario
 | [1.16.5](mods-n-stuff/1.16.5.md) |
 | [1.12.2](mods-n-stuff/1.12.2.md) |
 | [1.7.10](mods-n-stuff/1.7.10.md) |
+| [1.8.9](mods-n-stuff/1.8.9.md) |
 
 | Indicator | Explanation |
 |:---:|:---:|
